@@ -26,3 +26,5 @@ pnpm-debug.log*
 # raw WordPress dump (user records) and redirection logs: keep local
 export/
 data/redirection-export.json
+
+.wrangler/
