@@ -58,6 +58,20 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+    <meta name="google-site-verification" content="Eke5l-kNK8QsfvsIf2a-3XcCL0H5rbMRzt5Be0oObWc" />
+    <script is:inline>
+      // Google tag from the old WordPress site (Site Kit). Production hostnames only, so previews do not count.
+      if (/^(www\.)?easyguideindia\.in$/.test(location.hostname)) {
+        var g = document.createElement('script');
+        g.async = true;
+        g.src = 'https://www.googletagmanager.com/gtag/js?id=GT-M34B4S4P';
+        document.head.appendChild(g);
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        window.gtag('js', new Date());
+        window.gtag('config', 'GT-M34B4S4P');
+      }
+    </script>
     {ads && <script is:inline async src={AD_LOADER} crossorigin="anonymous"></script>}
     <slot name="head" />
   </head>

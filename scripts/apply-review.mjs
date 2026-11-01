@@ -40,6 +40,8 @@ for (const r of plugin.redirects.filter((x) => x.enabled && x.action_code === 30
 }
 for (const r of rows.filter((x) => x.action === 'REDIRECT')) map.set(`/${r.path}/`, r.to);
 map.set('/blog/', '/stadiums/');
+// A worksheet row with no sibling target used to leave "//" behind. Send those to the stadium hub.
+for (const [src, dest] of map) if (dest === '//' || dest === '') map.set(src, '/stadiums/');
 
 const resolve = (dest) => {
   const seen = new Set();
