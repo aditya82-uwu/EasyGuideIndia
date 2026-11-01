@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Punjab Kings"
 published: 2026-03-31
 updated: 2026-09-27
+faqs:
+  - { q: "Where can I park for a match at Mullanpur stadium?", a: "In the public lots P4, P5 and P6 (₹200 for cars, ₹100 for two-wheelers), bookable on the Show My Parking app." }
+  - { q: "How far is Mullanpur stadium from Chandigarh?", a: "About 15 km from central Chandigarh, in New Chandigarh. Allow extra time on match days." }
 quick:
   - { q: "Public parking", a: "Paid lots P4, P5, P6. Book on Show My Parking", tone: info }
   - { q: "Parking fee", a: "Rs 200 car, Rs 100 two-wheeler (as reported)", tone: info }
@@ -43,16 +46,6 @@ _Chandigarh and Punjab police issue traffic plans before big matches. Check the 
 -   Use the gate printed on your ticket. The stadium has 13 gates.
 -   Gates usually open a couple of hours before the start, so arrive early.
 -   As at other IPL venues, don’t carry power banks, bags, outside food or water bottles, coins, lighters, cigarettes, helmets or sharp objects. See our [IPL stadium entry rules guide](/finance/ipl-2026-stadium-entry-rules-mandatory-documents/).
-
-## Frequently asked questions
-
-### Where can I park for a match at Mullanpur stadium?
-
-In the public lots P4, P5 and P6 (₹200 for cars, ₹100 for two-wheelers), bookable on the Show My Parking app.
-
-### How far is Mullanpur stadium from Chandigarh?
-
-About 15 km from central Chandigarh, in New Chandigarh. Allow extra time on match days.
 
 ## Related guides
 

@@ -5,6 +5,10 @@ description: "COMEX explained: US gold and silver futures benchmark, contract si
 section: finance
 published: 2026-02-05
 updated: 2026-09-27
+faqs:
+  - { q: "Where can I see the COMEX gold price?", a: "On CME Group’s website (the delayed quotes are free), or on most financial news sites and broker apps under “Gold futures (GC)”." }
+  - { q: "Can Indians trade on COMEX?", a: "Retail investors in India generally trade gold through MCX futures, gold ETFs or gold mutual funds rather than COMEX. Trading foreign derivatives is restricted under RBI’s Liberalised Remittance Scheme rules." }
+  - { q: "Why is Indian gold costlier than the COMEX price converted to rupees?", a: "Because of import duty (15% since the 2026 hike) and 3% GST, plus making charges on jewellery." }
 ---
 **COMEX** is the metals futures exchange in New York where the world’s most-watched gold and silver prices are set. When you see “COMEX gold” or “COMEX silver” in the news, it means the price of futures contracts traded there, quoted in **US dollars per troy ounce**. Indian gold and silver prices follow COMEX closely, after adding the rupee exchange rate, import duty and GST.
 
@@ -49,20 +53,6 @@ More on this in [what affects gold prices in India](/finance/what-affects-gold-p
 ## Does COMEX affect the Indian stock market?
 
 Not directly. It mainly affects gold and silver ETFs, jewellery companies, gold-loan companies (NBFCs), and India’s import bill. That bill in turn affects the rupee.
-
-## Frequently asked questions
-
-### Where can I see the COMEX gold price?
-
-On CME Group’s website (the delayed quotes are free), or on most financial news sites and broker apps under “Gold futures (GC)”.
-
-### Can Indians trade on COMEX?
-
-Retail investors in India generally trade gold through MCX futures, gold ETFs or gold mutual funds rather than COMEX. Trading foreign derivatives is restricted under RBI’s Liberalised Remittance Scheme rules.
-
-### Why is Indian gold costlier than the COMEX price converted to rupees?
-
-Because of import duty (15% since the 2026 hike) and 3% GST, plus making charges on jewellery.
 
 ## Related guides
 

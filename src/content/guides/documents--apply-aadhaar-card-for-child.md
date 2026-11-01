@@ -5,6 +5,10 @@ description: "Apply for a free Baal Aadhaar (blue Aadhaar) for a newborn or chil
 section: documents
 published: 2026-03-26
 updated: 2026-09-27
+faqs:
+  - { q: "Can I get Aadhaar for a newborn baby?", a: "Yes. Newborns can be enrolled for Baal Aadhaar using the birth certificate and a parent’s Aadhaar." }
+  - { q: "Is there any fee for Baal Aadhaar?", a: "No. Aadhaar enrolment is free." }
+  - { q: "Why is the child’s Aadhaar blue?", a: "The Baal Aadhaar is printed in blue to show it belongs to a child under five without biometrics." }
 ---
 Children, even newborns, can get an Aadhaar. For children **below 5 years**, UIDAI issues a **Baal Aadhaar** (often called the “blue Aadhaar”). No fingerprints or iris scans are taken; it’s linked to a parent’s Aadhaar. Enrolment is **free**. Here’s who’s eligible, what documents you need, and what happens when your child turns 5 and 15.
 
@@ -33,20 +37,6 @@ The child must give fingerprints, iris scans and a new photo (a **mandatory biom
 ## Check your child’s Aadhaar status
 
 Use the EID on the [enrolment and update status page](/documents/check-aadhaar-update-status/).
-
-## Frequently asked questions
-
-### Can I get Aadhaar for a newborn baby?
-
-Yes. Newborns can be enrolled for Baal Aadhaar using the birth certificate and a parent’s Aadhaar.
-
-### Is there any fee for Baal Aadhaar?
-
-No. Aadhaar enrolment is free.
-
-### Why is the child’s Aadhaar blue?
-
-The Baal Aadhaar is printed in blue to show it belongs to a child under five without biometrics.
 
 ## Related guides
 

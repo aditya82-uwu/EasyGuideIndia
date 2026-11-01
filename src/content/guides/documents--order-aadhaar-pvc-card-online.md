@@ -5,6 +5,9 @@ description: "Order the Aadhaar PVC card online on myAadhaar for ₹75, even wit
 section: documents
 published: 2026-03-11
 updated: 2026-09-27
+faqs:
+  - { q: "Can I order an Aadhaar PVC card without a registered mobile?", a: "Yes. Choose the non-registered/alternate mobile number option and receive the OTP on any mobile number." }
+  - { q: "Is the PVC card mandatory?", a: "No. The paper Aadhaar letter, e-Aadhaar printout and PVC card are all valid. The PVC card is just more durable." }
 ---
 The **Aadhaar PVC card** is a durable, wallet-size plastic card with a QR code, hologram and your photo, printed by UIDAI and sent to your address by Speed Post. You can order it online for **₹75** (revised from ₹50 in January 2026), even if your mobile number isn’t registered with Aadhaar.
 
@@ -30,16 +33,6 @@ The **Aadhaar PVC card** is a durable, wallet-size plastic card with a QR code, 
 ## Track your PVC card order
 
 On myAadhaar, use **Check Aadhaar PVC Card Status** with your SRN. Once it’s dispatched, track it on India Post’s website using the Speed Post number in your SMS.
-
-## Frequently asked questions
-
-### Can I order an Aadhaar PVC card without a registered mobile?
-
-Yes. Choose the non-registered/alternate mobile number option and receive the OTP on any mobile number.
-
-### Is the PVC card mandatory?
-
-No. The paper Aadhaar letter, e-Aadhaar printout and PVC card are all valid. The PVC card is just more durable.
 
 ## Related guides
 

@@ -5,6 +5,9 @@ description: "What moves crude oil prices: OPEC+, demand, inventories and wars (
 section: finance
 published: 2026-03-09
 updated: 2026-09-27
+faqs:
+  - { q: "How much does a $10 rise in crude affect India?", a: "It raises the import bill by billions of dollars a year and adds to inflation and pressure on the rupee. The exact effect depends on the exchange rate and how much of the rise is passed on at the pump." }
+  - { q: "Where can I see official Indian fuel prices?", a: "PPAC (ppac.gov.in) publishes the Indian basket crude price and retail selling prices. Oil companies’ websites and apps show the current price in your city." }
 ---
 **Crude oil prices** rise or fall with the balance between global supply and demand. Supply depends on OPEC+ output, US shale production and shipping routes. Demand depends on economic growth, especially in the US, China and India. Wars and supply shocks move prices fastest, because they threaten supply overnight. India imports close to 90% of the crude it uses, so these swings affect petrol, diesel and LPG prices, inflation and the rupee.
 
@@ -50,16 +53,6 @@ Petrol (since 2010) and diesel (since 2014) prices are market-linked on paper, a
 ## LPG and oil shocks
 
 India imports more than half of the LPG it uses, mostly from Gulf countries. A disruption around Hormuz therefore hits cooking gas supply as well as crude. Domestic LPG cylinder prices are revised by the oil companies, usually at the start of the month. Subsidy, where applicable, is paid to the bank account: see [LPG subsidy status check](/documents/).
-
-## Frequently asked questions
-
-### How much does a $10 rise in crude affect India?
-
-It raises the import bill by billions of dollars a year and adds to inflation and pressure on the rupee. The exact effect depends on the exchange rate and how much of the rise is passed on at the pump.
-
-### Where can I see official Indian fuel prices?
-
-PPAC (ppac.gov.in) publishes the Indian basket crude price and retail selling prices. Oil companies’ websites and apps show the current price in your city.
 
 ## Related guides
 

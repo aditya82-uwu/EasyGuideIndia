@@ -5,6 +5,10 @@ description: "Sensex, Nifty 50 and Bank Nifty compared: exchange, number of stoc
 section: finance
 published: 2026-02-12
 updated: 2026-09-27
+faqs:
+  - { q: "Which is better to invest in, Sensex or Nifty?", a: "You can’t buy an index directly. You invest through an index fund or ETF. Nifty 50 funds are more common and slightly more diversified, but long-term returns of the two have been very similar." }
+  - { q: "Why do Sensex and Nifty points differ so much?", a: "They started from different base values and years, so the point levels aren’t comparable. Compare percentage changes instead." }
+  - { q: "How many stocks are in Bank Nifty now?", a: "At least 14, under SEBI’s rules for derivative indices. Check the current list in the Nifty Bank factsheet on niftyindices.com." }
 ---
 **Sensex, Nifty 50 and Bank Nifty** are stock market indices. Each one tracks a basket of shares so you can see in one number how the market, or a sector, is doing. The Sensex tracks 30 large companies on the BSE, the Nifty 50 tracks 50 on the NSE, and Bank Nifty tracks the biggest banking stocks on the NSE.
 
@@ -53,20 +57,6 @@ SEBI studies have repeatedly found that most individual traders lose money in fu
 ## Where to see live values
 
 Check live and historical values on the official **NSE** and **BSE** websites, or **niftyindices.com** for index factsheets and constituent lists. The market is open 9:15 am to 3:30 pm IST, Monday to Friday, except exchange holidays.
-
-## Frequently asked questions
-
-### Which is better to invest in, Sensex or Nifty?
-
-You can’t buy an index directly. You invest through an index fund or ETF. Nifty 50 funds are more common and slightly more diversified, but long-term returns of the two have been very similar.
-
-### Why do Sensex and Nifty points differ so much?
-
-They started from different base values and years, so the point levels aren’t comparable. Compare percentage changes instead.
-
-### How many stocks are in Bank Nifty now?
-
-At least 14, under SEBI’s rules for derivative indices. Check the current list in the Nifty Bank factsheet on niftyindices.com.
 
 ## Related guides
 

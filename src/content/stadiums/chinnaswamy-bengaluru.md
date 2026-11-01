@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Royal Challengers Bengaluru"
 published: 2026-07-29
 updated: 2026-09-27
+faqs:
+  - { q: "Which metro station is nearest to Chinnaswamy Stadium?", a: "Cubbon Park and MG Road on the Purple Line are both within walking distance." }
+  - { q: "Where can I park for an RCB match?", a: "At designated parking such as Freedom Park or UB City. Most roads around the stadium are no-parking zones on match days." }
 quick:
   - { q: "Nearest metro", a: "Cubbon Park and MG Road (Purple Line)", tone: info }
   - { q: "Parking", a: "Freedom Park, UB City, other designated spots", tone: info }
@@ -42,16 +45,6 @@ _Bengaluru Traffic Police issues an advisory before each match. Check the latest
 -   Selfie sticks, umbrellas, helmets and pens
 -   Perfumes, gels, toys and toy guns
 -   Cigarettes, bidis, gutka and supari
-
-## Frequently asked questions
-
-### Which metro station is nearest to Chinnaswamy Stadium?
-
-Cubbon Park and MG Road on the Purple Line are both within walking distance.
-
-### Where can I park for an RCB match?
-
-At designated parking such as Freedom Park or UB City. Most roads around the stadium are no-parking zones on match days.
 
 ## Related guides
 

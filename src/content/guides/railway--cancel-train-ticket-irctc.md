@@ -5,6 +5,9 @@ description: "Cancel an IRCTC e-ticket or counter ticket online in minutes, canc
 section: railway
 published: 2026-03-04
 updated: 2026-09-27
+faqs:
+  - { q: "How long does an IRCTC refund take?", a: "Usually a few working days, depending on your bank or payment method." }
+  - { q: "Can I cancel after the chart is prepared?", a: "Confirmed tickets can’t be cancelled for a refund close to departure (see the rules). You may need to file a TDR instead." }
 ---
 You can cancel an IRCTC e-ticket online in under a minute, on the IRCTC website or the **IRCTC Rail Connect** app. The refund goes back to your payment method. Counter tickets can also be cancelled online if you have the PNR and the mobile number used during booking.
 
@@ -26,16 +29,6 @@ You can cancel an IRCTC e-ticket online in under a minute, on the IRCTC website 
 ## How much will I get back?
 
 It depends on how early you cancel and the ticket status. See the full [IRCTC refund rules](/railway/irctc-refund-rules/). In short: cancelling more than 72 hours before departure costs only a flat charge, while cancelling less than 8 hours before gives no refund on a confirmed ticket.
-
-## Frequently asked questions
-
-### How long does an IRCTC refund take?
-
-Usually a few working days, depending on your bank or payment method.
-
-### Can I cancel after the chart is prepared?
-
-Confirmed tickets can’t be cancelled for a refund close to departure (see the rules). You may need to file a TDR instead.
 
 ## Related guides
 

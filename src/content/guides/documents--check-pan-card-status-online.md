@@ -5,6 +5,9 @@ description: "Track your new PAN or correction application with the acknowledgem
 section: documents
 published: 2026-03-09
 updated: 2026-09-27
+faqs:
+  - { q: "How long does a new PAN take?", a: "Instant e-PAN is usually allotted within minutes. Protean/UTIITSL applications typically take a couple of weeks for the physical card." }
+  - { q: "I lost my acknowledgement number. What now?", a: "Check the confirmation email or SMS you received after paying, or contact the agency you applied with." }
 ---
 Applied for a new PAN or a correction and want to know where it is? You can track it online with your **acknowledgement number**. Where you check depends on where you applied: the Income Tax portal (instant e-PAN), Protean (NSDL) or UTIITSL.
 
@@ -36,16 +39,6 @@ Applied for a new PAN or a correction and want to know where it is? You can trac
 | PAN allotted | Your PAN number is ready. Download the e-PAN; the physical card follows by post. |
 | Dispatched | Track the card with the India Post consignment number |
 | Discrepancy / objection | Respond with the requested document or correction |
-
-## Frequently asked questions
-
-### How long does a new PAN take?
-
-Instant e-PAN is usually allotted within minutes. Protean/UTIITSL applications typically take a couple of weeks for the physical card.
-
-### I lost my acknowledgement number. What now?
-
-Check the confirmation email or SMS you received after paying, or contact the agency you applied with.
 
 ## Related guides
 

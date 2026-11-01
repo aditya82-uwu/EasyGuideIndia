@@ -5,6 +5,8 @@ description: "Get live train running status without internet: SMS SPOT to 139 or
 section: railway
 published: 2026-04-12
 updated: 2026-09-27
+faqs:
+  - { q: "Is 139 a free number?", a: "Calls to 139 are charged at normal rates by most operators; SMS may carry standard charges." }
 ---
 No internet on the platform? You can get the **live running status** of any train by **SMS** or a **call to 139**, Indian Railways’ integrated helpline (Rail Madad). Here’s the exact SMS format, plus the online options.
 
@@ -29,12 +31,6 @@ Call **139** from any phone and follow the IVR menu for train enquiry. Enter the
 | --- | --- |
 | PNR status | PNR <10-digit PNR> |
 | Train running status | SPOT <train number> |
-
-## Frequently asked questions
-
-### Is 139 a free number?
-
-Calls to 139 are charged at normal rates by most operators; SMS may carry standard charges.
 
 ## Related guides
 

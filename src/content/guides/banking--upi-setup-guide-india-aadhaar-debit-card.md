@@ -5,6 +5,9 @@ description: "Set up UPI in any app, create a UPI ID and set your UPI PIN with a
 section: banking
 published: 2026-04-05
 updated: 2026-09-27
+faqs:
+  - { q: "Can I use UPI without a debit card?", a: "Yes. Set your UPI PIN with Aadhaar OTP, if your bank supports it and your Aadhaar and mobile are linked to the account." }
+  - { q: "Can I use UPI without internet?", a: "Yes, for basic functions, via the **\\*99#** USSD service. See [checking balance without an app](/banking/check-bank-balance-without-app/)." }
 ---
 **UPI** lets you send and receive money instantly from your bank account using just a phone. Setting it up takes a few minutes. You can set your **UPI PIN** with your **debit card**, or with **Aadhaar OTP** if you don’t have a debit card. Here’s how.
 
@@ -34,16 +37,6 @@ updated: 2026-09-27
 -   You **never need a PIN to receive money**. If someone asks you to enter your PIN “to receive”, it’s a scam.
 -   Never share your UPI PIN or OTP.
 -   Report fraud on **1930** or [cybercrime.gov.in](https://cybercrime.gov.in/).
-
-## Frequently asked questions
-
-### Can I use UPI without a debit card?
-
-Yes. Set your UPI PIN with Aadhaar OTP, if your bank supports it and your Aadhaar and mobile are linked to the account.
-
-### Can I use UPI without internet?
-
-Yes, for basic functions, via the **\*99#** USSD service. See [checking balance without an app](/banking/check-bank-balance-without-app/).
 
 ## Related guides
 

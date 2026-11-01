@@ -5,6 +5,10 @@ description: "Why gold prices in India rise or fall: global price, US rates, the
 section: finance
 published: 2026-02-07
 updated: 2026-09-27
+faqs:
+  - { q: "Why did gold prices fall after rising so fast?", a: "Usually a mix of profit-booking, a stronger dollar or expected higher US interest rates. In India, a stronger rupee or a cut in import duty also lowers prices." }
+  - { q: "Is this a good time to buy gold?", a: "Nobody can reliably time gold. Many people buy in small, regular amounts (for example through a gold fund SIP) instead of trying to pick the bottom. This is general information, not investment advice." }
+  - { q: "How is tax on gold calculated when I sell?", a: "Physical gold, gold ETFs and gold funds held longer than the long-term period (24 months for physical gold and gold funds, 12 months for listed gold ETFs) are taxed at 12.5% without indexation. Gains within that period are taxed at your slab rate. _Sources: [World Gold Council](https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening), [IBJA](https://ibjarates.com/), [SEBI](https://www.sebi.gov.in/), [BIS](https://www.bis.gov.in/), [DICGC](https://www.dicgc.org.in/). General information, not investment advice._" }
 ---
 **Gold prices in India** depend on three things: the international price (set mainly on COMEX and in London), the **rupee–dollar exchange rate**, and **taxes** (import duty and GST). Local demand during weddings and festivals adds a smaller effect. This guide explains each factor, why prices rise or fall, and how gold compares with silver and fixed deposits.
 
@@ -61,19 +65,3 @@ For a reliable reference rate, use the **IBJA** (India Bullion and Jewellers Ass
 -   An **FD** gives a fixed, known return, and deposits up to ₹5 lakh per bank are insured by DICGC. Interest is taxed at your slab rate.
 -   **Gold** pays no interest. Its return comes only from price changes, which can be large in either direction over short periods.
 -   They do different jobs: an FD for certainty and emergency money, gold as a long-term hedge against inflation, a weaker rupee and crises.
-
-## Frequently asked questions
-
-### Why did gold prices fall after rising so fast?
-
-Usually a mix of profit-booking, a stronger dollar or expected higher US interest rates. In India, a stronger rupee or a cut in import duty also lowers prices.
-
-### Is this a good time to buy gold?
-
-Nobody can reliably time gold. Many people buy in small, regular amounts (for example through a gold fund SIP) instead of trying to pick the bottom. This is general information, not investment advice.
-
-### How is tax on gold calculated when I sell?
-
-Physical gold, gold ETFs and gold funds held longer than the long-term period (24 months for physical gold and gold funds, 12 months for listed gold ETFs) are taxed at 12.5% without indexation. Gains within that period are taxed at your slab rate.
-
-_Sources: [World Gold Council](https://www.gold.org/goldhub/gold-focus/2026/05/india-gold-market-update-import-tightening), [IBJA](https://ibjarates.com/), [SEBI](https://www.sebi.gov.in/), [BIS](https://www.bis.gov.in/), [DICGC](https://www.dicgc.org.in/). General information, not investment advice._

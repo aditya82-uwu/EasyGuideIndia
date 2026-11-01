@@ -5,6 +5,8 @@ description: "Find and book festival and holiday special trains: 0-prefix train 
 section: railway
 published: 2026-04-26
 updated: 2026-09-27
+faqs:
+  - { q: "Are special train tickets refundable?", a: "Normal cancellation rules generally apply unless Railways notifies otherwise. See [IRCTC refund rules](/railway/irctc-refund-rules/)." }
 ---
 During festivals (Diwali, Chhath, Holi), summer holidays and big events, Indian Railways runs **special trains** on busy routes. They’re bookable on IRCTC like regular trains, but they’re announced at short notice and often carry **special fares**. Here’s how to find and book them.
 
@@ -25,12 +27,6 @@ During festivals (Diwali, Chhath, Holi), summer holidays and big events, Indian 
 -   The **advance booking period** can be shorter than the usual 60 days, as specials are notified later.
 -   Fares may be **special fares**, higher than regular trains on the same route.
 -   Tatkal quota may or may not be available, depending on the train.
-
-## Frequently asked questions
-
-### Are special train tickets refundable?
-
-Normal cancellation rules generally apply unless Railways notifies otherwise. See [IRCTC refund rules](/railway/irctc-refund-rules/).
 
 ## Related guides
 

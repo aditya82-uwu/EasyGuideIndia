@@ -10,6 +10,9 @@ country: "UK"
 homeTeam: "Warwickshire"
 published: 2026-06-11
 updated: 2026-09-27
+faqs:
+  - { q: "How do I get to Edgbaston from Birmingham New Street?", a: "Take the 501 Shuttle Bus from Smallbrook Queensway outside New Street station, or bus 45 or 47 to Pershore Road." }
+  - { q: "Can I bring my own food to Edgbaston?", a: "Yes, but no glass bottles, and no alcohol for international matches." }
 quick:
   []
 ---
@@ -35,16 +38,6 @@ Book official parking in advance at the off-site car parks. On match days thereâ
 -   **Bags:** avoid large bags if possible. All bags and spectators are searched on arrival.
 -   **Food:** you can bring your own food and non-alcoholic drinks, but no glass bottles.
 -   **Alcohol:** **not allowed** for international matches, T20 Blast (including Finals Day) and The Hundred. For County Championship and One-Day Cup matches, _members_ may bring up to four cans of beer or one bottle of wine.
-
-## Frequently asked questions
-
-### How do I get to Edgbaston from Birmingham New Street?
-
-Take the 501 Shuttle Bus from Smallbrook Queensway outside New Street station, or bus 45 or 47 to Pershore Road.
-
-### Can I bring my own food to Edgbaston?
-
-Yes, but no glass bottles, and no alcohol for international matches.
 
 ## Related guides
 

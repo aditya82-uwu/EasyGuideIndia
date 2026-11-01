@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Rajasthan Royals"
 published: 2026-05-01
 updated: 2026-09-27
+faqs:
+  - { q: "Is there parking at Sawai Mansingh Stadium?", a: "Only limited parking. Police set up a no-parking zone around the stadium on match days, so public transport or a cab drop is easier." }
+  - { q: "Which bus stop is nearest to SMS Stadium?", a: "Rambagh Circle and Nagar Nigam (Lal Kothi)." }
 quick:
   - { q: "Nearest bus stops", a: "Rambagh Circle, Nagar Nigam (Lal Kothi)", tone: info }
   - { q: "Nearest train", a: "Gandhinagar Jaipur. Jaipur Junction by cab", tone: info }
@@ -41,16 +44,6 @@ Parking is limited. Traffic police enforce a **no-parking ring** around the stad
 -   Your gate and stand are printed on your ticket. Different stands use different gates.
 -   Reach the stadium early; security checks take time for evening matches.
 -   **Not allowed:** bags, bottles, cameras, lighters and outside food, plus power banks, coins, cigarettes, helmets and sharp objects as at other IPL venues. See our [IPL stadium entry rules guide](/finance/ipl-2026-stadium-entry-rules-mandatory-documents/).
-
-## Frequently asked questions
-
-### Is there parking at Sawai Mansingh Stadium?
-
-Only limited parking. Police set up a no-parking zone around the stadium on match days, so public transport or a cab drop is easier.
-
-### Which bus stop is nearest to SMS Stadium?
-
-Rambagh Circle and Nagar Nigam (Lal Kothi).
 
 ## Related guides
 

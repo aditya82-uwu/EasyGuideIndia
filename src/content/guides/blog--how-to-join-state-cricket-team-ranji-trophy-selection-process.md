@@ -5,6 +5,10 @@ description: "Get into your state cricket team: affiliated clubs, district trial
 section: blog
 published: 2026-07-29
 updated: 2026-09-27
+faqs:
+  - { q: "Is there a fee for state trials?", a: "Official district and state trials are free or charge only a nominal registration fee set by the association. Be wary of private “selection” events that charge large fees or promise state or IPL selection." }
+  - { q: "Can I play for another state?", a: "Yes, but you’ll need to meet the new association’s residence or eligibility rules, and usually a no-objection certificate from your current association." }
+  - { q: "What is the age limit for under-19 cricket?", a: "You must be under 19 on the cut-off date the BCCI sets for that season (usually 1 September). Check your association’s circular for the exact date." }
 ---
 To **join a state cricket team** in India and play the Ranji Trophy, you need to come up through your state association’s system: an affiliated club or academy, district trials, inter-district tournaments, state age-group teams, and then the senior squad. This guide explains each stage, the BCCI tournaments at each age, and the documents you’ll need.
 
@@ -46,20 +50,6 @@ The BCCI also runs a full women’s domestic calendar (under-15, under-19, under
 ## 6\. From state cricket to the IPL and India
 
 Performances in the Ranji Trophy, Vijay Hazare Trophy and especially the Syed Mushtaq Ali Trophy (T20) are closely watched by IPL scouts and national selectors. See [how to join the IPL](/blog/how-to-join-ipl-cricket-trials-selection-process/).
-
-## Frequently asked questions
-
-### Is there a fee for state trials?
-
-Official district and state trials are free or charge only a nominal registration fee set by the association. Be wary of private “selection” events that charge large fees or promise state or IPL selection.
-
-### Can I play for another state?
-
-Yes, but you’ll need to meet the new association’s residence or eligibility rules, and usually a no-objection certificate from your current association.
-
-### What is the age limit for under-19 cricket?
-
-You must be under 19 on the cut-off date the BCCI sets for that season (usually 1 September). Check your association’s circular for the exact date.
 
 ## Related guides
 

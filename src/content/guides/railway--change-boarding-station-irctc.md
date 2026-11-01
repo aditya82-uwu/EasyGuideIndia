@@ -5,6 +5,9 @@ description: "Change your train boarding point online up to 30 minutes before de
 section: railway
 published: 2026-03-12
 updated: 2026-09-27
+faqs:
+  - { q: "What is a boarding station?", a: "The station where you actually get on the train, which can be different from the “from” station you searched." }
+  - { q: "Can I change the boarding point on a counter ticket?", a: "Yes, at a reservation counter (or as allowed online), following the same rules." }
 ---
 Need to board your train at a different station than the one on your ticket? You can change your **boarding point** online on IRCTC. Since the rules revised in April 2026, you can do it **up to 30 minutes before the train’s scheduled departure** (earlier, only until chart preparation).
 
@@ -23,16 +26,6 @@ Need to board your train at a different station than the one on your ticket? You
 3.  Click **Change Boarding Point**.
 4.  Pick the new station from the list and confirm.
 5.  You’ll get an SMS confirming the change.
-
-## Frequently asked questions
-
-### What is a boarding station?
-
-The station where you actually get on the train, which can be different from the “from” station you searched.
-
-### Can I change the boarding point on a counter ticket?
-
-Yes, at a reservation counter (or as allowed online), following the same rules.
 
 ## Related guides
 

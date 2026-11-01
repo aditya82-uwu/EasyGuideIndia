@@ -5,6 +5,9 @@ description: "Register for a free e-Shram card as an unorganised worker: eligibi
 section: documents
 published: 2026-03-16
 updated: 2026-09-27
+faqs:
+  - { q: "Is e-Shram registration free?", a: "Yes. Registration is free on the portal and at CSCs." }
+  - { q: "Will I get money every month after registering?", a: "No. e-Shram doesn’t pay a monthly amount; it links you to schemes. See our [e-Shram status guide](/documents/e-shram-card-status-check/)." }
 ---
 If you work in the unorganised sector (daily-wage labour, construction, domestic work, farm work, street vending, delivery or gig work, and similar), you can register for an **e-Shram card** for free. Registration gives you a **12-digit UAN** and connects you to social security schemes. Here’s who can register and how.
 
@@ -30,16 +33,6 @@ If you work in the unorganised sector (daily-wage labour, construction, domestic
 5.  Submit and download your **e-Shram UAN card**.
 
 If your mobile isn’t linked to Aadhaar, register at a **Common Service Centre (CSC)** with biometric authentication. It’s free there too.
-
-## Frequently asked questions
-
-### Is e-Shram registration free?
-
-Yes. Registration is free on the portal and at CSCs.
-
-### Will I get money every month after registering?
-
-No. e-Shram doesn’t pay a monthly amount; it links you to schemes. See our [e-Shram status guide](/documents/e-shram-card-status-check/).
 
 ## Related guides
 

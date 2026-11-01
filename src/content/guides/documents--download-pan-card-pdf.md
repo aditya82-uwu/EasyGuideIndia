@@ -5,6 +5,9 @@ description: "Download your e-PAN from the Income Tax portal, Protean (NSDL) or 
 section: documents
 published: 2026-03-20
 updated: 2026-09-27
+faqs:
+  - { q: "Is a downloaded e-PAN valid?", a: "Yes. e-PAN is a valid proof of PAN, just like the physical card." }
+  - { q: "I need a physical card. What should I do?", a: "[Order a PAN card reprint](/documents/pan-card-reprint-online/). It’s delivered by post." }
 ---
 An **e-PAN** is a digitally signed PDF of your PAN card, valid everywhere as proof of PAN. You can download it online, often free, from the Income Tax portal, Protean (NSDL) or UTIITSL, depending on how your PAN was issued. Here’s how, plus the PDF password.
 
@@ -33,16 +36,6 @@ An **e-PAN** is a digitally signed PDF of your PAN card, valid everywhere as pro
 ## e-PAN PDF password
 
 The password is usually your **date of birth in DDMMYYYY format** (for example, 15 August 1995 = 15081995). For companies and firms, it’s the date of incorporation.
-
-## Frequently asked questions
-
-### Is a downloaded e-PAN valid?
-
-Yes. e-PAN is a valid proof of PAN, just like the physical card.
-
-### I need a physical card. What should I do?
-
-[Order a PAN card reprint](/documents/pan-card-reprint-online/). It’s delivered by post.
 
 ## Related guides
 

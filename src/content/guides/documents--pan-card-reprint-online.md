@@ -5,6 +5,9 @@ description: "Lost your PAN card? Order a reprint of the same PAN online from Pr
 section: documents
 published: 2026-02-26
 updated: 2026-09-27
+faqs:
+  - { q: "Can I get a reprint if my address has changed?", a: "The reprint goes to the address in the PAN records. If you’ve moved, apply for a change of address in PAN data instead." }
+  - { q: "Do I need to file a police complaint for a lost PAN card?", a: "It isn’t required for a reprint. But if you suspect misuse, report it." }
 ---
 Lost or damaged your PAN card? If your details are correct, you don’t need to apply again. Just order a **reprint** of the same PAN, and it’s posted to your address. You can also [download the e-PAN](/documents/download-pan-card-pdf/) instantly in the meantime.
 
@@ -21,16 +24,6 @@ Lost or damaged your PAN card? If your details are correct, you don’t need to 
 4.  Verify with the OTP on your registered mobile or email.
 5.  Pay the reprint fee (around ₹50 for delivery in India).
 6.  Note the acknowledgement number. The card is dispatched by post, usually within a couple of weeks.
-
-## Frequently asked questions
-
-### Can I get a reprint if my address has changed?
-
-The reprint goes to the address in the PAN records. If you’ve moved, apply for a change of address in PAN data instead.
-
-### Do I need to file a police complaint for a lost PAN card?
-
-It isn’t required for a reprint. But if you suspect misuse, report it.
 
 ## Related guides
 

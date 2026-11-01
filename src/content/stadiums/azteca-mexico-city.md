@@ -10,6 +10,11 @@ country: "Mexico"
 homeTeam: "Club America (World Cup 2026 venue)"
 published: 2026-05-21
 updated: 2026-09-27
+faqs:
+  - { q: "Is Estadio Azteca the same as Estadio Banorte?", a: "Yes. Estadio Banorte is the stadium’s sponsored name. The venue at Calzada de Tlalpan in Coyoacán is still widely called Estadio Azteca." }
+  - { q: "Can I take a power bank into Estadio Azteca?", a: "No. Battery chargers are on the stadium’s prohibited items list, so charge your phone fully before you go." }
+  - { q: "What is the best way to reach Estadio Azteca?", a: "Metro Line 2 to Tasqueña, then the Tren Ligero to Estadio Azteca station, which is right outside the stadium." }
+  - { q: "Can I pay with cash at Estadio Azteca?", a: "Yes. According to the stadium, concession stands accept both cash and card." }
 quick:
   []
 ---
@@ -64,24 +69,6 @@ The official list is long. These are the items fans most often get caught out by
 -   **Accessibility:** services are available for guests with reduced mobility. Contact the stadium in advance if you need assistance.
 -   **Lost and found:** items lost inside the stadium are kept temporarily in a designated area.
 -   **Stadium tours:** check the official website, as tours were suspended during the renovation.
-
-## Frequently asked questions
-
-### Is Estadio Azteca the same as Estadio Banorte?
-
-Yes. Estadio Banorte is the stadium’s sponsored name. The venue at Calzada de Tlalpan in Coyoacán is still widely called Estadio Azteca.
-
-### Can I take a power bank into Estadio Azteca?
-
-No. Battery chargers are on the stadium’s prohibited items list, so charge your phone fully before you go.
-
-### What is the best way to reach Estadio Azteca?
-
-Metro Line 2 to Tasqueña, then the Tren Ligero to Estadio Azteca station, which is right outside the stadium.
-
-### Can I pay with cash at Estadio Azteca?
-
-Yes. According to the stadium, concession stands accept both cash and card.
 
 ## Related guides
 

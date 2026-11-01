@@ -1,41 +1,122 @@
+@import "@fontsource-variable/geist";
+@import "@fontsource-variable/geist-mono";
+@import "@fontsource/instrument-serif";
 @import "tailwindcss";
 
+/* Warm paper, warm ink, one accent (ball red). Grays all share the same warm hue. */
 @theme {
-  --color-ink: #0f172a;
-  --color-ink-soft: #1e293b;
-  --color-paper: #f8fafc;
-  --color-line: #e2e8f0;
-  --color-muted: #475569;
-  --color-accent: #f59e0b;
-  --color-accent-ink: #78350f;
-  --color-yes: #15803d;
-  --color-yes-bg: #dcfce7;
-  --color-no: #b91c1c;
-  --color-no-bg: #fee2e2;
-  --color-info-bg: #e0f2fe;
-  --color-info: #075985;
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-paper: #f6f3ec;
+  --color-paper-2: #efe9dd;
+  --color-surface: #fdfbf6;
+  --color-ink: #17150f;
+  --color-ink-2: #4b463b;
+  --color-ink-3: #7a7364;
+  --color-rule: #ddd5c4;
+  --color-accent: #b0382b;
+  --color-accent-deep: #8c2a1f;
+  --color-ok: #2f6a3d;
+  --color-no: #a3322a;
+
+  --font-sans: "Geist Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "Geist Mono Variable", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --font-display: "Instrument Serif", "Iowan Old Style", Georgia, serif;
+
+  --shadow-lift: 0 1px 0 rgb(23 21 15 / 0.04), 0 10px 24px -12px rgb(60 40 20 / 0.28);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-html { scroll-behavior: smooth; }
-body { @apply bg-paper text-ink font-sans antialiased; }
+html { scroll-behavior: smooth; scroll-padding-top: 5rem; -webkit-text-size-adjust: 100%; }
+body {
+  @apply bg-paper font-sans text-ink antialiased;
+  font-feature-settings: "ss01", "cv11";
+  font-variant-numeric: tabular-nums;
+  text-wrap: pretty;
+}
+/* Fine paper grain so large flat areas do not read as sterile. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .2  0 0 0 0 .15  0 0 0 0 .1  0 0 0 .9 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+body > * { position: relative; z-index: 1; }
 
-.prose-egi { @apply max-w-none leading-relaxed; }
-.prose-egi h2 { @apply mt-10 mb-3 text-2xl font-bold tracking-tight; }
-.prose-egi h3 { @apply mt-6 mb-2 text-lg font-semibold; }
-.prose-egi p { @apply my-3; }
-.prose-egi ul { @apply my-3 list-disc pl-6; }
-.prose-egi a { @apply text-info underline underline-offset-2; }
+h1, h2, h3 { text-wrap: balance; }
+::selection { background: color-mix(in srgb, var(--color-accent) 22%, transparent); }
 
-.prose-egi table { @apply my-4 w-full border-collapse overflow-hidden rounded-lg border border-line bg-white text-sm; }
-.prose-egi td, .prose-egi th { @apply border-b border-line px-3 py-2 text-left align-top; }
-.prose-egi tr:last-child td { @apply border-b-0; }
-.prose-egi td:first-child { @apply w-2/5 bg-paper font-semibold; }
-.prose-egi img { @apply my-4 h-auto max-w-full rounded-lg; }
-.prose-egi h4 { @apply mt-4 mb-1 font-semibold; }
+:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 3px; border-radius: 3px; }
 
-.prose-egi ol { @apply my-3 list-decimal pl-6; }
-.prose-egi li { @apply my-1; }
-.prose-egi blockquote { @apply my-4 border-l-4 border-accent bg-white py-1 pl-4 italic text-muted; }
-.prose-egi hr { @apply my-8 border-line; }
+.skip-link {
+  @apply absolute left-4 top-3 z-50 -translate-y-20 rounded bg-ink px-4 py-2 text-sm font-medium text-paper;
+  transition: transform 0.2s var(--ease-out);
+}
+.skip-link:focus { transform: translateY(0); }
+
+.wrap { @apply mx-auto w-full max-w-6xl px-5 sm:px-8; }
+
+/* Type roles */
+.display { font-family: var(--font-display); font-weight: 400; letter-spacing: -0.02em; line-height: 0.98; }
+.label { @apply font-mono text-[0.72rem] font-medium uppercase tracking-[0.08em] text-ink-3; }
+.kicker { @apply font-mono text-[0.78rem] font-medium tracking-[0.02em] text-accent; }
+
+/* Buttons and links */
+.btn {
+  @apply inline-flex items-center gap-2 rounded-md bg-ink px-5 py-3 text-sm font-semibold text-paper;
+  transition: background-color 0.2s var(--ease-out), transform 0.15s var(--ease-out);
+}
+.btn:hover { background: var(--color-accent-deep); }
+.btn:active { transform: translateY(1px) scale(0.985); }
+.link-quiet { @apply font-medium underline decoration-rule decoration-2 underline-offset-4; transition: text-decoration-color 0.2s; }
+.link-quiet:hover { text-decoration-color: var(--color-accent); }
+
+/* Ruled list rows (replaces boxed cards) */
+.row-link {
+  @apply relative block border-t border-rule py-4;
+  transition: background-color 0.2s var(--ease-out), padding 0.25s var(--ease-out);
+}
+.row-link:hover { background: var(--color-paper-2); padding-inline: 0.75rem; }
+
+/* Long-form reading */
+.prose-egi { @apply max-w-[68ch] text-[1.0625rem] leading-[1.75] text-ink; }
+.prose-egi > :first-child { margin-top: 0; }
+.prose-egi h2 { @apply mb-3 mt-14 text-balance border-t border-rule pt-8 text-[2rem] leading-tight; font-family: var(--font-display); font-weight: 400; letter-spacing: -0.015em; }
+.prose-egi h3 { @apply mb-1 mt-8 text-lg font-semibold tracking-tight; }
+.prose-egi h4 { @apply mb-1 mt-6 font-semibold; }
+.prose-egi p { @apply my-4; }
+.prose-egi ul { @apply my-4 list-disc space-y-1.5 pl-5 marker:text-ink-3; }
+.prose-egi ol { @apply my-4 list-decimal space-y-2 pl-5 marker:font-mono marker:text-ink-3; }
+.prose-egi li { @apply pl-1; }
+.prose-egi a { @apply font-medium underline decoration-accent/40 decoration-2 underline-offset-[3px]; transition: text-decoration-color 0.2s; }
+.prose-egi a:hover { text-decoration-color: var(--color-accent); }
 .prose-egi strong { @apply font-semibold; }
+.prose-egi blockquote { @apply my-6 border-l-2 border-accent pl-5 text-ink-2; font-family: var(--font-display); font-size: 1.35rem; line-height: 1.4; }
+.prose-egi hr { @apply my-10 border-rule; }
+.prose-egi img { @apply my-6 h-auto max-w-full rounded-sm; }
+.prose-egi table { @apply my-6 block w-full overflow-x-auto text-[0.95rem] leading-snug; border-collapse: collapse; }
+.prose-egi th { @apply border-b border-ink px-3 py-2 text-left align-bottom font-mono text-[0.72rem] font-medium uppercase tracking-[0.06em] text-ink-3; }
+.prose-egi td { @apply border-b border-rule px-3 py-2.5 align-top; }
+.prose-egi td:first-child { @apply font-medium; }
+.prose-egi tr:last-child td { border-bottom: 0; }
+.prose-egi th:first-child, .prose-egi td:first-child { padding-left: 0; }
+.prose-egi code { @apply rounded bg-paper-2 px-1.5 py-0.5 font-mono text-[0.9em]; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
+
+/* Pagefind UI: align with the site palette */
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #b0382b;
+  --pagefind-ui-text: #17150f;
+  --pagefind-ui-background: #fdfbf6;
+  --pagefind-ui-border: #ddd5c4;
+  --pagefind-ui-tag: #efe9dd;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 6px;
+  --pagefind-ui-font: "Geist Variable", system-ui, sans-serif;
+}

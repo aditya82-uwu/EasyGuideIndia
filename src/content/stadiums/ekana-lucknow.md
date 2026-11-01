@@ -10,6 +10,10 @@ country: "India"
 homeTeam: "Lucknow Super Giants"
 published: 2026-04-01
 updated: 2026-09-27
+faqs:
+  - { q: "Which metro station is nearest to Ekana Stadium?", a: "Lucknow Metro doesn’t reach Ekana, and the nearest stations are several kilometres away. Take a cab or auto, or a match-day shuttle if one is announced." }
+  - { q: "What time do gates open at Ekana Stadium?", a: "About 3 hours before the start: 4:30 PM for a 7:30 PM IPL match." }
+  - { q: "Can I carry a power bank into Ekana Stadium?", a: "No. Power banks are banned at IPL venues, so charge your phone before you go." }
 quick:
   - { q: "Metro", a: "No station at the stadium. Nearest are several km away", tone: no }
   - { q: "Gates open", a: "About 3 hours before the start (IPL 2026)", tone: info }
@@ -48,20 +52,6 @@ _Lucknow Traffic Police announces diversions before each big match, and LSG publ
 ## Things not allowed in Ekana Stadium
 
 Outside food and drinks aren’t allowed, and security checks are strict. As at other IPL venues, don’t carry power banks, bags, coins, lighters, cigarettes, helmets or sharp objects. See our [IPL stadium entry rules guide](/finance/ipl-2026-stadium-entry-rules-mandatory-documents/) for the full list. Carry a government photo ID in case it’s asked for.
-
-## Frequently asked questions
-
-### Which metro station is nearest to Ekana Stadium?
-
-Lucknow Metro doesn’t reach Ekana, and the nearest stations are several kilometres away. Take a cab or auto, or a match-day shuttle if one is announced.
-
-### What time do gates open at Ekana Stadium?
-
-About 3 hours before the start: 4:30 PM for a 7:30 PM IPL match.
-
-### Can I carry a power bank into Ekana Stadium?
-
-No. Power banks are banned at IPL venues, so charge your phone before you go.
 
 ## Related guides
 

@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Kolkata Knight Riders"
 published: 2026-04-05
 updated: 2026-09-27
+faqs:
+  - { q: "Which metro station is nearest to Eden Gardens?", a: "Esplanade metro station. Eden Gardens railway station on the Circular Railway is even closer." }
+  - { q: "Is there parking at Eden Gardens on match days?", a: "No. Kolkata Police bans parking on the surrounding roads and provides no parking near the ground, so use the metro, train or bus." }
 quick:
   - { q: "Nearest metro", a: "Esplanade, walkable", tone: info }
   - { q: "Nearest train", a: "Eden Gardens (Circular Railway)", tone: info }
@@ -47,16 +50,6 @@ _Kolkata Police announces restrictions before each match, generally from 4 pm to
 ## Things not allowed in Eden Gardens
 
 Bags, cameras and outside food aren’t allowed. As at other IPL venues, also leave power banks, water bottles, coins, lighters, cigarettes, umbrellas and sharp objects at home. See our [IPL stadium entry rules guide](/finance/ipl-2026-stadium-entry-rules-mandatory-documents/).
-
-## Frequently asked questions
-
-### Which metro station is nearest to Eden Gardens?
-
-Esplanade metro station. Eden Gardens railway station on the Circular Railway is even closer.
-
-### Is there parking at Eden Gardens on match days?
-
-No. Kolkata Police bans parking on the surrounding roads and provides no parking near the ground, so use the metro, train or bus.
 
 ## Related guides
 

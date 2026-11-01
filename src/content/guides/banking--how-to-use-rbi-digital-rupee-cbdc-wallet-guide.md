@@ -5,6 +5,9 @@ description: "What the Digital Rupee (e₹) is, how it differs from UPI, and how
 section: banking
 published: 2026-06-01
 updated: 2026-09-27
+faqs:
+  - { q: "Do I earn interest on e₹?", a: "No. Like physical cash, the Digital Rupee doesn’t earn interest." }
+  - { q: "Can I pay at any shop with e₹?", a: "e₹ wallets are interoperable with UPI QR codes, so you can pay at most shops that accept UPI." }
 ---
 The **Digital Rupee (e₹)** is India’s central bank digital currency (CBDC), digital cash issued by the Reserve Bank of India. Unlike UPI, which moves money between bank accounts, e₹ is held as **digital tokens in a wallet** on your phone, like cash in a digital purse. The retail pilot runs through participating banks’ e₹ wallet apps. Here’s how it works.
 
@@ -31,16 +34,6 @@ The **Digital Rupee (e₹)** is India’s central bank digital currency (CBDC), 
 -   e₹ is issued by RBI and is legal tender.
 -   Your wallet is protected by a PIN. Keep your phone secure, as losing the wallet is like losing cash unless your bank app lets you recover it.
 -   Use only your bank’s official app.
-
-## Frequently asked questions
-
-### Do I earn interest on e₹?
-
-No. Like physical cash, the Digital Rupee doesn’t earn interest.
-
-### Can I pay at any shop with e₹?
-
-e₹ wallets are interoperable with UPI QR codes, so you can pay at most shops that accept UPI.
 
 ## Related guides
 

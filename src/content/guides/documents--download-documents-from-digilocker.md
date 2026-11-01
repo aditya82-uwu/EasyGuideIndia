@@ -5,6 +5,9 @@ description: "Set up DigiLocker, link Aadhaar and download legally valid Aadhaar
 section: documents
 published: 2026-01-28
 updated: 2026-09-27
+faqs:
+  - { q: "Are DigiLocker documents valid?", a: "Yes. Documents in Issued Documents are legally recognised as equivalent to physical originals." }
+  - { q: "Is DigiLocker free?", a: "Yes. There’s no fee to create an account or fetch documents." }
 ---
 **DigiLocker** is the Government of India’s free digital document wallet. Documents in its **Issued Documents** section come directly from the issuing department: Aadhaar, PAN, driving licence, vehicle RC, CBSE and many state board marksheets, and more. Under the IT Act rules, they’re treated as **equivalent to the originals**. Here’s how to set up DigiLocker and download your documents.
 
@@ -35,16 +38,6 @@ updated: 2026-09-27
 ## Issued vs uploaded documents
 
 **Issued documents** come straight from the department and are valid as originals. **Uploaded documents** are your own scans. They’re convenient to store, but they don’t have the same legal status.
-
-## Frequently asked questions
-
-### Are DigiLocker documents valid?
-
-Yes. Documents in Issued Documents are legally recognised as equivalent to physical originals.
-
-### Is DigiLocker free?
-
-Yes. There’s no fee to create an account or fetch documents.
 
 ## Related guides
 

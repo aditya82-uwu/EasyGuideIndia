@@ -5,6 +5,10 @@ description: "Paid fantasy contests are banned under the Online Gaming Act, 2025
 section: finance
 published: 2026-03-31
 updated: 2026-09-27
+faqs:
+  - { q: "Is Dream11 legal now?", a: "Dream11 now offers free-to-play formats, which are allowed. Paid cash contests are banned under the Online Gaming Act, 2025." }
+  - { q: "Are free fantasy contest prizes taxable?", a: "Yes. Cash prizes (and the value of prizes in kind) are taxed at 30%, with TDS if the prize exceeds ₹10,000." }
+  - { q: "I won money before the ban but didn’t report it. What now?", a: "Report it in the return for that year. If the deadline has passed, you can file an **updated return (ITR-U)** by paying additional tax. TDS already deducted still counts." }
 ---
 **Short answer:** since August 2025, paid fantasy cricket contests (the kind where you pay an entry fee to win cash) are **banned in India** under the **Promotion and Regulation of Online Gaming Act, 2025**. Dream11 and similar apps stopped paid contests and moved to free-to-play formats. Any winnings you did earn, including older winnings still to be reported, and cash prizes from free contests, are taxed at a flat **30%** plus cess.
 
@@ -44,20 +48,6 @@ See [how to calculate income tax](/finance/how-to-calculate-income-tax-india/) f
 ## What about money stuck in a fantasy app wallet?
 
 After the ban, the major platforms announced that users could withdraw their deposit and winnings balances. If you still have a balance, use the app’s withdrawal or support option, and keep records of deposits and withdrawals for your tax return.
-
-## Frequently asked questions
-
-### Is Dream11 legal now?
-
-Dream11 now offers free-to-play formats, which are allowed. Paid cash contests are banned under the Online Gaming Act, 2025.
-
-### Are free fantasy contest prizes taxable?
-
-Yes. Cash prizes (and the value of prizes in kind) are taxed at 30%, with TDS if the prize exceeds ₹10,000.
-
-### I won money before the ban but didn’t report it. What now?
-
-Report it in the return for that year. If the deadline has passed, you can file an **updated return (ITR-U)** by paying additional tax. TDS already deducted still counts.
 
 ## Related guides
 

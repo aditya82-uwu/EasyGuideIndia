@@ -5,6 +5,8 @@ description: "Check your FASTag balance through your issuer bank's app, UPI apps
 section: documents
 published: 2026-03-11
 updated: 2026-09-27
+faqs:
+  - { q: "What happens if my FASTag balance is low at a toll plaza?", a: "If the payment fails, you may have to pay a higher toll in cash or by other means as per current rules. Keep your tag funded before a trip." }
 ---
 FASTag toll payments fail, and you may be charged double, if your tag balance is low. Here are the quickest ways to check your FASTag balance, depending on which bank issued your tag.
 
@@ -24,12 +26,6 @@ Recharge through your issuer bank’s FASTag portal, or through UPI and payment 
 -   Complete your FASTag **KYC** with your issuer, as tags without updated KYC can be deactivated.
 -   One vehicle, one FASTag. Older tags on the same vehicle may be blacklisted.
 -   For FASTag problems, contact your issuer bank or the NHAI helpline **1033**.
-
-## Frequently asked questions
-
-### What happens if my FASTag balance is low at a toll plaza?
-
-If the payment fails, you may have to pay a higher toll in cash or by other means as per current rules. Keep your tag funded before a trip.
 
 ## Related guides
 

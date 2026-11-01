@@ -7,8 +7,8 @@ officialName: "M. A. Chidambaram Stadium"
 city: "Chennai"
 state: "Tamil Nadu"
 homeTeam: "Chennai Super Kings (IPL), Tamil Nadu Cricket Association"
-published: 2026-03-20
-updated: 2026-11-01
+published: 2026-04-01
+updated: 2026-09-27
 quick:
   - { q: "Nearest metro", a: "Government Estate, about 200 m walk", tone: info }
   - { q: "Free metro with ticket", a: "Yes for recent CSK home matches. Confirm per match", tone: yes }

@@ -10,6 +10,8 @@ country: "India"
 homeTeam: "NorthEast United FC"
 published: 2026-05-09
 updated: 2026-09-27
+faqs:
+  - { q: "Where is the Indira Gandhi Athletic Stadium in Guwahati?", a: "In the Sarusajai Sports Complex at Lokhra, beside NH-37 on the southern edge of Guwahati." }
 quick:
   - { q: "Location", a: "Sarusajai Sports Complex, beside NH-37", tone: info }
   - { q: "Home team", a: "NorthEast United FC (ISL)", tone: info }
@@ -31,12 +33,6 @@ The **Indira Gandhi Athletic Stadium**, also called **Sarusajai Stadium**, is in
 -   Parking inside the complex is generally for pass holders. For big matches, traffic police announce public parking zones nearby, so check the advisory.
 -   Your gate and stand are printed on your ticket.
 -   Don’t carry outside food, bottles, flares, fireworks, lighters or sharp objects.
-
-## Frequently asked questions
-
-### Where is the Indira Gandhi Athletic Stadium in Guwahati?
-
-In the Sarusajai Sports Complex at Lokhra, beside NH-37 on the southern edge of Guwahati.
 
 ## Related guides
 

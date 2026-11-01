@@ -1,17 +1,25 @@
 ---
-interface Props { items: { q: string; a: string; tone: 'yes' | 'no' | 'info' }[] }
-const { items } = Astro.props;
-const tones = {
-  yes: 'bg-yes-bg text-yes border-yes/30',
-  no: 'bg-no-bg text-no border-no/30',
-  info: 'bg-info-bg text-info border-info/30',
-};
+// "At a glance" list. tone: yes (check), no (cross), info (dot). Colour is never the only signal.
+interface Props { items: { q: string; a: string; tone: 'yes' | 'no' | 'info' }[]; heading?: string }
+const { items, heading = 'Quick answers' } = Astro.props;
 ---
-<ul class="grid grid-cols-2 gap-3 sm:grid-cols-3" aria-label="Quick answers">
-  {items.map((i) => (
-    <li class={`rounded-xl border p-3 ${tones[i.tone]}`}>
-      <p class="text-xs font-semibold uppercase tracking-wide opacity-80">{i.q}</p>
-      <p class="mt-1 text-base font-bold leading-snug">{i.a}</p>
-    </li>
-  ))}
-</ul>
+<section aria-labelledby="glance-h" class="overflow-hidden rounded-lg border border-rule bg-surface">
+  <h2 id="glance-h" class="label border-b border-rule px-4 py-3 lg:px-5">{heading}</h2>
+  <dl class="grid grid-cols-2 gap-px bg-rule lg:grid-cols-1">
+    {items.map((i) => (
+      <div class="grid grid-cols-[1fr_auto] items-start gap-x-3 bg-surface px-4 py-3 last:odd:col-span-2 lg:px-5">
+        <dt class="col-span-2 text-[0.8rem] text-ink-3">{i.q}</dt>
+        <dd class="col-span-2 mt-0.5 flex items-start gap-2 text-[0.97rem] font-medium leading-snug">
+          {i.tone === 'yes' && (
+            <svg class="mt-[3px] shrink-0 text-ok" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-label="Yes" role="img"><path d="m3 8.5 3.2 3.2L13 4.8"/></svg>
+          )}
+          {i.tone === 'no' && (
+            <svg class="mt-[3px] shrink-0 text-no" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-label="No" role="img"><path d="m4 4 8 8M12 4l-8 8"/></svg>
+          )}
+          {i.tone === 'info' && <span class="mt-[7px] size-[5px] shrink-0 rounded-full bg-ink-3" aria-hidden="true"></span>}
+          <span>{i.a}</span>
+        </dd>
+      </div>
+    ))}
+  </dl>
+</section>

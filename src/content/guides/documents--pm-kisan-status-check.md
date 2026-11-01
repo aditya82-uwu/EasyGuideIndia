@@ -5,6 +5,10 @@ description: "Check your PM Kisan beneficiary and instalment status on pmkisan.g
 section: documents
 published: 2026-04-12
 updated: 2026-09-27
+faqs:
+  - { q: "How much money do farmers get under PM Kisan?", a: "₹6,000 per year per eligible farmer family, paid as three instalments of ₹2,000." }
+  - { q: "Can I check PM Kisan status with my Aadhaar number?", a: "Use Know Your Registration Number with your Aadhaar or mobile to get your registration number, then check status with it." }
+  - { q: "Is there a PM Kisan helpline?", a: "Yes. Helpline numbers are listed on pmkisan.gov.in (including 155261 and the toll-free 1800-115-526)." }
 ---
 Under **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)**, eligible farmer families get **₹6,000 a year**, paid in three instalments of **₹2,000** directly into their bank account. You can check whether your instalments have been paid, and why one might be stuck, on the official PM-Kisan website using your Aadhaar-linked mobile number or registration number.
 
@@ -34,20 +38,6 @@ Under **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)**, eligible farmer families
 ## When is the next PM Kisan instalment?
 
 Instalments are paid roughly every four months. The government announces each release date officially, usually a few days in advance. Check [pmkisan.gov.in](https://pmkisan.gov.in/) or official announcements, and ignore social media messages asking you to “register” or pay a fee.
-
-## Frequently asked questions
-
-### How much money do farmers get under PM Kisan?
-
-₹6,000 per year per eligible farmer family, paid as three instalments of ₹2,000.
-
-### Can I check PM Kisan status with my Aadhaar number?
-
-Use Know Your Registration Number with your Aadhaar or mobile to get your registration number, then check status with it.
-
-### Is there a PM Kisan helpline?
-
-Yes. Helpline numbers are listed on pmkisan.gov.in (including 155261 and the toll-free 1800-115-526).
 
 ## Related guides
 

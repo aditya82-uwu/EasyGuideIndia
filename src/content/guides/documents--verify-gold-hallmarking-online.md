@@ -5,6 +5,9 @@ description: "Check gold jewellery purity by verifying its 6-digit HUID in the f
 section: documents
 published: 2026-03-30
 updated: 2026-09-27
+faqs:
+  - { q: "Is hallmarking mandatory?", a: "Yes. Hallmarking with HUID is mandatory for gold jewellery sold by registered jewellers in the notified districts, which cover most of India." }
+  - { q: "Is HUID verification free?", a: "Yes. The BIS CARE app is free." }
 ---
 In India, hallmarked gold jewellery must carry a **6-digit HUID (Hallmark Unique Identification)** code. You can verify any HUID for free with the Bureau of Indian Standards’ **BIS CARE** app to confirm the jewellery’s purity and where it was hallmarked, before you buy or when you sell.
 
@@ -27,16 +30,6 @@ In India, hallmarked gold jewellery must carry a **6-digit HUID (Hallmark Unique
 -   If the purity or article shown doesn’t match what you’re buying, don’t buy it and ask the jeweller to explain.
 -   You can file a complaint through the BIS CARE app.
 -   Always ask for a bill showing the HUID, weight, purity and making charges.
-
-## Frequently asked questions
-
-### Is hallmarking mandatory?
-
-Yes. Hallmarking with HUID is mandatory for gold jewellery sold by registered jewellers in the notified districts, which cover most of India.
-
-### Is HUID verification free?
-
-Yes. The BIS CARE app is free.
 
 ## Related guides
 

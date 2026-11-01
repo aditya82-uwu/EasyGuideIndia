@@ -10,6 +10,9 @@ country: "UK"
 homeTeam: "MCC / Middlesex"
 published: 2026-06-11
 updated: 2026-09-27
+faqs:
+  - { q: "Which tube station is nearest to Lord’s?", a: "St John’s Wood on the Jubilee line, about a 5-minute walk." }
+  - { q: "Can I bring beer into Lord’s?", a: "For matches where it’s permitted, adults can bring two cans or bottles of beer or cider (up to 500 ml each), or one bottle of wine. Different rules apply for T20 Blast and The Hundred." }
 quick:
   - { q: "Nearest tube", a: "St John's Wood (Jubilee line), 5 min walk", tone: info }
   - { q: "Famous entrance", a: "The Grace Gates", tone: info }
@@ -47,16 +50,6 @@ Spirits and fortified wines are not allowed. For T20 Blast and The Hundred, diff
 -   India matches at Lord’s sell out fast. Buy only through official channels (Lord’s / the ECB), as resale tickets can be cancelled.
 -   Lord’s is famously traditional: the Pavilion and some members’ areas have a dress code, but general stands don’t.
 -   London weather changes quickly, so bring a light jacket and sunscreen.
-
-## Frequently asked questions
-
-### Which tube station is nearest to Lord’s?
-
-St John’s Wood on the Jubilee line, about a 5-minute walk.
-
-### Can I bring beer into Lord’s?
-
-For matches where it’s permitted, adults can bring two cans or bottles of beer or cider (up to 500 ml each), or one bottle of wine. Different rules apply for T20 Blast and The Hundred.
 
 ## Related guides
 

@@ -5,6 +5,8 @@ description: "RBI refund deadlines for failed UPI, IMPS, card and ATM transactio
 section: banking
 published: 2026-03-31
 updated: 2026-09-27
+faqs:
+  - { q: "How long does a failed UPI refund take?", a: "RBI’s limit is T+1 day for UPI transactions where money was debited but not credited. Many reverse within hours." }
 ---
 Money debited but the UPI payment, card payment or IMPS transfer failed? Under RBI’s rules on failed transactions, your bank or payment provider must **reverse the money within a fixed time**, and pay **₹100 per day** of delay after that. Here are the deadlines and how to complain.
 
@@ -29,12 +31,6 @@ T = the day of the transaction. Compensation is meant to be paid automatically.
 ## If it’s fraud, not a failure
 
 If the payment was unauthorised, report it immediately on **1930** or [cybercrime.gov.in](https://cybercrime.gov.in/) and inform your bank in writing. Quick reporting limits your liability under RBI rules.
-
-## Frequently asked questions
-
-### How long does a failed UPI refund take?
-
-RBI’s limit is T+1 day for UPI transactions where money was debited but not credited. Many reverse within hours.
 
 ## Related guides
 

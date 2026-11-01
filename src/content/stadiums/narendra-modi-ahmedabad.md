@@ -10,6 +10,11 @@ country: "India"
 homeTeam: "Gujarat Titans"
 published: 2026-04-01
 updated: 2026-09-27
+faqs:
+  - { q: "How do I book parking at Narendra Modi Stadium?", a: "Through the Show My Parking app, as early as possible. Spaces for big matches sell out." }
+  - { q: "Which metro station is nearest to Narendra Modi Stadium?", a: "Motera Stadium station on the Ahmedabad Metro Red Line, right by the stadium." }
+  - { q: "What time do gates open at Narendra Modi Stadium?", a: "About 3 hours before the start of play." }
+  - { q: "Can I take a bag into Narendra Modi Stadium?", a: "No, except a small ladies’ purse. Bags, briefcases and helmets aren’t allowed." }
 quick:
   - { q: "Nearest metro", a: "Motera Stadium station (Red Line)", tone: info }
   - { q: "Parking", a: "Pre-book on Show My Parking", tone: info }
@@ -51,24 +56,6 @@ _Parking and traffic arrangements are announced for each big match. Check the la
 -   Lighters, firecrackers and cigarettes (smoking is banned inside)
 -   Musical instruments, horns and noisemakers
 -   Umbrellas, selfie sticks, weapons and sharp objects
-
-## Frequently asked questions
-
-### How do I book parking at Narendra Modi Stadium?
-
-Through the Show My Parking app, as early as possible. Spaces for big matches sell out.
-
-### Which metro station is nearest to Narendra Modi Stadium?
-
-Motera Stadium station on the Ahmedabad Metro Red Line, right by the stadium.
-
-### What time do gates open at Narendra Modi Stadium?
-
-About 3 hours before the start of play.
-
-### Can I take a bag into Narendra Modi Stadium?
-
-No, except a small ladies’ purse. Bags, briefcases and helmets aren’t allowed.
 
 ## Related guides
 

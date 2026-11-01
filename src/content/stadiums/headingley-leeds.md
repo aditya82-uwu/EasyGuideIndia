@@ -10,6 +10,9 @@ country: "UK"
 homeTeam: "Yorkshire"
 published: 2026-06-12
 updated: 2026-09-27
+faqs:
+  - { q: "Which station is nearest to Headingley cricket ground?", a: "Burley Park, about a 5-minute walk from the St Michael’s Lane entrance." }
+  - { q: "Can I bring alcohol to a Test match at Headingley?", a: "No. Bringing in alcohol isn’t allowed for international matches." }
 quick:
   - { q: "Nearest station", a: "Burley Park, about 5 min walk", tone: info }
   - { q: "Park and ride", a: "From Beckett Park on international match days", tone: yes }
@@ -40,16 +43,6 @@ Bags must be no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)** and 
 | County Championship and One-Day Cup | Up to 4 × 440 ml cans of beer/lager _or_ one 70 cl container of wine |
 
 You can bring refillable water bottles, soft drinks in sealed plastic containers, or up to 2 litres of water in sealed plastic bottles. Inside, there’s a wide range of food, including curry and vegetarian options.
-
-## Frequently asked questions
-
-### Which station is nearest to Headingley cricket ground?
-
-Burley Park, about a 5-minute walk from the St Michael’s Lane entrance.
-
-### Can I bring alcohol to a Test match at Headingley?
-
-No. Bringing in alcohol isn’t allowed for international matches.
 
 ## Related guides
 

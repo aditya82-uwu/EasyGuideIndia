@@ -10,6 +10,8 @@ country: "India"
 homeTeam: "Jamshedpur FC"
 published: 2026-05-10
 updated: 2026-09-27
+faqs:
+  - { q: "Which railway station is nearest to JRD Tata Sports Complex?", a: "Tatanagar Junction. From there, take a taxi or auto." }
 quick:
   - { q: "Nearest railway", a: "Tatanagar Junction", tone: info }
   - { q: "Entry gates", a: "Nine gates for supporters and media", tone: info }
@@ -31,12 +33,6 @@ The **JRD Tata Sports Complex** in Jamshedpur, Jharkhand, nicknamed “The Furna
 -   Entry is only with a valid match ticket. The club has set up nine entry gates, so use the one on your ticket.
 -   Gates open a few hours before evening kick-offs. Arrive early for big matches.
 -   Jamshedpur FC publishes a stadium code of conduct and prohibited items list. As at most Indian stadiums, don’t carry outside food, bottles, flares, fireworks, lighters or sharp objects.
-
-## Frequently asked questions
-
-### Which railway station is nearest to JRD Tata Sports Complex?
-
-Tatanagar Junction. From there, take a taxi or auto.
 
 ## Related guides
 

@@ -1,12 +1,14 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { SITE, ORG, websiteLd, breadcrumbLd, graph } from '../../lib/schema';
 
 const SECTIONS = {
-  finance: { title: 'Finance and IPL explainers', blurb: 'Money, tax and IPL rules explained in plain language.' },
-  documents: { title: 'Documents and online services', blurb: 'Aadhaar, PAN, PM Kisan, e-Shram and other status checks and downloads.' },
-  railway: { title: 'Railway and IRCTC guides', blurb: 'Tatkal, cancellation, refunds and train status without the confusion.' },
-  banking: { title: 'Banking and payments', blurb: 'Balance checks, UPI and what to do when a payment fails.' },
+  finance: { title: 'IPL and finance', desc: 'IPL ticket, entry and tax rules, plus plain-language explainers on gold, markets and tax.' },
+  documents: { title: 'Documents and online services', desc: 'Aadhaar, PAN, PM Kisan, e-Shram and other status checks and downloads, step by step.' },
+  railway: { title: 'Railway and IRCTC', desc: 'Tatkal booking, cancellation, refunds and train status without the confusion.' },
+  banking: { title: 'Banking and payments', desc: 'Balance checks, UPI setup and what to do when a payment fails or money is debited.' },
 } as const;
 
 export async function getStaticPaths() {
@@ -19,19 +21,27 @@ const items = (await getCollection('guides'))
   .filter((g) => g.data.section === section)
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
-<BaseLayout title={`${info.title} | Easy Guide India`} description={info.blurb}>
-  <div class="mx-auto max-w-3xl px-4 py-10">
-    <h1 class="text-3xl font-extrabold tracking-tight">{info.title}</h1>
-    <p class="mt-2 text-muted">{info.blurb}</p>
-    <ul class="mt-6 divide-y divide-line rounded-xl border border-line bg-white">
+<BaseLayout
+  title={`${info.title} | Easy Guide India`}
+  description={info.desc}
+  jsonLd={graph(ORG, websiteLd, breadcrumbLd([{ name: 'Home', href: '/' }], { name: info.title, url: `${SITE}/${section}/` }))}
+>
+  <header class="wrap pb-8 pt-10 sm:pt-14">
+    <Breadcrumbs trail={[{ name: 'Home', href: '/' }]} current={info.title} />
+    <h1 class="display mt-8 max-w-3xl text-[clamp(2.75rem,7vw,5rem)]">{info.title}</h1>
+    <p class="mt-4 max-w-xl text-lg text-ink-2">{info.desc}</p>
+  </header>
+  <div class="wrap">
+    <ul>
       {items.map((g) => (
         <li>
-          <a href={`/${g.data.legacyPath}/`} class="block px-4 py-3 hover:bg-paper">
-            <span class="font-semibold">{g.data.title}</span>
-            <span class="mt-0.5 block text-sm text-muted">{g.data.description}</span>
+          <a href={`/${g.data.legacyPath}/`} class="row-link grid gap-1 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)] md:gap-10">
+            <span class="font-semibold leading-snug tracking-tight">{g.data.title}</span>
+            <span class="text-[0.95rem] leading-snug text-ink-2">{g.data.description}</span>
           </a>
         </li>
       ))}
+      <li class="border-t border-rule"></li>
     </ul>
   </div>
 </BaseLayout>

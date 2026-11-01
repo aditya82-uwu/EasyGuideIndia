@@ -5,6 +5,10 @@ description: "How players get into the IPL: district and state cricket, BCCI tou
 section: blog
 published: 2026-05-01
 updated: 2026-09-27
+faqs:
+  - { q: "Can I join the IPL without playing domestic cricket?", a: "Very rarely. Almost every IPL player came through state cricket or top-level cricket abroad. Franchise trials are also mostly for players already in the state system." }
+  - { q: "What is the minimum age to play in the IPL?", a: "There’s no low minimum age in practice. Players as young as 14 have been picked, but they had already played senior state cricket. Focus on getting into your state’s age-group teams." }
+  - { q: "Do IPL teams hold open trials?", a: "Occasionally, for specific regions or talent hunts. Genuine ones are announced on the franchise’s official website or social accounts, and they’re free." }
 ---
 There’s no application form to **join the IPL**. Players get into IPL teams through the **BCCI domestic cricket system**: district cricket, then state teams, then scouting and franchise trials, and finally the **IPL auction**. This guide explains each step, what you need, and how to avoid fake “IPL trial” scams.
 
@@ -56,20 +60,6 @@ For the full domestic pathway, see [how to join a state cricket team](/blog/how-
 ## Beware of fake IPL trial scams
 
 Every season, fraudsters advertise paid “IPL trials” or “registration” on social media and charge fees. Official BCCI, state and franchise selection doesn’t work through paid public registration. Don’t pay anyone who promises IPL selection. Check trial announcements on your state association’s official website.
-
-## Frequently asked questions
-
-### Can I join the IPL without playing domestic cricket?
-
-Very rarely. Almost every IPL player came through state cricket or top-level cricket abroad. Franchise trials are also mostly for players already in the state system.
-
-### What is the minimum age to play in the IPL?
-
-There’s no low minimum age in practice. Players as young as 14 have been picked, but they had already played senior state cricket. Focus on getting into your state’s age-group teams.
-
-### Do IPL teams hold open trials?
-
-Occasionally, for specific regions or talent hunts. Genuine ones are announced on the franchise’s official website or social accounts, and they’re free.
 
 ## Related guides
 

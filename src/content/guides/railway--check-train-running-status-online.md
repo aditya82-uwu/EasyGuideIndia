@@ -5,6 +5,8 @@ description: "Check where your train is, its delay and expected arrival on India
 section: railway
 published: 2026-03-10
 updated: 2026-09-27
+faqs:
+  - { q: "Is NTES the official source?", a: "Yes. NTES is run by Indian Railways (CRIS) and is the official train enquiry system." }
 ---
 Want to know exactly where your train is and how late it’s running? Indian Railways’ **NTES (National Train Enquiry System)** shows live running status, expected arrival and delays for every train. Here’s how to use it, plus offline options.
 
@@ -23,12 +25,6 @@ SMS **SPOT <train number>** to **139**, or call 139. See [train running status b
 
 -   Choose the **correct start date**. For long-distance trains it’s the date the train left its origin station, which may be a day before you board.
 -   Check the platform number on NTES or station displays close to arrival, as platforms can change.
-
-## Frequently asked questions
-
-### Is NTES the official source?
-
-Yes. NTES is run by Indian Railways (CRIS) and is the official train enquiry system.
 
 ## Related guides
 

@@ -5,6 +5,9 @@ description: "See the PM Kisan beneficiary list for your village on pmkisan.gov.
 section: documents
 published: 2026-03-23
 updated: 2026-09-27
+faqs:
+  - { q: "Can I download the PM Kisan village list as a PDF?", a: "The official site shows the list on screen. You can save or print the page from your browser." }
+  - { q: "Why was my name removed from the list?", a: "Common reasons are ineligibility (for example income tax payers or institutional landholders), failed land verification, or duplicate records. The status page usually shows the reason." }
 ---
 The **PM Kisan beneficiary list** shows every farmer in your village who is registered under PM-KISAN. You can check it online without logging in, to see whether your name is on it. If it isn’t, you’ll need to register or fix your records.
 
@@ -25,16 +28,6 @@ Being on the list means you’re registered. Payment also needs eKYC, land seedi
 -   Search with small spelling variations. Names in the list may be in English transliteration.
 -   If you haven’t registered, use **New Farmer Registration** on pmkisan.gov.in or visit a CSC.
 -   If you registered but you’re missing, contact your block agriculture office or the PM-Kisan helpline.
-
-## Frequently asked questions
-
-### Can I download the PM Kisan village list as a PDF?
-
-The official site shows the list on screen. You can save or print the page from your browser.
-
-### Why was my name removed from the list?
-
-Common reasons are ineligibility (for example income tax payers or institutional landholders), failed land verification, or duplicate records. The status page usually shows the reason.
 
 ## Related guides
 

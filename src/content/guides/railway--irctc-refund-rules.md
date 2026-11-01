@@ -5,6 +5,9 @@ description: "How much refund you get on cancelling a train ticket under the rev
 section: railway
 published: 2026-03-12
 updated: 2026-09-27
+faqs:
+  - { q: "How do I cancel an e-ticket?", a: "See [how to cancel a train ticket on IRCTC](/railway/cancel-train-ticket-irctc/)." }
+  - { q: "What is TDR?", a: "A Ticket Deposit Receipt is a refund claim you file on IRCTC when you couldn’t travel for a valid reason (train late by more than 3 hours, AC not working, etc.)." }
 ---
 How much you get back when you cancel a train ticket depends on **when you cancel** and whether the ticket is **confirmed, RAC or waitlisted**. Indian Railways tightened the rules in 2026, so cancelling late now costs more. Here’s the current structure and how to get your money back.
 
@@ -37,16 +40,6 @@ These windows apply from the revised rules introduced in April 2026 (the no-refu
 ## How refunds are paid
 
 For online e-tickets, the refund goes back to the original payment method, usually within a few working days. For counter tickets, collect it at the counter as per the rules.
-
-## Frequently asked questions
-
-### How do I cancel an e-ticket?
-
-See [how to cancel a train ticket on IRCTC](/railway/cancel-train-ticket-irctc/).
-
-### What is TDR?
-
-A Ticket Deposit Receipt is a refund claim you file on IRCTC when you couldn’t travel for a valid reason (train late by more than 3 hours, AC not working, etc.).
 
 ## Related guides
 

@@ -5,6 +5,8 @@ description: "RBI's digital payment authentication rules from 1 April 2026: two-
 section: documents
 published: 2026-04-26
 updated: 2026-09-27
+faqs:
+  - { q: "Is SMS OTP being banned?", a: "No. SMS OTP remains a permitted factor. The directions simply allow, and encourage, other secure methods too." }
 ---
 The Reserve Bank of India’s **Authentication Mechanisms for Digital Payment Transactions Directions, 2025**, issued on 25 September 2025, apply from **1 April 2026**. They set out how banks and payment companies must verify that it’s really you making a payment. Here’s what changed, in plain language.
 
@@ -27,12 +29,6 @@ The Reserve Bank of India’s **Authentication Mechanisms for Digital Payment Tr
 1.  Block your card / UPI immediately through your bank’s app or helpline.
 2.  Report cyber fraud on **1930** or at [cybercrime.gov.in](https://cybercrime.gov.in/).
 3.  Inform your bank in writing as quickly as possible. RBI’s customer liability rules limit your loss if you report unauthorised transactions quickly.
-
-## Frequently asked questions
-
-### Is SMS OTP being banned?
-
-No. SMS OTP remains a permitted factor. The directions simply allow, and encourage, other secure methods too.
 
 ## Related guides
 

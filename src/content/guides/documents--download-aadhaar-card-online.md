@@ -5,6 +5,10 @@ description: "Download your e-Aadhaar free from myAadhaar using Aadhaar number, 
 section: documents
 published: 2026-01-24
 updated: 2026-09-27
+faqs:
+  - { q: "Is a downloaded e-Aadhaar valid?", a: "Yes. UIDAI states that e-Aadhaar is as valid as the physical Aadhaar letter for all purposes." }
+  - { q: "Is there a fee to download e-Aadhaar?", a: "No. Downloading e-Aadhaar is free, and you can download it as many times as you like." }
+  - { q: "What is a masked Aadhaar?", a: "A version that hides the first eight digits of your Aadhaar number. It’s safer when you only need to show your Aadhaar as ID." }
 ---
 The **e-Aadhaar** is a digitally signed PDF copy of your Aadhaar that UIDAI says is **as valid as the physical card**. You can download it free, any number of times, from the myAadhaar portal, the official Aadhaar app or DigiLocker. Here’s how, plus how to open the password-protected PDF.
 
@@ -35,20 +39,6 @@ If your first name has fewer than four letters, use all of it plus the year (for
 ## Can’t get the OTP?
 
 If your mobile number isn’t registered with Aadhaar, you can’t download the e-Aadhaar online. Get your mobile number added first (see [how to update your mobile number in Aadhaar](/documents/update-mobile-number-aadhaar-card/)), or visit an Aadhaar centre.
-
-## Frequently asked questions
-
-### Is a downloaded e-Aadhaar valid?
-
-Yes. UIDAI states that e-Aadhaar is as valid as the physical Aadhaar letter for all purposes.
-
-### Is there a fee to download e-Aadhaar?
-
-No. Downloading e-Aadhaar is free, and you can download it as many times as you like.
-
-### What is a masked Aadhaar?
-
-A version that hides the first eight digits of your Aadhaar number. It’s safer when you only need to show your Aadhaar as ID.
 
 ## Related guides
 

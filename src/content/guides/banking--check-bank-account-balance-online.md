@@ -5,6 +5,8 @@ description: "Check your bank balance online in seconds on any UPI app with your
 section: banking
 published: 2026-01-28
 updated: 2026-09-27
+faqs:
+  - { q: "Does checking balance on UPI cost anything?", a: "No. Balance enquiry on UPI is free." }
 ---
 With internet access, the quickest ways to check your bank balance are your **bank’s mobile app**, **net banking** or any **UPI app**. Here’s how each works. For options without internet, see [checking your balance without an app](/banking/check-bank-balance-without-app/).
 
@@ -30,12 +32,6 @@ Log in with your MPIN, fingerprint or face ID. The balance is usually shown on t
 -   Checking your balance never requires sharing your UPI PIN or OTP with anyone.
 -   Use only official apps from the Play Store or App Store.
 -   If you see a debit you don’t recognise, block the account in your app and report cyber fraud on **1930**.
-
-## Frequently asked questions
-
-### Does checking balance on UPI cost anything?
-
-No. Balance enquiry on UPI is free.
 
 ## Related guides
 

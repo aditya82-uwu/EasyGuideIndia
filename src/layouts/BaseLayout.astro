@@ -8,61 +8,116 @@ interface Props {
   type?: 'website' | 'article';
   // Path under public/, e.g. "/og/default.png"
   image?: string;
+  noindex?: boolean;
+  // Serialised JSON-LD graph, built with lib/schema.ts
+  jsonLd?: string;
 }
-const { title, description, canonical, type = 'website', image = '/og/default.png' } = Astro.props;
+const { title, description, canonical, type = 'website', image = '/og/default.png', noindex = false, jsonLd } = Astro.props;
 const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const imageUrl = new URL(image, Astro.site).href;
+
+const path = Astro.url.pathname;
+const nav = [
+  { href: '/stadiums/', label: 'Stadiums', match: ['/stadiums/', '/blog/'] },
+  { href: '/finance/', label: 'IPL & finance', match: ['/finance/'] },
+  { href: '/railway/', label: 'Railway', match: ['/railway/'] },
+  { href: '/banking/', label: 'Banking', match: ['/banking/'] },
+  { href: '/documents/', label: 'Documents', match: ['/documents/'] },
+];
+const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
 ---
 <!doctype html>
-<html lang="en">
+<html lang="en-IN">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={url} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={type} />
     <meta property="og:url" content={url} />
     <meta property="og:site_name" content="Easy Guide India" />
+    <meta property="og:locale" content="en_IN" />
     <meta property="og:image" content={imageUrl} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
-    <meta name="theme-color" content="#0f172a" />
+    <meta name="theme-color" content="#f6f3ec" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
+    {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
     <slot name="head" />
   </head>
-  <body class="min-h-screen flex flex-col">
-    <header class="bg-ink text-white">
-      <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-        <a href="/" class="text-lg font-extrabold tracking-tight">Easy<span class="text-accent">Guide</span>India</a>
-        <nav class="flex flex-wrap justify-end gap-x-4 gap-y-1 text-sm font-medium">
-          <a href="/stadiums/" class="hover:text-accent">Stadiums</a>
-          <a href="/finance/" class="hover:text-accent">IPL &amp; Finance</a>
-          <a href="/railway/" class="hover:text-accent">Railway</a>
-          <a href="/banking/" class="hover:text-accent">Banking</a>
-          <a href="/documents/" class="hover:text-accent">Documents</a>
-          <a href="/search/" class="hover:text-accent" aria-label="Search">Search</a>
+  <body class="flex min-h-dvh flex-col">
+    <a href="#main" class="skip-link">Skip to content</a>
+
+    <header class="border-b border-rule bg-paper/90 backdrop-blur">
+      <div class="wrap flex items-center justify-between gap-6 py-4">
+        <a href="/" class="flex items-center gap-2.5" aria-label="Easy Guide India, home">
+          <svg width="26" height="26" viewBox="0 0 64 64" aria-hidden="true">
+            <rect x="19" y="20" width="5" height="30" rx="2" fill="#17150f"/>
+            <rect x="29.5" y="20" width="5" height="30" rx="2" fill="#17150f"/>
+            <rect x="40" y="20" width="5" height="30" rx="2" fill="#17150f"/>
+            <rect x="20" y="13" width="11" height="4" rx="2" fill="#b0382b"/>
+            <rect x="33" y="13" width="11" height="4" rx="2" fill="#b0382b"/>
+          </svg>
+          <span class="text-[1.05rem] font-semibold tracking-tight">Easy Guide India</span>
+        </a>
+
+        <nav aria-label="Primary" class="hidden items-center gap-1 text-sm md:flex">
+          {nav.map((n) => (
+            <a href={n.href} aria-current={isActive(n.match) ? 'page' : undefined}
+               class="rounded-md px-3 py-2 font-medium text-ink-2 transition-colors hover:text-ink aria-[current=page]:text-ink aria-[current=page]:underline aria-[current=page]:decoration-accent aria-[current=page]:decoration-2 aria-[current=page]:underline-offset-[10px]">
+              {n.label}
+            </a>
+          ))}
+          <a href="/search/" aria-label="Search the site" class="ml-2 grid size-9 place-items-center rounded-md text-ink-2 transition-colors hover:bg-paper-2 hover:text-ink">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          </a>
         </nav>
+
+        <details class="group relative md:hidden">
+          <summary class="grid size-10 cursor-pointer list-none place-items-center rounded-md hover:bg-paper-2 [&::-webkit-details-marker]:hidden" aria-label="Menu">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>
+          </summary>
+          <nav aria-label="Mobile" class="absolute right-0 top-12 z-20 w-60 rounded-lg border border-rule bg-surface p-2 shadow-lift">
+            {nav.map((n) => (
+              <a href={n.href} aria-current={isActive(n.match) ? 'page' : undefined} class="block rounded-md px-3 py-2.5 text-[0.95rem] font-medium hover:bg-paper-2 aria-[current=page]:text-accent">{n.label}</a>
+            ))}
+            <a href="/search/" class="block rounded-md px-3 py-2.5 text-[0.95rem] font-medium hover:bg-paper-2">Search</a>
+          </nav>
+        </details>
       </div>
     </header>
-    <main class="flex-1"><slot /></main>
-    <footer class="mt-16 bg-ink text-sm text-slate-300">
-      <div class="mx-auto max-w-5xl px-4 py-8">
-        <nav class="mb-4 flex flex-wrap gap-x-5 gap-y-1 font-medium text-white">
-          <a href="/about-us/">About</a>
-          <a href="/contact-us/">Contact</a>
-          <a href="/privacy-policy/">Privacy</a>
-          <a href="/terms-and-conditions/">Terms</a>
-          <a href="/disclaimer/">Disclaimer</a>
+
+    <main id="main" class="flex-1"><slot /></main>
+
+    <footer class="mt-24 bg-ink text-paper/80">
+      <div class="wrap grid gap-10 py-12 md:grid-cols-12">
+        <div class="md:col-span-6">
+          <p class="text-lg font-semibold tracking-tight text-paper">Easy Guide India</p>
+          <p class="mt-3 max-w-md text-sm leading-relaxed">Match-day guides for Indian cricket grounds, plus plain-language explainers on IPL rules, railways, banking and documents. Rules change from match to match, so check the latest notice from the team, the board or local traffic police before you travel.</p>
+        </div>
+        <nav aria-label="Footer" class="md:col-span-6 md:justify-self-end">
+          <ul class="flex flex-wrap gap-x-6 gap-y-2 text-sm">
+            <li><a class="hover:text-paper hover:underline" href="/about-us/">About</a></li>
+            <li><a class="hover:text-paper hover:underline" href="/contact-us/">Contact</a></li>
+            <li><a class="hover:text-paper hover:underline" href="/privacy-policy/">Privacy</a></li>
+            <li><a class="hover:text-paper hover:underline" href="/terms-and-conditions/">Terms</a></li>
+            <li><a class="hover:text-paper hover:underline" href="/disclaimer/">Disclaimer</a></li>
+          </ul>
         </nav>
-        <p>Easy Guide India: match-day stadium guides for Indian cricket venues. Rules change per match, so check the latest advisory from the team, BCCI or local traffic police before you travel.</p>
+      </div>
+      <div class="border-t border-paper/10">
+        <p class="wrap py-5 text-xs text-paper/50">&copy; {new Date().getFullYear()} Easy Guide India. Independent site, not affiliated with the BCCI, the IPL or any franchise.</p>
       </div>
     </footer>
   </body>

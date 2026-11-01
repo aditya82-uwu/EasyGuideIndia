@@ -10,6 +10,11 @@ country: "India"
 homeTeam: "Mumbai Indians"
 published: 2026-04-01
 updated: 2026-09-27
+faqs:
+  - { q: "Which station is nearest to Wankhede Stadium?", a: "Churchgate on the Western Railway, a few minutes’ walk. Marine Lines is also close." }
+  - { q: "Is there parking at Wankhede Stadium?", a: "Not for the public. Use a local train, or park elsewhere in South Mumbai and take a cab." }
+  - { q: "Are power banks allowed in Wankhede Stadium?", a: "No. Power banks are on the prohibited list, so charge your phone fully before you go." }
+  - { q: "Can I carry a bag into Wankhede?", a: "Only a small bag. Bags larger than A4 size aren’t allowed." }
 quick:
   - { q: "Nearest train", a: "Churchgate, a few minutes walk", tone: info }
   - { q: "Metro", a: "Line 3 (Aqua) serves Churchgate area", tone: info }
@@ -53,24 +58,6 @@ There’s **no parking at the stadium** for the general public, and roadside par
 -   Sharp objects, lighters and cigarettes
 
 See our [IPL stadium entry rules guide](/finance/ipl-2026-stadium-entry-rules-mandatory-documents/) for the general IPL list.
-
-## Frequently asked questions
-
-### Which station is nearest to Wankhede Stadium?
-
-Churchgate on the Western Railway, a few minutes’ walk. Marine Lines is also close.
-
-### Is there parking at Wankhede Stadium?
-
-Not for the public. Use a local train, or park elsewhere in South Mumbai and take a cab.
-
-### Are power banks allowed in Wankhede Stadium?
-
-No. Power banks are on the prohibited list, so charge your phone fully before you go.
-
-### Can I carry a bag into Wankhede?
-
-Only a small bag. Bags larger than A4 size aren’t allowed.
 
 ## Related guides
 

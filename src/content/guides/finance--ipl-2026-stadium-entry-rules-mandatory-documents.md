@@ -5,6 +5,12 @@ description: "Going to an IPL match? Ticket and ID rules, the banned items list 
 section: finance
 published: 2026-03-30
 updated: 2026-09-27
+faqs:
+  - { q: "Are power banks allowed in IPL stadiums?", a: "No. Power banks and chargers are banned at almost every IPL venue, so charge your phone fully before you leave." }
+  - { q: "Do I need a physical ticket for an IPL match?", a: "Usually not. Most IPL tickets are digital QR tickets scanned at the gate. Follow the instructions on your ticket, as a few categories or venues may differ." }
+  - { q: "Can I carry a bag to an IPL match?", a: "Generally no. Backpacks and bags are banned at most venues, and some allow only a small purse. There’s usually no cloakroom." }
+  - { q: "Is water available inside the stadium?", a: "You can’t bring your own bottle. Drinking water and other drinks are available to buy inside the stadium." }
+  - { q: "What time should I reach for a 7:30 PM IPL match?", a: "Gates usually open 2–3 hours before. Aim to arrive by about 6:00 PM to clear security comfortably." }
 ---
 Going to an IPL match? Every stadium has its own gates, parking and transport plan, but the **entry rules are broadly the same across venues**: carry a valid ticket on your phone, use the gate printed on it, arrive early, and leave power banks, bags and outside food at home. This guide covers the rules that apply almost everywhere, with links to our detailed guide for each IPL stadium.
 
@@ -55,28 +61,6 @@ Nearest metro, parking, drop-off points and venue-specific rules:
 -   [Barsapara (ACA) Stadium, Guwahati](/blog/barsapara-stadium-guwahati-entry-rules-parking-guide/)
 
 Also see our [IPL stadium parking guide](/finance/ipl-2026-stadium-parking-fastag-rules/) and [IPL ticket GST and refund rules](/finance/ipl-2026-ticket-gst-refund-rules-explained/).
-
-## Frequently asked questions
-
-### Are power banks allowed in IPL stadiums?
-
-No. Power banks and chargers are banned at almost every IPL venue, so charge your phone fully before you leave.
-
-### Do I need a physical ticket for an IPL match?
-
-Usually not. Most IPL tickets are digital QR tickets scanned at the gate. Follow the instructions on your ticket, as a few categories or venues may differ.
-
-### Can I carry a bag to an IPL match?
-
-Generally no. Backpacks and bags are banned at most venues, and some allow only a small purse. There’s usually no cloakroom.
-
-### Is water available inside the stadium?
-
-You can’t bring your own bottle. Drinking water and other drinks are available to buy inside the stadium.
-
-### What time should I reach for a 7:30 PM IPL match?
-
-Gates usually open 2–3 hours before. Aim to arrive by about 6:00 PM to clear security comfortably.
 
 ## Related guides
 

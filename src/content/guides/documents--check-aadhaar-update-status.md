@@ -5,6 +5,9 @@ description: "Track your Aadhaar address, name, DOB or mobile update online with
 section: documents
 published: 2026-01-28
 updated: 2026-09-27
+faqs:
+  - { q: "I lost my URN. How can I check my status?", a: "The URN/SRN is also sent by SMS to your registered mobile. Otherwise, log in to myAadhaar, where recent update requests are listed, or call 1947." }
+  - { q: "Why was my Aadhaar update rejected?", a: "Usually because the entered details didn’t match the uploaded document, or the document was unclear or not in your name. Correct it and apply again." }
 ---
 After you ask for a change in your Aadhaar, whether address, name, date of birth, mobile number or photo, you get an **URN / SRN (Update or Service Request Number)**. With it, you can check online whether your update is in progress, approved or rejected. Here’s how.
 
@@ -39,16 +42,6 @@ Many updates are completed within a few days to a few weeks. UIDAI can take up t
 
 -   [Download the updated e-Aadhaar](/documents/download-aadhaar-card-online/). It’s valid everywhere as a printout.
 -   Or [order an Aadhaar PVC card](/documents/order-aadhaar-pvc-card-online/) by post.
-
-## Frequently asked questions
-
-### I lost my URN. How can I check my status?
-
-The URN/SRN is also sent by SMS to your registered mobile. Otherwise, log in to myAadhaar, where recent update requests are listed, or call 1947.
-
-### Why was my Aadhaar update rejected?
-
-Usually because the entered details didn’t match the uploaded document, or the document was unclear or not in your name. Correct it and apply again.
 
 ## Related guides
 

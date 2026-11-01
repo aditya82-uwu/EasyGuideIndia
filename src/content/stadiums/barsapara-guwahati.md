@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Rajasthan Royals (second home venue)"
 published: 2026-04-05
 updated: 2026-09-27
+faqs:
+  - { q: "Where can I park for a match at Barsapara Stadium?", a: "At Champawati Field or Sawkuchi High School Ground. Parking on A.K. Azad Road and A.K. Dev Road is restricted." }
+  - { q: "What time do gates open at Barsapara?", a: "For a 7:30 PM match, gates have opened at 4:00 PM. Arrive by 5:30 PM." }
 quick:
   - { q: "Public parking", a: "Champawati Field, Sawkuchi High School Ground", tone: info }
   - { q: "Drop-off", a: "Barsapara Tiniali, Dhirenpara Tiniali", tone: info }
@@ -43,16 +46,6 @@ _Guwahati traffic police and the Assam Cricket Association (ACA) issue advisorie
 -   **Gates open at 4:00 PM for 7:30 PM matches.** Reach by about 5:30 PM, as there are two layers of security checks.
 -   Use the gate printed on your ticket.
 -   **Not allowed:** power banks, Bluetooth speakers, professional cameras, helmets, umbrellas, lighters, coins, large backpacks and outside food, plus weapons, firecrackers and laser pointers.
-
-## Frequently asked questions
-
-### Where can I park for a match at Barsapara Stadium?
-
-At Champawati Field or Sawkuchi High School Ground. Parking on A.K. Azad Road and A.K. Dev Road is restricted.
-
-### What time do gates open at Barsapara?
-
-For a 7:30 PM match, gates have opened at 4:00 PM. Arrive by 5:30 PM.
 
 ## Related guides
 

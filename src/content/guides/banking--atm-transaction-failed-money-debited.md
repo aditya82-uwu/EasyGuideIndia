@@ -5,6 +5,9 @@ description: "Cash not dispensed but account debited? RBI requires reversal with
 section: banking
 published: 2026-02-14
 updated: 2026-09-27
+faqs:
+  - { q: "How long does a failed ATM transaction take to reverse?", a: "The RBI limit is 5 days after the transaction (T+5). Many reverse sooner." }
+  - { q: "Will I get compensation automatically?", a: "RBI requires banks to pay ₹100 per day of delay beyond T+5 without waiting for a claim. If it isn’t credited, raise it in your complaint." }
 ---
 The ATM didn’t give you cash, but money was debited from your account? This is common, and RBI rules protect you. The bank must **auto-reverse** the amount within a fixed time, and **pay you compensation** if it’s late.
 
@@ -20,16 +23,6 @@ This is under RBI’s framework on turnaround time (TAT) and customer compensati
 2.  **Wait a day or two.** Most failed withdrawals reverse automatically.
 3.  **If not reversed, complain to your bank** (your own bank, even if you used another bank’s ATM) through customer care, net banking or the branch. Get a complaint reference number.
 4.  **If there’s no fix within 30 days**, or you’re unhappy with the reply, complain to the **RBI Ombudsman** at [cms.rbi.org.in](https://cms.rbi.org.in/).
-
-## Frequently asked questions
-
-### How long does a failed ATM transaction take to reverse?
-
-The RBI limit is 5 days after the transaction (T+5). Many reverse sooner.
-
-### Will I get compensation automatically?
-
-RBI requires banks to pay ₹100 per day of delay beyond T+5 without waiting for a claim. If it isn’t credited, raise it in your complaint.
 
 ## Related guides
 

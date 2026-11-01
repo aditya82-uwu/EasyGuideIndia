@@ -10,6 +10,10 @@ country: "India"
 homeTeam: "Sunrisers Hyderabad"
 published: 2026-05-17
 updated: 2026-09-27
+faqs:
+  - { q: "Which metro station is nearest to Uppal Stadium?", a: "Stadium station on the Hyderabad Metro Blue Line, right next to the ground." }
+  - { q: "Where can I park for an SRH match at Uppal?", a: "At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur)." }
+  - { q: "Can I carry a bag or pen into Uppal Stadium?", a: "No. Bags, pens, key chains and electronics are banned, and there’s no cloakroom." }
 quick:
   - { q: "Nearest metro", a: "Stadium station (Blue Line). Uppal also close", tone: info }
   - { q: "Gates open", a: "3 hours before the start (IPL 2026)", tone: info }
@@ -55,20 +59,6 @@ Parking inside the stadium is only for VIP/VVIP pass holders. Don’t park on th
 -   Writing pens, key chains, ear pads and binoculars
 -   Laser pointers, sharp objects, flammable items and weapons
 -   Banners and pets
-
-## Frequently asked questions
-
-### Which metro station is nearest to Uppal Stadium?
-
-Stadium station on the Hyderabad Metro Blue Line, right next to the ground.
-
-### Where can I park for an SRH match at Uppal?
-
-At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur).
-
-### Can I carry a bag or pen into Uppal Stadium?
-
-No. Bags, pens, key chains and electronics are banned, and there’s no cloakroom.
 
 ## Related guides
 

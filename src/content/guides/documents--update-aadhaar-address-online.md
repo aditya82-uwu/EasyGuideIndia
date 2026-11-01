@@ -5,6 +5,10 @@ description: "Change your Aadhaar address online on myAadhaar: step-by-step proc
 section: documents
 published: 2026-01-13
 updated: 2026-09-27
+faqs:
+  - { q: "Can I update my Aadhaar address without a registered mobile number?", a: "Not online. The myAadhaar portal needs an OTP on your registered mobile. Without it, visit an Aadhaar Seva Kendra or enrolment centre." }
+  - { q: "How many times can I change my address in Aadhaar?", a: "UIDAI doesn’t set a strict limit on address changes, unlike name (twice) and date of birth (once)." }
+  - { q: "Is a new Aadhaar number issued after an address change?", a: "No. Your Aadhaar number stays the same; only the address is updated." }
 ---
 You can change the address on your Aadhaar card online through UIDAI’s **myAadhaar** portal, without visiting an Aadhaar centre, as long as your mobile number is linked to your Aadhaar. You just log in with an OTP, upload a proof of address, and track the request with the number you get. Below are the exact steps, accepted documents, fees and what to do if your request is rejected.
 
@@ -55,20 +59,6 @@ Most online address updates are processed within a few days to a few weeks. UIDA
 -   You uploaded a document type that isn’t valid as proof of address.
 
 If your request is rejected, the SMS or status page usually shows the reason. Fix it and submit a fresh request.
-
-## Frequently asked questions
-
-### Can I update my Aadhaar address without a registered mobile number?
-
-Not online. The myAadhaar portal needs an OTP on your registered mobile. Without it, visit an Aadhaar Seva Kendra or enrolment centre.
-
-### How many times can I change my address in Aadhaar?
-
-UIDAI doesn’t set a strict limit on address changes, unlike name (twice) and date of birth (once).
-
-### Is a new Aadhaar number issued after an address change?
-
-No. Your Aadhaar number stays the same; only the address is updated.
 
 ## Related guides
 

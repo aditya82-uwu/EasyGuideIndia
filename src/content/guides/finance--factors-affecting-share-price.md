@@ -5,6 +5,10 @@ description: "Why share prices rise or fall: results, debt and corporate actions
 section: finance
 published: 2026-02-09
 updated: 2026-09-27
+faqs:
+  - { q: "Why did a share fall even after good results?", a: "Prices already reflect expected results. If profit was below estimates, guidance was weak, or margins shrank, the stock can fall even when profit grew." }
+  - { q: "Do dividends reduce the share price?", a: "Yes, on the ex-dividend date the price usually drops by about the dividend amount, because new buyers won’t receive it." }
+  - { q: "Where can I check a company’s official announcements?", a: "On the “Corporate announcements” pages of NSE and BSE, and on the company’s investor-relations page." }
 ---
 A **share price** moves when more people want to buy a stock than sell it, or the other way round. What changes their minds falls into three groups: **the company’s own performance**, **its sector**, and **the wider economy and market mood**. This guide explains each group with examples from Indian stocks (banks, IT, power, consumer companies), so you can make sense of why a stock rose or fell.
 
@@ -63,20 +67,6 @@ Only indirectly. Crypto and stocks sometimes fall together when investors are av
 2.  Check if the whole sector or index moved the same way that day.
 3.  Look for economy-wide news (RBI policy, Budget, global markets).
 4.  Be wary of “target price” tips on social media and messaging apps. SEBI has warned investors about unregistered advisers.
-
-## Frequently asked questions
-
-### Why did a share fall even after good results?
-
-Prices already reflect expected results. If profit was below estimates, guidance was weak, or margins shrank, the stock can fall even when profit grew.
-
-### Do dividends reduce the share price?
-
-Yes, on the ex-dividend date the price usually drops by about the dividend amount, because new buyers won’t receive it.
-
-### Where can I check a company’s official announcements?
-
-On the “Corporate announcements” pages of NSE and BSE, and on the company’s investor-relations page.
 
 ## Related guides
 

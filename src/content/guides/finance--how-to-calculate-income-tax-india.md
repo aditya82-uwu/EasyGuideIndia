@@ -5,6 +5,10 @@ description: "Calculate your income tax step by step: new and old regime slabs f
 section: finance
 published: 2026-02-13
 updated: 2026-09-27
+faqs:
+  - { q: "Is income up to ₹12 lakh really tax-free?", a: "Yes, under the new regime, provided the income is taxed at slab rates. With the ₹75,000 standard deduction, salary up to ₹12.75 lakh pays no tax. Capital gains taxed at special rates don’t get the rebate." }
+  - { q: "Did Budget 2026 change the income tax slabs?", a: "No. The slabs, standard deduction and rebate for FY 2026-27 are the same as FY 2025-26. The main change is the new Income-tax Act, 2025, which applies from 1 April 2026." }
+  - { q: "Which regime should I choose?", a: "If your deductions (80C, 80D, HRA, home-loan interest) are small, the new regime usually costs less. Compare both: [old vs new tax regime](/finance/)." }
 ---
 To work out your **income tax in India**, add up your income, subtract the deductions your tax regime allows, apply the slab rates, then subtract any rebate and add 4% cess. This guide walks through each step with worked examples, using the rates for **FY 2026-27** (the tax year starting 1 April 2026).
 
@@ -89,20 +93,6 @@ Taxable income = ₹17,25,000. Slab tax = ₹20,000 + ₹40,000 (10% of ₹4 lak
 ## Where to calculate and file
 
 Use the free **tax calculator** on the Income Tax e-filing portal to check your figure, then file your return there. Your employer deducts TDS based on the regime you declare. Check that the TDS matches your **Form 26AS / AIS** before filing. Make sure your PAN is linked to Aadhaar: see [PAN–Aadhaar link status](/documents/check-pan-aadhaar-link-status/).
-
-## Frequently asked questions
-
-### Is income up to ₹12 lakh really tax-free?
-
-Yes, under the new regime, provided the income is taxed at slab rates. With the ₹75,000 standard deduction, salary up to ₹12.75 lakh pays no tax. Capital gains taxed at special rates don’t get the rebate.
-
-### Did Budget 2026 change the income tax slabs?
-
-No. The slabs, standard deduction and rebate for FY 2026-27 are the same as FY 2025-26. The main change is the new Income-tax Act, 2025, which applies from 1 April 2026.
-
-### Which regime should I choose?
-
-If your deductions (80C, 80D, HRA, home-loan interest) are small, the new regime usually costs less. Compare both: [old vs new tax regime](/finance/).
 
 ## Related guides
 

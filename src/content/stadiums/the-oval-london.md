@@ -10,6 +10,9 @@ country: "UK"
 homeTeam: "Surrey"
 published: 2026-06-12
 updated: 2026-09-27
+faqs:
+  - { q: "Which tube station is closest to the Oval?", a: "Oval station on the Northern line. Vauxhall is also close." }
+  - { q: "Can I bring alcohol to an England match at the Oval?", a: "Not for major internationals or The Hundred. Limited amounts are allowed for county matches." }
 quick:
   - { q: "Nearest stations", a: "Oval (Northern), Vauxhall (Victoria, National Rail)", tone: info }
   - { q: "Bags", a: "One per person, max 45 x 30 x 30 cm", tone: info }
@@ -42,16 +45,6 @@ One bag per person, no bigger than **45 cm × 30 cm × 30 cm (18″ × 12″ × 
 | County Championship and One-Day Cup | Limited: up to four 500 ml cans of beer/lager _or_ one 750 ml plastic container of wine |
 
 You **can bring your own food** to all matches, which makes a picnic a cheap option for a long Test day.
-
-## Frequently asked questions
-
-### Which tube station is closest to the Oval?
-
-Oval station on the Northern line. Vauxhall is also close.
-
-### Can I bring alcohol to an England match at the Oval?
-
-Not for major internationals or The Hundred. Limited amounts are allowed for county matches.
 
 ## Related guides
 

@@ -3,6 +3,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
+import { extractFaqs, faqYaml } from './lib/faq.mjs';
 
 const root = new URL('../', import.meta.url);
 const posts = JSON.parse(await readFile(new URL('export/posts.json', root), 'utf8'));
@@ -58,6 +59,8 @@ for (const [file, [slug, name, official, city, state, country, team]] of Object.
   let body = td.turndown(clean(p.content.rendered)).replace(/\n{3,}/g, '\n\n').trim();
   // The first paragraph is already the intro; keep it. Drop any leftover "Table of Contents" label.
   body = body.replace(/^Table of Contents\s*$/m, '');
+  const faqs = extractFaqs(body);
+  body = faqs.body;
   const fm = [
     '---',
     `legacySlug: ${q(slug)}`,
@@ -71,6 +74,7 @@ for (const [file, [slug, name, official, city, state, country, team]] of Object.
     `homeTeam: ${q(team)}`,
     `published: ${p.date.slice(0, 10)}`,
     `updated: ${p.modified.slice(0, 10)}`,
+    ...faqYaml(faqs.faqs),
     'quick:',
     ...(quick[file] ?? []).map((x) => `  - { q: ${q(x.q)}, a: ${q(x.a)}, tone: ${x.tone} }`),
     ...(quick[file] ? [] : ['  []']),

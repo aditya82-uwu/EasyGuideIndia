@@ -5,6 +5,9 @@ description: "Tatkal booking opens at 10 AM (AC) and 11 AM (non-AC). The Aadhaar
 section: railway
 published: 2026-04-12
 updated: 2026-09-27
+faqs:
+  - { q: "Can I cancel a confirmed Tatkal ticket?", a: "You can cancel, but there’s no refund for a confirmed Tatkal ticket. Waitlisted Tatkal tickets can be cancelled with the applicable charges." }
+  - { q: "Is Aadhaar needed for Tatkal at the counter?", a: "Railways has also introduced OTP-based verification for Tatkal bookings at counters and through agents. Carry the mobile linked to your Aadhaar." }
 ---
 **Tatkal** is Indian Railways’ quota for last-minute travel. Bookings open **one day before the journey**, and seats on popular trains sell out in minutes. Since July 2025, **Aadhaar OTP authentication is mandatory** for online Tatkal bookings. Here are the timings, rules and a routine that gives you the best chance of a confirmed ticket.
 
@@ -39,16 +42,6 @@ updated: 2026-09-27
 3.  At opening time, choose the train and class and click **Book Now**.
 4.  Add passengers from your Master List and complete the **Aadhaar OTP**.
 5.  Pay quickly. Seats are held only for a short time.
-
-## Frequently asked questions
-
-### Can I cancel a confirmed Tatkal ticket?
-
-You can cancel, but there’s no refund for a confirmed Tatkal ticket. Waitlisted Tatkal tickets can be cancelled with the applicable charges.
-
-### Is Aadhaar needed for Tatkal at the counter?
-
-Railways has also introduced OTP-based verification for Tatkal bookings at counters and through agents. Carry the mobile linked to your Aadhaar.
 
 ## Related guides
 

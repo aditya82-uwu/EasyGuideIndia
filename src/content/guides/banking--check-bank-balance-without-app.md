@@ -5,6 +5,10 @@ description: "Check any Indian bank balance without an app or internet: missed-c
 section: banking
 published: 2026-04-12
 updated: 2026-09-27
+faqs:
+  - { q: "Is missed-call balance enquiry free?", a: "Yes. The call disconnects automatically and banks don’t charge for it." }
+  - { q: "Can I check my balance without a registered mobile number?", a: "Not by phone. Use an ATM, your passbook at the branch, or net banking." }
+  - { q: "Will the bank ask for my PIN or OTP on a missed call?", a: "Never. Balance enquiry by missed call needs no PIN or OTP. Anyone calling you to ask for them is a fraudster." }
 ---
 No internet, no smartphone, or just don’t want to open an app? You can still check your bank balance in seconds with a **missed call**, the **\*99# USSD service** or **WhatsApp banking**. All you need is the **mobile number registered with your bank account**.
 
@@ -49,20 +53,6 @@ Many banks offer balance enquiry on WhatsApp. Save your bank’s official WhatsA
 -   Register for missed-call banking if your bank requires it.
 -   Check that SMS alerts are active and your inbox isn’t full.
 -   For \*99#, make sure your UPI PIN is set.
-
-## Frequently asked questions
-
-### Is missed-call balance enquiry free?
-
-Yes. The call disconnects automatically and banks don’t charge for it.
-
-### Can I check my balance without a registered mobile number?
-
-Not by phone. Use an ATM, your passbook at the branch, or net banking.
-
-### Will the bank ask for my PIN or OTP on a missed call?
-
-Never. Balance enquiry by missed call needs no PIN or OTP. Anyone calling you to ask for them is a fraudster.
 
 ## Related guides
 

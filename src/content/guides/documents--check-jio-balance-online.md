@@ -5,6 +5,9 @@ description: "Check Jio balance, data and validity by dialling *333#, sending BA
 section: documents
 published: 2026-05-09
 updated: 2026-09-27
+faqs:
+  - { q: "Is checking Jio balance free?", a: "Yes. USSD, SMS to 199, missed call and the MyJio app are all free." }
+  - { q: "The code isn’t working. What should I do?", a: "Operators sometimes change codes. The MyJio app is the most reliable way to check balance and validity." }
 ---
 Want to know how much data, validity or talk-time balance is left on your Jio number? You can check it in seconds with a USSD code, an SMS, a missed call or the MyJio app, even without mobile data for most options.
 
@@ -21,16 +24,6 @@ Want to know how much data, validity or talk-time balance is left on your Jio nu
 ## Check data usage
 
 The MyJio app shows exactly how much of your daily or plan data you’ve used and when it resets. Jio also sends SMS alerts when you’ve used 50%, 90% and 100% of your daily data.
-
-## Frequently asked questions
-
-### Is checking Jio balance free?
-
-Yes. USSD, SMS to 199, missed call and the MyJio app are all free.
-
-### The code isn’t working. What should I do?
-
-Operators sometimes change codes. The MyJio app is the most reliable way to check balance and validity.
 
 ## Related guides
 

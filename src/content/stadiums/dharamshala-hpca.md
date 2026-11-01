@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Punjab Kings (alternate home venue)"
 published: 2026-05-17
 updated: 2026-09-27
+faqs:
+  - { q: "Can I drive to the HPCA Stadium on match day?", a: "Not up to the gate. The area around the stadium is a no-vehicle zone. Park at your assigned ground and take the HRTC shuttle." }
+  - { q: "Which airport is nearest to Dharamshala stadium?", a: "Kangra Airport (Gaggal), about 12 km from the stadium." }
 quick:
   - { q: "Near the stadium", a: "No-vehicle zone on match days", tone: no }
   - { q: "Shuttles", a: "HRTC buses from designated parking grounds", tone: yes }
@@ -43,16 +46,6 @@ _Kangra Police issues a traffic plan before each big match. Check the latest one
 -   **Not allowed:** backpacks and large bags, power banks, professional cameras, laptops, outside food and water bottles.
 -   **Usually allowed after a search:** small ladies’ clutches or belt pouches (A4 size or smaller).
 -   Evenings get cold in the hills even in April–May, so carry a light jacket.
-
-## Frequently asked questions
-
-### Can I drive to the HPCA Stadium on match day?
-
-Not up to the gate. The area around the stadium is a no-vehicle zone. Park at your assigned ground and take the HRTC shuttle.
-
-### Which airport is nearest to Dharamshala stadium?
-
-Kangra Airport (Gaggal), about 12 km from the stadium.
 
 ## Related guides
 

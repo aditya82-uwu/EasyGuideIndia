@@ -5,6 +5,10 @@ description: "Check your e-Shram registration, download the UAN card on eshram.g
 section: documents
 published: 2026-04-12
 updated: 2026-09-27
+faqs:
+  - { q: "How do I check if my e-Shram card is active?", a: "Log in on eshram.gov.in with your mobile or UAN. If your profile and UAN card open, your registration is active." }
+  - { q: "I forgot my UAN. What do I do?", a: "Log in with your Aadhaar-linked mobile number and OTP on eshram.gov.in, where your UAN is shown on your profile and card." }
+  - { q: "Is there an e-Shram helpline?", a: "Yes. The national helpline number **14434** is listed on the e-Shram portal." }
 ---
 The **e-Shram card** is the Ministry of Labour’s registration for unorganised workers: daily-wage labourers, domestic workers, street vendors, gig and platform workers, farm workers and more. Once registered, you get a **12-digit UAN (Universal Account Number)**. Here’s how to check your registration, download your card, and what the card actually gives you.
 
@@ -28,20 +32,6 @@ Many websites and videos talk about an “e-Shram payment status” or “₹1,0
 ## Not registered yet?
 
 See [how to register for an e-Shram card](/documents/e-shram-card-registration/). It’s free.
-
-## Frequently asked questions
-
-### How do I check if my e-Shram card is active?
-
-Log in on eshram.gov.in with your mobile or UAN. If your profile and UAN card open, your registration is active.
-
-### I forgot my UAN. What do I do?
-
-Log in with your Aadhaar-linked mobile number and OTP on eshram.gov.in, where your UAN is shown on your profile and card.
-
-### Is there an e-Shram helpline?
-
-Yes. The national helpline number **14434** is listed on the e-Shram portal.
 
 ## Related guides
 

@@ -10,6 +10,9 @@ country: "UK"
 homeTeam: "Hampshire"
 published: 2026-06-12
 updated: 2026-09-27
+faqs:
+  - { q: "Is there a shuttle to the Utilita Bowl?", a: "Yes. On match days, free shuttle buses run from Southampton Airport Parkway and Hedge End stations." }
+  - { q: "Can I bring alcohol to the Utilita Bowl?", a: "No. Only alcohol bought inside the ground can be consumed." }
 quick:
   - { q: "Nearest stations", a: "Hedge End, Southampton Airport Parkway", tone: info }
   - { q: "Shuttle", a: "Free rail shuttle buses on match days", tone: yes }
@@ -39,16 +42,6 @@ _Check the official [Utilita Bowl directions and FAQs](https://www.utilitabowl.c
 ## Payments
 
 The Utilita Bowl is a **cashless venue**: card and mobile payments only.
-
-## Frequently asked questions
-
-### Is there a shuttle to the Utilita Bowl?
-
-Yes. On match days, free shuttle buses run from Southampton Airport Parkway and Hedge End stations.
-
-### Can I bring alcohol to the Utilita Bowl?
-
-No. Only alcohol bought inside the ground can be consumed.
 
 ## Related guides
 

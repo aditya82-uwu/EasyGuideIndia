@@ -1,0 +1,15 @@
+---
+interface Props { trail: { name: string; href?: string }[]; current: string }
+const { trail, current } = Astro.props;
+---
+<nav aria-label="Breadcrumb" class="font-mono text-[0.78rem] text-ink-3">
+  <ol class="flex flex-wrap items-center gap-x-2 gap-y-1">
+    {trail.map((t) => (
+      <li class="flex items-center gap-2">
+        <a href={t.href ?? '/'} class="underline decoration-rule underline-offset-4 transition-colors hover:text-ink hover:decoration-accent">{t.name}</a>
+        <span aria-hidden="true">/</span>
+      </li>
+    ))}
+    <li aria-current="page" class="text-ink-2">{current}</li>
+  </ol>
+</nav>

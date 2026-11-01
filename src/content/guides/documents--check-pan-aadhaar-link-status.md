@@ -5,6 +5,9 @@ description: "Check if your PAN is linked with Aadhaar on the Income Tax portal 
 section: documents
 published: 2026-03-19
 updated: 2026-09-27
+faqs:
+  - { q: "How do I know if my PAN is inoperative?", a: "If it isn’t linked with Aadhaar (and you’re not exempt), it’s inoperative. The e-filing portal also shows PAN status when you log in or use “Verify Your PAN”." }
+  - { q: "How long after linking does PAN become operative again?", a: "Usually within about 30 days of successful linking." }
 ---
 Not sure whether your PAN is linked with Aadhaar? It matters: **PANs not linked by 31 December 2025 became inoperative from 1 January 2026**. You can check your link status in under a minute online or by SMS, without logging in.
 
@@ -26,16 +29,6 @@ Send **UIDPAN <12-digit Aadhaar> <10-digit PAN>** to **567678** or **56161** fro
 | Your PAN is linked to Aadhaar | Nothing, you’re done |
 | Link request sent to UIDAI for validation | Wait a few days and check again |
 | PAN not linked with Aadhaar | Pay the ₹1,000 fee and [link it now](/documents/pan-card-reprint-online/) |
-
-## Frequently asked questions
-
-### How do I know if my PAN is inoperative?
-
-If it isn’t linked with Aadhaar (and you’re not exempt), it’s inoperative. The e-filing portal also shows PAN status when you log in or use “Verify Your PAN”.
-
-### How long after linking does PAN become operative again?
-
-Usually within about 30 days of successful linking.
 
 ## Related guides
 

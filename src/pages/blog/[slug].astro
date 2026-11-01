@@ -1,7 +1,11 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import QuickAnswers from '../../components/QuickAnswers.astro';
+import Toc from '../../components/Toc.astro';
+import Faq from '../../components/Faq.astro';
+import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, venueLd, graph } from '../../lib/schema';
 
 export async function getStaticPaths() {
   const stadiums = await getCollection('stadiums');
@@ -10,55 +14,58 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const d = entry.data;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const image = `${SITE}/og/${d.legacySlug}.png`;
 const fmt = (date: Date) => date.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
 
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@graph': [
-    {
-      '@type': 'Article',
-      headline: d.title,
-      description: d.description,
-      datePublished: d.published.toISOString(),
-      dateModified: d.updated.toISOString(),
-      author: { '@type': 'Organization', name: 'Easy Guide India' },
-      publisher: { '@type': 'Organization', name: 'Easy Guide India' },
-      mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
-    },
-    ...(d.faqs.length ? [{
-      '@type': 'FAQPage',
-      mainEntity: d.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
-    }] : []),
-  ],
-};
+const jsonLd = graph(
+  ORG,
+  websiteLd,
+  breadcrumbLd([{ name: 'Home', href: '/' }, { name: 'Stadiums', href: '/stadiums/' }], { name: d.name, url }),
+  venueLd({ name: d.officialName, city: d.city, state: d.state, country: d.country, url }),
+  articleLd({ url, title: d.title, description: d.description, image, published: d.published, updated: d.updated }),
+  faqLd(d.faqs),
+);
+
+// Structured sections (hand-built guides) render ahead of the markdown body.
+const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.banned);
 ---
-<BaseLayout title={d.title} description={d.description} type="article" image={`/og/${d.legacySlug}.png`}>
-  <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  <article data-pagefind-body class="mx-auto max-w-3xl px-4 py-8">
-    <nav class="text-sm text-muted" aria-label="Breadcrumb"><a href="/" class="underline">Home</a> / <a href="/stadiums/" class="underline">Stadiums</a> / {d.city}</nav>
-    <h1 class="mt-3 text-3xl font-extrabold leading-tight tracking-tight sm:text-4xl">{d.name}: gates, parking &amp; entry rules</h1>
-    <p class="mt-2 text-sm text-muted">{d.officialName} · {d.city}, {d.state} · Updated {fmt(d.updated)}</p>
+<BaseLayout title={d.title} description={d.description} type="article" image={`/og/${d.legacySlug}.png`} jsonLd={jsonLd}>
+  <article data-pagefind-body>
+    <header class="wrap pb-8 pt-10 sm:pt-14">
+      <Breadcrumbs trail={[{ name: 'Home', href: '/' }, { name: 'Stadiums', href: '/stadiums/' }]} current={d.name} />
+      <p class="kicker mt-8">{d.city === d.state ? d.city : `${d.city}, ${d.state}`}</p>
+      <h1 class="display mt-2 max-w-4xl text-[clamp(2.75rem,7vw,5.25rem)]">{d.name}</h1>
+      <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-2">Gates, parking, transport and entry rules at {d.officialName}.</p>
+      <p class="mt-4 font-mono text-[0.78rem] text-ink-3">Home of {d.homeTeam} &middot; Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{fmt(d.updated)}</time></p>
+    </header>
 
-    {d.quick.length > 0 && <div class="mt-6"><QuickAnswers items={d.quick} /></div>}
+    <div class="wrap grid gap-10 pb-6 lg:grid-cols-[minmax(0,1fr)_20.5rem] lg:gap-16">
+      <div class="order-2 min-w-0 lg:order-1">
+        <div class="prose-egi">
+          {hasStructured && (
+            <>
+              {d.transport && <><h2 id="getting-there">Getting there</h2><ul>{d.transport.map((t) => <li><strong>{t.name}.</strong> {t.detail}</li>)}</ul></>}
+              {d.parking && <><h2 id="parking">Parking</h2><ul>{d.parking.map((p) => <li><strong>{p.name}.</strong> {p.detail}</li>)}</ul></>}
+              {(d.tickets || d.gates) && <><h2 id="tickets-and-gates">Tickets and gates</h2>{d.tickets && <p>{d.tickets}</p>}{d.gates && <p>{d.gates}</p>}</>}
+              {d.banned && <><h2 id="not-allowed-inside">Not allowed inside</h2><ul>{d.banned.map((b) => <li>{b}</li>)}</ul>{d.carry && <p><strong>What to carry.</strong> {d.carry}</p>}</>}
+            </>
+          )}
+          <Content />
+        </div>
+        <Faq faqs={d.faqs} />
+        <aside class="mt-14 max-w-[68ch] border-l-2 border-accent pl-5 text-sm leading-relaxed text-ink-2">
+          Traffic and parking plans are announced by local traffic police before each big match, and ticket rules by the team or board. Check the latest notice for your match before you travel.
+        </aside>
+      </div>
 
-    <div class="prose-egi mt-8">
-      {d.transport && <><h2>How to reach {d.name}</h2><ul>{d.transport.map((t) => <li><strong>{t.name}:</strong> {t.detail}</li>)}</ul></>}
-      {d.parking && <><h2>Parking</h2><ul>{d.parking.map((p) => <li><strong>{p.name}:</strong> {p.detail}</li>)}</ul></>}
-      {(d.tickets || d.gates) && <><h2>Tickets and gates</h2>{d.tickets && <p>{d.tickets}</p>}{d.gates && <p>{d.gates}</p>}</>}
-      {d.banned && <><h2>Not allowed inside</h2><ul>{d.banned.map((b) => <li>{b}</li>)}</ul>{d.carry && <p><strong>What to carry:</strong> {d.carry}</p>}</>}
-
-      <Content />
-
-      {d.faqs.length > 0 && <h2>Frequently asked questions</h2>}
-      {d.faqs.map((f) => (
-        <details class="my-2 rounded-lg border border-line bg-white p-3">
-          <summary class="cursor-pointer font-semibold">{f.q}</summary>
-          <p class="mt-2">{f.a}</p>
-        </details>
-      ))}
+      <aside class="order-1 lg:order-2" aria-label="Summary">
+        <div class="space-y-9 lg:sticky lg:top-8">
+          {d.quick.length > 0 && <QuickAnswers items={d.quick} />}
+          <div class="hidden lg:block"><Toc headings={hasStructured ? [{ depth: 2, slug: 'getting-there', text: 'Getting there' }, { depth: 2, slug: 'parking', text: 'Parking' }, { depth: 2, slug: 'tickets-and-gates', text: 'Tickets and gates' }, { depth: 2, slug: 'not-allowed-inside', text: 'Not allowed inside' }] : headings} hasFaq={d.faqs.length > 0} /></div>
+        </div>
+      </aside>
     </div>
-
-    <p class="mt-10 rounded-lg bg-info-bg p-4 text-sm text-info">Traffic and parking plans are announced by local traffic police before each big match, and ticket rules by the team or board. Check the latest advisory for your match.</p>
   </article>
 </BaseLayout>

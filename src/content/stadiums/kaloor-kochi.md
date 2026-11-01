@@ -10,6 +10,9 @@ country: "India"
 homeTeam: "Kerala Blasters (ISL)"
 published: 2026-05-09
 updated: 2026-09-27
+faqs:
+  - { q: "Which metro station is nearest to Kaloor Stadium?", a: "JLN Stadium station on the Kochi Metro." }
+  - { q: "Where can I park for a Kerala Blasters match?", a: "At the paid public parking on the Helipad Ground behind the stadium." }
 quick:
   - { q: "Nearest metro", a: "JLN Stadium station (Kochi Metro)", tone: info }
   - { q: "Public parking", a: "Paid, Helipad Ground behind the stadium", tone: info }
@@ -36,16 +39,6 @@ Take **Kochi Metro** to **JLN Stadium** station, right by the stadium. On big ma
 -   Show your ticket at the gate. Your gate and stand are printed on it.
 -   Security checks for weapons, alcohol and prohibited items; banned items are confiscated.
 -   Don’t carry outside food, bottles, flares, fireworks, laser pointers or sharp objects.
-
-## Frequently asked questions
-
-### Which metro station is nearest to Kaloor Stadium?
-
-JLN Stadium station on the Kochi Metro.
-
-### Where can I park for a Kerala Blasters match?
-
-At the paid public parking on the Helipad Ground behind the stadium.
 
 ## Related guides
 

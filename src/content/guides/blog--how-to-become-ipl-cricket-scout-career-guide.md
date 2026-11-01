@@ -5,6 +5,9 @@ description: "What IPL scouts do, the skills they need, and realistic routes int
 section: blog
 published: 2026-05-05
 updated: 2026-09-27
+faqs:
+  - { q: "Do I need to have played professional cricket?", a: "It helps a lot, but it isn’t strictly required. A strong analysis or coaching record can also get you in." }
+  - { q: "How do players get scouted?", a: "By performing in recognised domestic cricket. See [how to join the IPL](/blog/how-to-join-ipl-cricket-trials-selection-process/) and [how to join a state team](/blog/how-to-join-state-cricket-team-ranji-trophy-selection-process/)." }
 ---
 An **IPL scout** watches domestic and age-group cricket to find players a franchise might sign or invite to trials. There’s no formal exam or licence for the job. Most scouts are former first-class players, coaches or analysts who build a track record and a network. This guide explains what scouts do, the skills they need, and realistic routes into the role.
 
@@ -34,16 +37,6 @@ An **IPL scout** watches domestic and age-group cricket to find players a franch
 ## Is scouting a full-time job?
 
 A few senior roles at franchises are full-time, but many scouts work on seasonal or part-time contracts alongside coaching or analysis. Pay varies widely by franchise and experience, and isn’t publicly disclosed.
-
-## Frequently asked questions
-
-### Do I need to have played professional cricket?
-
-It helps a lot, but it isn’t strictly required. A strong analysis or coaching record can also get you in.
-
-### How do players get scouted?
-
-By performing in recognised domestic cricket. See [how to join the IPL](/blog/how-to-join-ipl-cricket-trials-selection-process/) and [how to join a state team](/blog/how-to-join-state-cricket-team-ranji-trophy-selection-process/).
 
 ## Related guides
 

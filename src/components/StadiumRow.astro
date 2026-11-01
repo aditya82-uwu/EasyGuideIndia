@@ -1,0 +1,14 @@
+---
+interface Props { href: string; name: string; city: string; team: string; fact?: { q: string; a: string }; index?: number }
+const { href, name, city, team, fact, index } = Astro.props;
+---
+<a href={href} class="row-link group grid items-baseline gap-x-6 gap-y-1 md:grid-cols-[2rem_9rem_minmax(0,1fr)_minmax(0,1.1fr)_1.25rem]">
+  <span class="label hidden md:block">{index !== undefined ? String(index).padStart(2, '0') : ''}</span>
+  <span class="text-sm text-ink-3">{city}</span>
+  <span>
+    <span class="block text-[1.05rem] font-semibold leading-snug tracking-tight">{name}</span>
+    <span class="block text-sm text-ink-3">{team}</span>
+  </span>
+  <span class="text-sm leading-snug text-ink-2">{fact ? `${fact.q}: ${fact.a}` : ''}</span>
+  <svg class="hidden shrink-0 self-center text-ink-3 transition-transform duration-200 group-hover:translate-x-1 group-hover:text-accent md:block" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10h11m-4-4 4 4-4 4"/></svg>
+</a>

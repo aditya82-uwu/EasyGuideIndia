@@ -5,6 +5,9 @@ description: "Check which bank your Aadhaar is seeded with for DBT (PM-Kisan, su
 section: documents
 published: 2026-03-23
 updated: 2026-09-27
+faqs:
+  - { q: "Why is my DBT payment going to a different bank?", a: "Because that bank is the one mapped to your Aadhaar in the NPCI mapper. Ask your preferred bank to seed your Aadhaar for DBT." }
+  - { q: "How long does Aadhaar seeding take?", a: "Usually a few working days after the bank submits it to NPCI." }
 ---
 **Aadhaar seeding** (or Aadhaar–bank linking / NPCI mapping) is what allows government benefits (DBT) such as PM-Kisan, scholarships, LPG subsidy and pensions to be paid directly into your bank account using your Aadhaar number. If a payment has “failed” or “Aadhaar not seeded”, this is the first thing to check.
 
@@ -28,16 +31,6 @@ Many banks and India Post Payments Bank also let you seed Aadhaar at a branch or
 ## Aadhaar seeding vs Aadhaar linking
 
 **Linking** Aadhaar to an account (for KYC) isn’t the same as **seeding** it in the NPCI mapper for DBT. Your Aadhaar can be linked to several accounts, but DBT goes only to the account shown in the seeding status. For PM-Kisan, see our [PM Kisan status guide](/documents/pm-kisan-status-check/).
-
-## Frequently asked questions
-
-### Why is my DBT payment going to a different bank?
-
-Because that bank is the one mapped to your Aadhaar in the NPCI mapper. Ask your preferred bank to seed your Aadhaar for DBT.
-
-### How long does Aadhaar seeding take?
-
-Usually a few working days after the bank submits it to NPCI.
 
 ## Related guides
 

@@ -5,6 +5,8 @@ description: "Forgot your debit card PIN? Generate a new ATM PIN through your ba
 section: banking
 published: 2026-01-13
 updated: 2026-09-27
+faqs:
+  - { q: "How soon can I use the new PIN?", a: "Usually immediately. Some banks require a first transaction at an ATM to activate it." }
 ---
 Forgot your debit card (ATM) PIN, or want to change it? You don’t usually need to visit the branch. You can set a new PIN through your **bank’s app**, **net banking** or **at an ATM** using an OTP on your registered mobile.
 
@@ -31,12 +33,6 @@ Many banks let you generate a PIN via the customer care IVR with your registered
 -   Don’t use your birth year or 1234.
 -   Cover the keypad when entering your PIN.
 -   No bank employee will ever ask for your PIN.
-
-## Frequently asked questions
-
-### How soon can I use the new PIN?
-
-Usually immediately. Some banks require a first transaction at an ATM to activate it.
 
 ## Related guides
 

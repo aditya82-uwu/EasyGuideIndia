@@ -5,6 +5,9 @@ description: "The NFL clear bag policy explained: 12x6x12 clear bag, gallon free
 section: blog
 published: 2026-05-22
 updated: 2026-09-27
+faqs:
+  - { q: "Can I bring a non-clear backpack to an NFL stadium?", a: "No. Only clear bags within 12″ × 6″ × 12″, plus a clutch up to 4.5″ × 6.5″." }
+  - { q: "Are diaper bags allowed?", a: "Under the standard NFL policy, only medically necessary items get an exception. Some venues make allowances for families, so check the stadium’s own page." }
 ---
 Most large stadiums in the US now follow a **clear bag policy**: you can bring one small **clear bag** plus a tiny clutch, and nothing else. The standard is the **NFL Clear Bag Policy**, which many venues also use for concerts, soccer and other events. This guide explains exactly what’s allowed, what’s banned, and how the rules differ in Canada, Mexico and at Indian cricket grounds.
 
@@ -49,16 +52,6 @@ Indian grounds are usually stricter: most don’t allow bags at all for IPL and 
 -   Check the event page: concerts or special events can have stricter rules than game days.
 -   If you’re carrying something that isn’t allowed, don’t count on bag check. Many US stadiums don’t offer it, and nearby private lockers fill up.
 -   Arrive early. Security lines are longest in the last hour before kick-off.
-
-## Frequently asked questions
-
-### Can I bring a non-clear backpack to an NFL stadium?
-
-No. Only clear bags within 12″ × 6″ × 12″, plus a clutch up to 4.5″ × 6.5″.
-
-### Are diaper bags allowed?
-
-Under the standard NFL policy, only medically necessary items get an exception. Some venues make allowances for families, so check the stadium’s own page.
 
 ## Related guides
 

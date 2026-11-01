@@ -2,6 +2,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
+import { extractFaqs, faqYaml } from './lib/faq.mjs';
 
 const root = new URL('../', import.meta.url);
 const all = [
@@ -61,6 +62,10 @@ const clean = (html) => html
   .replace(/&#8217;/g, '’');
 
 const q = (s) => JSON.stringify(s);
+// Yoast descriptions that run past 160 characters
+const DESC_OVERRIDE = {
+  'finance/ipl-2026-stadium-parking-fastag-rules': 'Where to park (and where not to) for IPL matches at Wankhede, Chepauk, Arun Jaitley, Eden, Chinnaswamy, Uppal and Ahmedabad, plus the better transit option.',
+};
 await mkdir(new URL('src/content/guides/', root), { recursive: true });
 const missing = [];
 const imgs = [];
@@ -73,15 +78,20 @@ for (const path of PATHS) {
   const title = (y.title ?? p.title.rendered).replace(/ - easyguideindia\.in$/, '').replace(/ \| Easy Guide India$/, '');
   const html = clean(p.content.rendered);
   for (const m of html.matchAll(/(?:src|href)="([^"]*wp-content[^"]*)"/g)) imgs.push([path, m[1]]);
-  const body = td.turndown(html).replace(/\n{3,}/g, '\n\n').replace(/^Table of Contents\s*$/m, '').trim();
+  const converted = td.turndown(html).replace(/\n{3,}/g, '\n\n').replace(/^Table of Contents\s*$/m, '').trim();
+  const extracted = extractFaqs(converted);
+  const faqs = extracted.faqs;
+  // Legal pages start at ###; promote so the outline never skips a level under the h1.
+  const body = /^## /m.test(extracted.body) ? extracted.body : extracted.body.replace(/^### /gm, '## ');
   const fm = [
     '---',
     `legacyPath: ${q(path)}`,
     `title: ${q(title)}`,
-    `description: ${q(y.description ?? y.og_description ?? '')}`,
+    `description: ${q(DESC_OVERRIDE[path] ?? y.description ?? y.og_description ?? '')}`,
     `section: ${section}`,
     `published: ${p.date.slice(0, 10)}`,
     `updated: ${p.modified.slice(0, 10)}`,
+    ...faqYaml(faqs),
     '---',
     '',
   ].join('\n');

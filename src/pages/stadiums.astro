@@ -1,26 +1,38 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import StadiumCard from '../components/StadiumCard.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import StadiumRow from '../components/StadiumRow.astro';
 import { byDemand, cardFact } from '../lib/stadiums';
+import { SITE, ORG, websiteLd, breadcrumbLd, graph } from '../lib/schema';
 
-const stadiums = byDemand(await getCollection('stadiums'));
-const india = stadiums.filter((s) => s.data.country === 'India');
-const abroad = stadiums.filter((s) => s.data.country !== 'India');
+const all = byDemand(await getCollection('stadiums'));
+const india = all.filter((s) => s.data.country === 'India');
+const abroad = all.filter((s) => s.data.country !== 'India');
+const href = (s: (typeof all)[number]) => `/blog/${s.data.legacySlug}/`;
 ---
-<BaseLayout title="All Indian Cricket Stadium Guides | Easy Guide India" description="Every stadium guide on Easy Guide India, sorted by city.">
-  <div class="mx-auto max-w-5xl px-4 py-10">
-    <h1 class="text-3xl font-extrabold tracking-tight">All stadium guides</h1>
-    <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {india.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
-      ))}
-    </div>
-    {abroad.length > 0 && <h2 class="mt-10 text-2xl font-bold tracking-tight">Grounds outside India</h2>}
-    <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {abroad.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
-      ))}
-    </div>
+<BaseLayout
+  title="All cricket stadium guides | Easy Guide India"
+  description="Every ground we cover: gates, parking, nearest metro and banned items, sorted by how often fans look them up."
+  jsonLd={graph(ORG, websiteLd, breadcrumbLd([{ name: 'Home', href: '/' }], { name: 'Stadiums', url: `${SITE}/stadiums/` }))}
+>
+  <header class="wrap pb-8 pt-10 sm:pt-14">
+    <Breadcrumbs trail={[{ name: 'Home', href: '/' }]} current="Stadiums" />
+    <h1 class="display mt-8 text-[clamp(2.75rem,7vw,5rem)]">All grounds</h1>
+    <p class="mt-4 max-w-xl text-lg text-ink-2">{all.length} guides, ordered by how often fans look them up.</p>
+  </header>
+  <div class="wrap">
+    <h2 class="label mb-2">India</h2>
+    <ul>
+      {india.map((s, i) => <li><StadiumRow href={href(s)} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} index={i + 1} /></li>)}
+    </ul>
+    {abroad.length > 0 && (
+      <>
+        <h2 class="label mb-2 mt-14">Outside India</h2>
+        <ul>
+          {abroad.map((s) => <li><StadiumRow href={href(s)} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} /></li>)}
+        </ul>
+      </>
+    )}
   </div>
 </BaseLayout>

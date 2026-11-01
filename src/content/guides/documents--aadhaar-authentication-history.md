@@ -5,6 +5,9 @@ description: "See where and when your Aadhaar was used (OTP, fingerprint, face) 
 section: documents
 published: 2026-03-18
 updated: 2026-09-27
+faqs:
+  - { q: "Can I see authentication history older than six months?", a: "Not on myAadhaar. It shows recent records only. For older records, contact UIDAI." }
+  - { q: "Why does my history show authentications I didn’t make?", a: "Some are routine (for example, e-KYC by your bank or telecom operator). If you can’t identify the agency or the timing looks wrong, treat it as suspicious and follow the steps above." }
 ---
 Your **Aadhaar authentication history** shows every time your Aadhaar was used for verification: by a bank, SIM provider, ration shop, AePS agent or government service. It shows the date, time, type (OTP, fingerprint, iris, face or demographic) and the agency. Checking it regularly is the fastest way to spot misuse.
 
@@ -29,16 +32,6 @@ UIDAI shows up to the last six months of records, a limited number at a time.
 1.  [Lock your Aadhaar biometrics](/documents/check-aadhaar-update-status/) immediately.
 2.  Report it to UIDAI by calling **1947** or emailing **help@uidai.gov.in**.
 3.  If money was withdrawn through AePS, inform your bank at once and report cyber fraud on **1930** or [cybercrime.gov.in](https://cybercrime.gov.in/).
-
-## Frequently asked questions
-
-### Can I see authentication history older than six months?
-
-Not on myAadhaar. It shows recent records only. For older records, contact UIDAI.
-
-### Why does my history show authentications I didn’t make?
-
-Some are routine (for example, e-KYC by your bank or telecom operator). If you can’t identify the agency or the timing looks wrong, treat it as suspicious and follow the steps above.
 
 ## Related guides
 
