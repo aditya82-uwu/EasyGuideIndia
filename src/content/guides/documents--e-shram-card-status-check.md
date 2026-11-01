@@ -23,6 +23,12 @@ Many websites and videos talk about an “e-Shram payment status” or “₹1,0
 3.  Enter your Aadhaar-linked mobile number or UAN and verify with the OTP.
 4.  Your profile opens. You can view details, update information and **download the UAN card**.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## What benefits are linked to e-Shram?
 
 -   **Accident insurance:** through PM Suraksha Bima Yojana (PMSBY), subject to scheme conditions.

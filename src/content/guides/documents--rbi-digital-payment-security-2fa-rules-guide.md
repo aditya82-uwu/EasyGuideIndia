@@ -24,6 +24,12 @@ The Reserve Bank of India’s **Authentication Mechanisms for Digital Payment Tr
 -   Unusual transactions may need extra verification.
 -   Never share OTPs, PINs or approval prompts. Legitimate banks never ask for them.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## If you’re a fraud victim
 
 1.  Block your card / UPI immediately through your bank’s app or helpline.

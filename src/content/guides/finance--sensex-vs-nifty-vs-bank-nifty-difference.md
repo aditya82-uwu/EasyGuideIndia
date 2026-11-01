@@ -26,6 +26,12 @@ faqs:
 
 The **BSE Sensex** is India’s oldest index. Its 30 companies are chosen by size, liquidity and sector representation. When people say “the market rose 500 points”, they usually mean the Sensex.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Nifty 50
 
 The **Nifty 50** covers 50 companies across more sectors, so it’s a broader measure than the Sensex. Most index funds and ETFs in India track it, and it is the most traded index in the derivatives market. Because the two share many of the same large companies, the Sensex and Nifty usually move in the same direction on a given day.

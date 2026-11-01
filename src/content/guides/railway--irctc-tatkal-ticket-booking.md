@@ -28,6 +28,12 @@ faqs:
 -   **Confirmed Tatkal tickets are not refundable** on cancellation (except in cases like train cancellation).
 -   **Tatkal charges** are added to the base fare and depend on the class, with a minimum and maximum. IRCTC shows the exact amount.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to prepare the day before
 
 1.  **Aadhaar-verify your IRCTC account** (My Account → Authenticate User) well in advance.

@@ -20,6 +20,12 @@ Example: **SPOT 12951**. You’ll get an SMS with the train’s current location
 
 Call **139** from any phone and follow the IVR menu for train enquiry. Enter the train number to hear its running status.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Online options
 
 -   **NTES** (National Train Enquiry System): the official website and app for live running status. See [checking train running status online](/railway/check-train-running-status-online/).

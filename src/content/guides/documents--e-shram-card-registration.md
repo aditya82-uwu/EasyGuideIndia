@@ -24,6 +24,12 @@ If you work in the unorganised sector (daily-wage labour, construction, domestic
 -   A mobile number linked to Aadhaar (for self-registration)
 -   Bank account details
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to register online
 
 1.  Go to [eshram.gov.in](https://eshram.gov.in/) and click **Register on e-Shram**.

@@ -28,6 +28,12 @@ More on the benchmark in [what is COMEX gold and silver](/finance/what-is-comex-
 
 Gold is paid for in dollars. If the rupee weakens from, say, ₹85 to ₹90 per dollar, gold gets about 6% more expensive in India even if the global price hasn’t moved.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## 3\. Import duty and GST
 
 -   **Import duty:** cut to 6% in July 2024, then raised to **15% on 13 May 2026** to reduce gold imports and support the rupee, according to the World Gold Council. A duty change moves Indian prices immediately.

@@ -35,6 +35,12 @@ _Guwahati traffic police and the Assam Cricket Association (ACA) issue advisorie
 -   **Match-day buses:** special buses have been announced for some matches. Check the announcement for your match.
 -   **Cabs:** drop-off points have been at **Barsapara Tiniali** and **Dhirenpara Tiniali**. Later in the evening, only official car-pass vehicles are allowed closer to the stadium.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking and road restrictions
 
 -   **Public parking:** **Champawati Field** (a standard parking site for big matches) and other grounds named in the police advisory.

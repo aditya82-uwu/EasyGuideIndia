@@ -25,6 +25,12 @@ In India, hallmarked gold jewellery must carry a **6-digit HUID (Hallmark Unique
 4.  Enter the 6-digit HUID code engraved on the jewellery.
 5.  The app shows the article type, purity, the jeweller’s registration and the hallmarking centre that tested it.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## If the HUID doesn’t match
 
 -   If the purity or article shown doesn’t match what you’re buying, don’t buy it and ask the jeweller to explain.

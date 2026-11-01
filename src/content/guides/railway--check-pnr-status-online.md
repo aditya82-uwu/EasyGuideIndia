@@ -28,6 +28,12 @@ Your **PNR (Passenger Name Record)** is the 10-digit number on your train ticket
 | TQWL | [Tatkal](/railway/irctc-tatkal-ticket-booking/) quota waitlist |
 | CAN | Cancelled |
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## When is the chart prepared?
 
 The first reservation chart is usually prepared several hours before departure (Railways moved the first chart earlier in 2025, about 8 hours before departure for most trains; later notices may change this). Your final berth appears on PNR status after charting.

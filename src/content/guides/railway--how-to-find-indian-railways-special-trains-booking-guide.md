@@ -21,6 +21,12 @@ During festivals (Diwali, Chhath, Holi), summer holidays and big events, Indian 
 2.  Check the **zonal railway’s** website and official social media (for example Central Railway or Northern Railway), where specials are announced first.
 3.  Use [NTES](https://enquiry.indianrail.gov.in/) to see running days and schedules.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Booking special trains
 
 -   Booking is done the same way as a regular train on IRCTC.

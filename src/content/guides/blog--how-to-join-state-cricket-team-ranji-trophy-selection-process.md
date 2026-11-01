@@ -22,6 +22,12 @@ Each state association (for example DDCA in Delhi, MCA in Mumbai, CAB in Bengal,
 -   District teams play **inter-district tournaments**. State selectors pick probables from these.
 -   Probables attend a **state camp** with fitness tests and practice matches before the final squad is named.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## 3\. BCCI tournaments by age group
 
 | Age group | Men’s BCCI tournaments |

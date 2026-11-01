@@ -25,6 +25,12 @@ faqs:
 -   **Low inventories:** when stockpiles are thin, any shock has a bigger price effect.
 -   **A weaker US dollar:** oil is priced in dollars, so a weaker dollar makes it cheaper for other buyers and tends to lift demand.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## What pushes oil prices down
 
 -   OPEC+ raising output, or members producing above their quotas.

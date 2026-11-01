@@ -21,6 +21,12 @@ With internet access, the quickest ways to check your bank balance are your **ba
 
 Log in with your MPIN, fingerprint or face ID. The balance is usually shown on the home screen, along with your mini-statement.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Method 3: Net banking
 
 1.  Go to your bank’s official net banking website. Type the address yourself; don’t use links from messages.

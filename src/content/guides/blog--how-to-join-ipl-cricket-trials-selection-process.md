@@ -24,6 +24,12 @@ There’s no application form to **join the IPL**. Players get into IPL teams th
 
 State associations pick players from their own leagues. Join an academy or club that plays in your district or state association’s official league, so your performances are recorded. Selectors rarely pick players with no record in recognised matches.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Step 2: District and state selection
 
 District associations hold trials and pick teams for inter-district tournaments. Strong performers go to state probables camps, then into state teams for BCCI tournaments:

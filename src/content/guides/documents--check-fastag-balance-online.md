@@ -21,6 +21,12 @@ FASTag toll payments fail, and you may be charged double, if your tag balance is
 
 Recharge through your issuer bank’s FASTag portal, or through UPI and payment apps using your vehicle number. Keep the balance above your bank’s minimum, if it sets one.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Important FASTag rules
 
 -   Complete your FASTag **KYC** with your issuer, as tags without updated KYC can be deactivated.

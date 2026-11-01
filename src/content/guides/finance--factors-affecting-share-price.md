@@ -48,6 +48,12 @@ Electricity demand, fuel (coal, gas) costs, tariff orders from regulators, and c
 
 Rural and urban demand, raw material prices (milk, sugar, palm oil), GST changes and monsoon rainfall. Demergers, where a business is spun off into a separately listed company, also cause big price adjustments on the record date.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## 3\. Economy and market-wide factors
 
 -   **Interest rates:** rate cuts usually support stocks. Rate hikes do the opposite.

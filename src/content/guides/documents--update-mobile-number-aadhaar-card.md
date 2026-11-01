@@ -24,6 +24,12 @@ UIDAI’s rate card charges **₹75** for a demographic update, which includes a
 4.  Pay ₹75 and keep the acknowledgement slip with the URN.
 5.  The new number is usually active within a few days.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Option 2: Update in the Aadhaar app (face authentication)
 
 UIDAI’s official **Aadhaar app** now allows mobile number updates from home using OTP plus **face authentication**, where a live selfie is matched against your Aadhaar photo. Install the app only from the official Play Store or App Store listing by UIDAI, open the update option, and follow the prompts.

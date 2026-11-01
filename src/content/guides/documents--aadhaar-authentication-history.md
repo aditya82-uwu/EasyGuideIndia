@@ -27,6 +27,12 @@ UIDAI shows up to the last six months of records, a limited number at a time.
 -   Name of the Authentication User Agency (AUA), for example a bank or telecom company
 -   Whether it succeeded or failed, and a reference code
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Found an entry you don’t recognise?
 
 1.  [Lock your Aadhaar biometrics](/documents/check-aadhaar-update-status/) immediately.

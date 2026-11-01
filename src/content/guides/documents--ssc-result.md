@@ -25,6 +25,12 @@ The **Staff Selection Commission (SSC)** publishes results for CGL, CHSL, MTS, G
 2.  Open **Result / Marks** for your exam once SSC activates the scorecard link (usually a few days after the result).
 3.  Download or print your scorecard. The link is available for a limited period only.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## What’s in the result PDF
 
 -   Roll numbers (and often names) of qualified candidates

@@ -37,6 +37,12 @@ _Mumbai Traffic Police issues an advisory for Marine Drive and Churchgate before
 -   **Metro:** Mumbai Metro Line 3 (Aqua Line) also serves the Churchgate area.
 -   **Cab / taxi:** expect diversions and slow traffic on Marine Drive before and after the match. Get dropped a little away from the stadium and walk.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking near Wankhede Stadium
 
 There’s **no parking at the stadium** for the general public, and roadside parking around Churchgate and Marine Drive is restricted on match days. If you must drive, park in a paid public parking facility elsewhere in South Mumbai and take a train or cab for the last stretch. Public transport is by far the easier option.

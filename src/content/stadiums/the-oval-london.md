@@ -33,6 +33,12 @@ _Check the official [Kia Oval ground regulations](https://www.kiaoval.com/ground
 -   **Vauxhall** (Victoria line and National Rail) is a short walk away.
 -   Driving isn’t recommended, as there’s no spectator parking and the area is busy on match days.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Bag size
 
 One bag per person, no bigger than **45 cm × 30 cm × 30 cm (18″ × 12″ × 12″)**, so it fits under your seat. All bags are searched.

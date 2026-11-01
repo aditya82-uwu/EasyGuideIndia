@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import StadiumRow from '../components/StadiumRow.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { byDemand, cardFact } from '../lib/stadiums';
 import { ORG, websiteLd, graph } from '../lib/schema';
 
@@ -30,6 +31,7 @@ const essentials = [
   title="IPL 2027 stadium guides: gates, parking, metro & rules"
   description="Plan your IPL 2027 match day: gates, parking, nearest metro and banned items for every IPL ground in India, from IPL 2026 notices, updated for the new season."
   jsonLd={graph(ORG, websiteLd)}
+  ads
 >
   <section class="wrap grid gap-12 pb-16 pt-12 sm:pt-20 lg:grid-cols-12 lg:gap-8">
     <div class="lg:col-span-7">
@@ -101,6 +103,8 @@ const essentials = [
       </>
     )}
   </section>
+
+  <div class="wrap"><AdSlot kind="display" /></div>
 
   <section class="wrap mt-20 grid gap-8 lg:grid-cols-12" aria-labelledby="ess-h">
     <div class="lg:col-span-4">

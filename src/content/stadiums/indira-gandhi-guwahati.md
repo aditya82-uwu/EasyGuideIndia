@@ -28,6 +28,12 @@ The **Indira Gandhi Athletic Stadium**, also called **Sarusajai Stadium**, is in
 -   Guwahati’s city buses, autos and app cabs all serve the area. App cabs are usually the most convenient for evening matches.
 -   From Guwahati Railway Station or the airport, take a cab directly to the Sarusajai Sports Complex.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking and entry
 
 -   Parking inside the complex is generally for pass holders. For big matches, traffic police announce public parking zones nearby, so check the advisory.

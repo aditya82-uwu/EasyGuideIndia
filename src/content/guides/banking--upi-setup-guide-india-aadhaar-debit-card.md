@@ -28,6 +28,12 @@ faqs:
     -   **With Aadhaar:** choose Aadhaar, enter the first 6 digits, and verify with the Aadhaar OTP and your bank OTP.
 6.  Create a 4- or 6-digit UPI PIN and confirm it.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## UPI Lite: small payments without a PIN
 
 **UPI Lite** is an on-device wallet for small payments. You load a small amount from your bank and pay low-value amounts **without entering your UPI PIN**. Enable it in apps that support it, such as BHIM, Google Pay, PhonePe and Paytm. Per-payment and wallet limits are set by NPCI and shown in the app.

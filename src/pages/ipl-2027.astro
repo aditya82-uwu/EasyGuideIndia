@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import Faq from '../components/Faq.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, graph } from '../lib/schema';
 import { IPL_GROUNDS, cardFact } from '../lib/stadiums';
 
@@ -36,7 +37,7 @@ const jsonLd = graph(
 const href = (s: (typeof all)[number]) => `/blog/${s.data.legacySlug}/`;
 const fmt = (d: Date) => d.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
 ---
-<BaseLayout title={title} description={description} type="article" jsonLd={jsonLd}>
+<BaseLayout title={title} description={description} type="article" jsonLd={jsonLd} ads>
   <article data-pagefind-body>
     <header class="wrap pb-8 pt-10 sm:pt-14">
       <Breadcrumbs trail={[{ name: 'Home', href: '/' }]} current="IPL 2027 stadium guide" />
@@ -92,6 +93,8 @@ const fmt = (d: Date) => d.toLocaleDateString('en-IN', { day: 'numeric', month: 
           ))}
         </ul>
       </section>
+
+      <AdSlot kind="display" />
 
       <section class="mt-14 grid gap-8 lg:grid-cols-12" aria-labelledby="pack-h">
         <div class="lg:col-span-4">

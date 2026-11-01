@@ -23,6 +23,12 @@ Before booking, check how many seats are available, or how long the waitlist is,
 | GNWL 30/WL 20 | Waitlisted; you’d be WL 20 |
 | REGRET / NOT AVAILABLE | Waitlist is full; no booking possible |
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Booking tips
 
 -   Bookings open **60 days in advance** (excluding the journey date).

@@ -33,6 +33,12 @@ _Check [Gloucestershire Cricket’s ground regulations](https://www.gloscricket.
 -   **Train:** **Bristol Temple Meads** is about 2 miles away and **Bristol Parkway** about 4 miles. The local Montpelier station is closer, with a short bus ride or walk from there.
 -   **Car:** the ground is in a residential area with little parking, so the club encourages public transport.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Food, drink and bags
 
 There’s a good mix of food and drink on the concourses. Rules on bringing your own food, drink and alcohol, and on bag sizes, vary by match type (international or county), so check Gloucestershire Cricket’s ground regulations before you go.

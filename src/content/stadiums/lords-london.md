@@ -32,6 +32,12 @@ _Rules differ by match type. Always check [What to Bring to Lord’s](https://ww
 -   **Tube:** **St John’s Wood** (Jubilee line) is about a 5-minute walk. Baker Street, Marylebone and Warwick Avenue are longer walks.
 -   **Driving:** not recommended. There’s no public parking at the ground and roads around it are restricted on major match days.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Bags
 
 Lord’s gets very full on big match days, so bring a **small bag** only. All bags are searched, and large bags and luggage may be refused. There’s no guarantee of left-luggage facilities, so don’t come straight from the airport with suitcases.

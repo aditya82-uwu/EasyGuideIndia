@@ -32,6 +32,12 @@ _Check the official [Yorkshire CCC match-day information](https://yorkshireccc.c
 -   **Train:** **Burley Park** station is about a 5-minute walk from the St Michael’s Lane entrance. Headingley station is also nearby.
 -   **Park and ride:** on international match days, Leeds City Council runs a park and ride from **Beckett Park**, about 800 m north of the ground.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Bags
 
 Bags must be no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)** and fit under a seat. The ground’s regulations list no luggage drop service, so don’t bring suitcases.

@@ -35,6 +35,12 @@ _Chandigarh and Punjab police issue traffic plans before big matches. Check the 
 -   **By car / cab:** most fans drive or take a cab from Chandigarh, Mohali or Panchkula. Police have routed match traffic via the New Chandigarh flyover, with the new bypass reserved for official vehicles and some ticket categories. Expect long queues near the stadium, so leave early.
 -   **Shuttle buses:** shuttle services have run for some major matches. Check the announcement for your match.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking at Mullanpur stadium
 
 -   General public parking is in lots **P4, P5 and P6**. It’s paid. The Tribune reported **₹200 for a car** and **₹100 for a two-wheeler**; confirm the rate for your match.

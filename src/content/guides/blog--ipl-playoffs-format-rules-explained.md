@@ -27,6 +27,12 @@ The **IPL playoffs** decide the champion from the top four teams of the league s
 -   Winning big (a large run margin, or chasing quickly) raises NRR. Heavy defeats lower it.
 -   In the final league games, teams chasing a playoff spot often calculate exactly how fast they must chase or how much they must win by to overtake a rival’s NRR.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Playoff format
 
 | Match | Teams | Result |

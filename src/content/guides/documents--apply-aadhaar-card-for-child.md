@@ -21,6 +21,12 @@ Children, even newborns, can get an Aadhaar. For children **below 5 years**, UID
 -   The child’s **birth certificate** (or a hospital discharge slip, depending on the centre’s list of accepted documents)
 -   **Aadhaar of one parent or guardian**, who must be present
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to apply for Baal Aadhaar
 
 1.  Find an Aadhaar enrolment centre. Many hospitals, post offices and banks have one, or book an appointment through myAadhaar / the UIDAI website.

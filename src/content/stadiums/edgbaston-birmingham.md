@@ -29,6 +29,12 @@ _Check the official [Edgbaston travel page](https://edgbaston.com/visiting-us/tr
 -   **501 Shuttle Bus:** picks up outside **Birmingham New Street station** on Smallbrook Queensway (near the Bullring). A day ticket was £6 per adult and £4 per child (aged 5 to 15) in April 2026, bought in the NXBus mTicket app or by contactless on the bus. The shuttle runs for selected matches, including all internationals and The Hundred.
 -   **Regular buses:** National Express West Midlands routes **45 and 47** run along Pershore Road, a short walk from the ground. Routes 1, 61, 63 and 35 also stop nearby.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking
 
 Book official parking in advance at the off-site car parks. Streets around the ground carry local parking restrictions on match days, so use the pre-booked car parks rather than parking on residential roads.

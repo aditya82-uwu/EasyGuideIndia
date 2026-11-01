@@ -25,6 +25,12 @@ COMEX (Commodity Exchange Inc.) is part of **CME Group**, which also owns the CM
 
 1 troy ounce = **31.1035 grams**, slightly heavier than a regular ounce.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How COMEX prices become Indian prices
 
 A simplified way to convert the COMEX price into rupees per 10 grams:

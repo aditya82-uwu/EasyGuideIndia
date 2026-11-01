@@ -36,6 +36,12 @@ The **Tren Ligero** (light rail) is the easiest way for big events:
 
 You pay for the Tren Ligero with Mexico City’s integrated mobility card, and trains get very crowded before and after big matches, so leave plenty of time. The stadium can also be reached by bus along Calzada de Tlalpan.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking at Estadio Azteca
 
 The stadium’s general parking has about **3,200 spaces** with several vehicle entrances, but for some 2026 matches, including Mexico vs Portugal and América vs Cruz Azul, no parking was available. It fills up quickly for Club América and national team matches, and traffic on Calzada de Tlalpan is heavy on event days. Prices and pre-booking vary by event, so check the event page or your ticketing platform before driving.

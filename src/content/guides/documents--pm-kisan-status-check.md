@@ -29,6 +29,12 @@ Under **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)**, eligible farmer families
 | Aadhaar bank seeding: No / inactive | No bank account is linked to Aadhaar for DBT | Get your Aadhaar [seeded with your bank](/documents/aadhaar-seeding-status-check/) |
 | Payment failed / rejected | Account closed, name mismatch, or bank issue | Update bank details with your bank / agriculture office |
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to complete PM Kisan eKYC
 
 -   **OTP eKYC:** on pmkisan.gov.in, under Farmers Corner, choose **eKYC** and verify with your Aadhaar-linked mobile.

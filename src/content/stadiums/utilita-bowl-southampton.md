@@ -34,6 +34,12 @@ _Check the official [Utilita Bowl directions and FAQs](https://www.utilitabowl.c
 -   **Walking:** Hedge End station is under 2 miles away, about a 35-minute walk.
 -   **Park and ride:** for major matches (Tests and international T20s), a park and ride usually runs from Southampton city centre. Check Hampshire Cricket’s website for times.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Food, drink and alcohol
 
 -   You **can bring your own food**, one sealed soft drink up to 500 ml, or an empty water bottle to fill at the water fountains.

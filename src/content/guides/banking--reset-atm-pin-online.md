@@ -24,6 +24,12 @@ Forgot your debit card (ATM) PIN, or want to change it? You don’t usually need
 3.  Enter your registered mobile number or account number as asked, then the OTP you receive.
 4.  Set the new PIN.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Method 3: Phone banking
 
 Many banks let you generate a PIN via the customer care IVR with your registered mobile. Call the number on the back of your card.

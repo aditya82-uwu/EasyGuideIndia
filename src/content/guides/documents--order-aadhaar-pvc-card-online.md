@@ -24,6 +24,12 @@ The **Aadhaar PVC card** is a durable, wallet-size plastic card with a QR code, 
 5.  Pay ₹75 online.
 6.  Save the **SRN (Service Request Number)** and payment receipt. You’ll get an SMS once it’s dispatched, with a Speed Post tracking number.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Important things to know
 
 -   The card is printed with the details **currently in your Aadhaar**. If your address or photo is wrong, [update it first](/documents/update-aadhaar-address-online/), wait for approval, then order.

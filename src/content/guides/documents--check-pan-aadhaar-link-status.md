@@ -22,6 +22,12 @@ Not sure whether your PAN is linked with Aadhaar? It matters: **PANs issued with
 
 Send **UIDPAN <12-digit Aadhaar> <10-digit PAN>** to **567678** or **56161** from any mobile. You’ll get a reply saying whether they’re linked.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## What the result means
 
 | Message | What to do |

@@ -25,6 +25,12 @@ Applied for a new PAN or a correction and want to know where it is? You can trac
 3.  Enter your 15-digit **acknowledgement number** and the captcha.
 4.  Submit to see the current status.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## UTIITSL application
 
 1.  Go to the UTIITSL PAN portal and choose **Track PAN Card**.

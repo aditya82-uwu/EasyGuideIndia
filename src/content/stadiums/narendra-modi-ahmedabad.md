@@ -35,6 +35,12 @@ _Parking and traffic arrangements are announced for each big match. Check the la
 
 **Motera Stadium** metro station on Ahmedabad Metro’s **Red Line** (north–south corridor) is right by the stadium. It’s usually the fastest way to arrive and, especially, to leave, as road traffic after a full-house match takes a long time to clear.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Narendra Modi Stadium parking
 
 -   **Book parking in advance** on the **Show My Parking** app. On-the-spot availability is limited.

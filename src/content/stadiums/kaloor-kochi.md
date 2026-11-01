@@ -29,6 +29,12 @@ The **Jawaharlal Nehru International Stadium** in Kaloor, Kochi, is home to **Ke
 
 Take **Kochi Metro** to **JLN Stadium** station, right by the stadium. On big match nights, check the metro’s last-train timing (it varies by date) before you rely on it for the return, as extended services are announced only for some matches.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking
 
 -   Parking **inside the stadium** is only for authorised vehicles.

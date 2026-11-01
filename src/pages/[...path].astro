@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import Toc from '../components/Toc.astro';
 import Faq from '../components/Faq.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, graph } from '../lib/schema';
 
 export async function getStaticPaths() {
@@ -30,7 +31,7 @@ const jsonLd = graph(
 );
 const showToc = !isLegal && (headings.filter((h) => h.depth === 2).length > 2 || d.faqs.length > 0);
 ---
-<BaseLayout title={d.title} description={d.description} type={isLegal ? 'website' : 'article'} jsonLd={jsonLd}>
+<BaseLayout title={d.title} description={d.description} type={isLegal ? 'website' : 'article'} jsonLd={jsonLd} ads={!isLegal}>
   <article data-pagefind-body={isLegal ? undefined : ''}>
     <header class="wrap pb-8 pt-10 sm:pt-14">
       {!isLegal && <Breadcrumbs trail={trail} current={d.title} />}
@@ -42,6 +43,7 @@ const showToc = !isLegal && (headings.filter((h) => h.depth === 2).length > 2 ||
     <div class={`wrap grid gap-10 ${showToc ? 'lg:grid-cols-[minmax(0,1fr)_17rem] lg:gap-16' : ''}`}>
       <div class="min-w-0">
         <div class="prose-egi"><Content /></div>
+        {!isLegal && <AdSlot kind="display" />}
         <Faq faqs={d.faqs} />
       </div>
       {showToc && (

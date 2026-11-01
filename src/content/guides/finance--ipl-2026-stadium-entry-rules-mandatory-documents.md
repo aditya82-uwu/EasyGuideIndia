@@ -39,6 +39,12 @@ These items have appeared on prohibited lists at IPL venues in recent seasons, i
 
 Cloakrooms are rare, so leave banned items at home. Items found at the gate may be confiscated.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## When to reach the stadium
 
 Gates usually open about **3 hours before the first ball**. In IPL 2026, Jaipur, Mullanpur and Ahmedabad opened gates at 4:30 PM for a 7:30 PM match, and Chinnaswamy was reported to open about four hours before. Security has two layers at most grounds, so aim to arrive at least 90 minutes before the start.

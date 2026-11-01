@@ -33,6 +33,12 @@ IPL admission is classified under “recreational, cultural and sporting service
 
 Ticketing platforms also charge a **convenience or booking fee**, with GST on top. Check the final amount on the payment page. The “starting from” price shown on posters is often the base price.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to book IPL tickets online
 
 1.  Find the **official ticketing partner**. Each season, the IPL and each franchise announce where tickets are sold, on iplt20.com and the team’s official website and social accounts.

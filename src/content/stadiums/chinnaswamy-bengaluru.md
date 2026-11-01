@@ -36,6 +36,12 @@ _For IPL 2026, reports said entry was fully digital with QR tickets, spectator n
 -   **Bus:** BMTC runs buses from the stadium after IPL matches.
 -   **Cabs and autos:** Ola, Uber and auto pick-up/drop-off points have been at **BRV Ground** and **Manekshaw Parade Ground**.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking near Chinnaswamy Stadium
 
 -   **Designated parking** in 2026 included **UB City** and **Shivajinagar Bus Stand** (police list), and **Freedom Park** in earlier seasons.

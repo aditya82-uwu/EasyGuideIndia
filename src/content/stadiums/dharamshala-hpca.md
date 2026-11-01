@@ -36,6 +36,12 @@ _Kangra Police issues a traffic plan before each big match. Check the latest one
 -   **By road:** buses and taxis come from Delhi, Chandigarh and Pathankot. On match days, follow police signs to your assigned parking area.
 -   **By train:** the nearest broad-gauge railhead is Pathankot, then continue by road.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking and shuttle buses
 
 -   Vehicles coming from Chamunda, Kangra, Gaggal and McLeodganj are each given **specific parking locations** in the police plan.

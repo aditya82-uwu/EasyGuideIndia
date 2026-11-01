@@ -23,6 +23,12 @@ The **PM Kisan beneficiary list** shows every farmer in your village who is regi
 
 Being on the list means you’re registered. Payment also needs eKYC, land seeding and Aadhaar–bank seeding. [Check your PM Kisan beneficiary status](/documents/pm-kisan-status-check/) to see exactly what’s pending.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Your name isn’t on the list?
 
 -   Search with small spelling variations. Names in the list may be in English transliteration.

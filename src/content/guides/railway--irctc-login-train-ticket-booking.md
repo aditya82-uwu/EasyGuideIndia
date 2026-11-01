@@ -21,6 +21,12 @@ To book train tickets online, you need an **IRCTC account**. Registration is fre
 
 Aadhaar authentication is required for **online Tatkal bookings**. Indian Railways has also reserved the opening window of general reservations for Aadhaar-authenticated users.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## How to book a ticket
 
 1.  Log in and enter From, To, date and quota, then search.

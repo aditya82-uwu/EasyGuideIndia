@@ -5,6 +5,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import QuickAnswers from '../../components/QuickAnswers.astro';
 import Toc from '../../components/Toc.astro';
 import Faq from '../../components/Faq.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, venueLd, graph } from '../../lib/schema';
 import { isIplGround } from '../../lib/stadiums';
 
@@ -32,7 +33,7 @@ const jsonLd = graph(
 // Structured sections (hand-built guides) render ahead of the markdown body.
 const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.banned);
 ---
-<BaseLayout title={d.title} description={d.description} type="article" image={`/og/${d.legacySlug}.png`} jsonLd={jsonLd}>
+<BaseLayout title={d.title} description={d.description} type="article" image={`/og/${d.legacySlug}.png`} jsonLd={jsonLd} ads>
   <article data-pagefind-body>
     <header class="wrap pb-8 pt-10 sm:pt-14">
       <Breadcrumbs trail={[{ name: 'Home', href: '/' }, { name: 'Stadiums', href: '/stadiums/' }]} current={d.name} />
@@ -58,6 +59,7 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
           )}
           <Content />
         </div>
+        <AdSlot kind="display" />
         <Faq faqs={d.faqs} />
         <aside class="mt-14 max-w-[68ch] border-l-2 border-accent pl-5 text-sm leading-relaxed text-ink-2">
           Traffic and parking plans are announced by local traffic police before each big match, and ticket rules by the team or board. Check the latest notice for your match before you travel.
@@ -68,6 +70,7 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
         <div class="space-y-9 lg:sticky lg:top-8">
           {d.quick.length > 0 && <QuickAnswers items={d.quick} checked={d.checked} />}
           <div class="hidden lg:block"><Toc headings={hasStructured ? [{ depth: 2, slug: 'getting-there', text: 'Getting there' }, { depth: 2, slug: 'parking', text: 'Parking' }, { depth: 2, slug: 'tickets-and-gates', text: 'Tickets and gates' }, { depth: 2, slug: 'not-allowed-inside', text: 'Not allowed inside' }] : headings} hasFaq={d.faqs.length > 0} /></div>
+          <AdSlot kind="display" class="hidden lg:block" />
         </div>
       </aside>
     </div>

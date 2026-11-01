@@ -36,6 +36,12 @@ _Details below are from Delhi Traffic Police advisories for IPL 2026 matches. Ar
 
 **Delhi Gate** and **ITO** metro stations on the **Violet Line** are closest. Delhi Gate is a short walk from the gates on Bahadur Shah Zafar Marg. Police advisories have pointed Delhi Gate to Gates 4 and 5 and ITO to Gates 3, 4 and 5. Delhi Traffic Police strongly advises fans to use the metro on match days, as roads around the stadium are closed or diverted from late afternoon until around midnight.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Which road leads to your gate
 
 _The road lists and routes below come from earlier match advisories. Confirm them against the notice for your match._

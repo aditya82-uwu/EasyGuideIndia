@@ -30,6 +30,12 @@ Income is grouped under five heads:
 
 Most capital gains and some winnings are taxed at **special rates**, not slab rates, so keep them aside when you apply the slabs.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Step 2: Choose your regime
 
 The **new regime** is the default. It has lower rates but allows very few deductions. The **old regime** has higher rates but lets you claim deductions such as 80C, 80D and HRA. Salaried people can choose each year when filing the return. See our comparison: old vs new tax regime.

@@ -33,6 +33,12 @@ After the Act passed in August 2025, **Dream11 paused all paid contests** and mo
 -   **No deductions or loss set-off:** you can’t claim expenses or set off losses from other games against these winnings.
 -   The Income-tax Act, 2025 (in force from 1 April 2026) continues to tax such winnings at a flat 30%.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Worked example
 
 Say you deposited ₹5,000 during a year and withdrew ₹25,000 in winnings from a fantasy app. Net winnings = ₹20,000. Tax at 30% = ₹6,000, plus 4% cess = **₹6,240**. This would have been deducted as TDS by the platform when you withdrew.

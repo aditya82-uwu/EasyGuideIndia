@@ -28,6 +28,12 @@ This shows the **one bank account** that receives Aadhaar-based DBT payments, wh
 
 Many banks and India Post Payments Bank also let you seed Aadhaar at a branch or with a postman.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Aadhaar seeding vs Aadhaar linking
 
 **Linking** Aadhaar to an account (for KYC) isn’t the same as **seeding** it in the NPCI mapper for DBT. Your Aadhaar can be linked to several accounts, but DBT goes only to the account shown in the seeding status. For PM-Kisan, see our [PM Kisan status guide](/documents/pm-kisan-status-check/).

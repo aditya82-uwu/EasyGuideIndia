@@ -30,6 +30,12 @@ The password is the **first four letters of your name in CAPITAL letters** follo
 
 If your first name has fewer than four letters, use all of it plus the year (for example, “Om” born 1990 = OM1990).
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Other ways to get your Aadhaar
 
 -   **Aadhaar app / mAadhaar app:** log in with your Aadhaar number and OTP to view and share your Aadhaar.

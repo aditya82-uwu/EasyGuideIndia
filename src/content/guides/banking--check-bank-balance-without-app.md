@@ -43,6 +43,12 @@ Some banks ask you to register for the service first (for example, SBI: SMS **RE
 
 \*99# is run by NPCI. It needs a UPI PIN set for your account (see [how to set up UPI](/banking/upi-setup-guide-india-aadhaar-debit-card/)).
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Method 3: WhatsApp banking
 
 Many banks offer balance enquiry on WhatsApp. Save your bank’s official WhatsApp number, send “Hi” from your registered mobile and choose Balance Enquiry. Examples: SBI **90226 90226**, HDFC Bank **70700 22222**, ICICI Bank **86400 86400**. Only use numbers listed on your bank’s official website.

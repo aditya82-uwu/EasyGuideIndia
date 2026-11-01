@@ -21,6 +21,12 @@ Want to know exactly where your train is and how late it’s running? Indian Rai
 
 SMS **SPOT <train number>** to **139**, or call 139. See [train running status by SMS](/railway/train-running-status-sms/).
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Tips
 
 -   Choose the **correct start date**. For long-distance trains it’s the date the train left its origin station, which may be a day before you board.

@@ -36,6 +36,12 @@ _Jaipur Traffic Police announces diversions before each IPL match. Check the lat
 -   **Metro:** Jaipur Metro doesn’t stop at the stadium, so you’ll need an auto or cab from the nearest station.
 -   **Cab / auto:** expect diversions near the stadium. Get dropped a short walk away.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking near SMS Stadium
 
 Parking is limited. Traffic police enforce a **no-parking ring** around the stadium and ban heavy vehicles on match days. Follow the parking signs on the day, use designated public lots, and allow time to walk from your parking to your gate.

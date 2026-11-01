@@ -26,6 +26,12 @@ An **e-PAN** is a digitally signed PDF of your PAN card, valid everywhere as pro
 3.  Enter your Aadhaar number and the OTP.
 4.  Download the e-PAN PDF.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Download from Protean (NSDL)
 
 1.  Open Protean’s **Download e-PAN / e-PAN XML** page.

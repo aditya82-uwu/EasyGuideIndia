@@ -27,6 +27,12 @@ These windows follow news reports of the revised rules from April 2026, which mo
 -   A small clerkage charge is deducted when you cancel an RAC or waitlisted ticket before the cut-off.
 -   An e-ticket that stays **fully waitlisted after chart preparation** is **cancelled automatically** with a refund (minus clerkage).
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Tatkal tickets
 
 **Confirmed [Tatkal](/railway/irctc-tatkal-ticket-booking/) tickets are not refundable.** Waitlisted Tatkal tickets follow the waitlist rules.

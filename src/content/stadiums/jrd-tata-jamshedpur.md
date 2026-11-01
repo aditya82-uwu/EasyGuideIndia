@@ -28,6 +28,12 @@ The **JRD Tata Sports Complex** in Jamshedpur, Jharkhand, nicknamed “The Furna
 -   **By train:** **Tatanagar Junction** is the nearest major station. Take a taxi, auto or app cab from there.
 -   **Within Jamshedpur:** autos and cabs are the easiest option.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Entry and match-day rules
 
 -   Entry is only with a valid match ticket. The club has reported nine entry gates, so use the one on your ticket.

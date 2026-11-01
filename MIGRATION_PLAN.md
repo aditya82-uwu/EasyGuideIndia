@@ -123,3 +123,17 @@ Files: export/*.json (raw WP data, 44 posts + 94 pages), data/content-audit.csv 
 Suggested split (rule: KEEP clicks>=5 or impr>=1500; REVIEW impr>=100; else DROP-CANDIDATE): KEEP 55, REVIEW 39, DROP-CANDIDATE 44.
 Next: manual pass on REVIEW and DROP lists. Dropped URLs get 301 to nearest hub, not 404.
 Legal pages (privacy, terms, disclaimer, about, contact): KEEP regardless. AdSense requires them.
+
+## Content pipeline (run in this order when regenerating from the WordPress export)
+1. `node scripts/convert-guides.mjs` and `node scripts/convert-stadiums.mjs` (rebuilds markdown from `export/`)
+2. `node scripts/body-fixes.mjs` and `node scripts/body-fixes-grounds.mjs` (verified corrections)
+3. `node scripts/seo-rewrite.mjs` (IPL titles, descriptions, intros; strips em dashes)
+4. `node scripts/apply-review.mjs` (redirects, link relabelling)
+5. `node scripts/insert-ads.mjs` (in-article ad block before the third h2)
+6. `npm run build`, then `node scripts/seo-check.mjs` and `node scripts/check-links.mjs`
+
+## AdSense
+- Publisher ID `ca-pub-7671942092105363`. Ad units created 1 Nov 2026: "EGI Astro In-article" (3491926864) and "EGI Astro Display" (3824979686). IDs live in `src/lib/ads.mjs`.
+- The loader script only loads on pages that pass `ads` to `BaseLayout`. Search, 404 and legal pages have no ads.
+- At cutover: turn Auto ads OFF for easyguideindia.in (AdSense > Ads > By site) so Google does not add ads on top of these slots. Do this only after the new site is live on the domain, because Auto ads is what serves ads on the old WordPress site today.
+- The GDPR message for UK/EEA/Switzerland is already active in Privacy & messaging.

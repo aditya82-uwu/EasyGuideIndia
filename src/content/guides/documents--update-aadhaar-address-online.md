@@ -29,6 +29,12 @@ You can change the address on your Aadhaar card online through UIDAI’s **myAad
 7.  Pay the fee if one applies (see below), then submit.
 8.  Note the **URN / SRN (Update/Service Request Number)** shown on screen and in the SMS. You’ll need it to track the update.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Accepted proof of address documents
 
 UIDAI accepts a long list of documents. The most commonly used are:

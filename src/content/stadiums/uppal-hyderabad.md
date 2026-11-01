@@ -33,6 +33,12 @@ _Malkajgiri / Rachakonda traffic police issue an advisory before each IPL match.
 
 Take the **Hyderabad Metro Blue Line** to **Stadium** station, next to the ground. Traffic police strongly recommend the metro and TGSRTC buses on match days, as heavy vehicles are diverted and roads around Uppal get congested.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Parking at Uppal Stadium
 
 Traffic police have designated **four public parking areas** within about 500 metres of the stadium:

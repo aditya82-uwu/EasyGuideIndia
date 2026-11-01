@@ -1,0 +1,13 @@
+---
+// One ad slot. The surrounding box reserves height so the page does not jump when the ad loads,
+// and collapses if Google leaves the slot unfilled. The push script lives in BaseLayout.
+import { AD_CLIENT, AD_SLOTS } from '../lib/ads.mjs';
+interface Props { kind?: 'display' | 'inarticle'; class?: string }
+const { kind = 'display', class: cls = '' } = Astro.props;
+---
+<aside class:list={['ad-slot', `ad-slot-${kind}`, cls]} aria-label="Advertisement">
+  <p class="ad-label">Advertisement</p>
+  {kind === 'inarticle'
+    ? <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client={AD_CLIENT} data-ad-slot={AD_SLOTS.inarticle}></ins>
+    : <ins class="adsbygoogle" style="display:block" data-ad-client={AD_CLIENT} data-ad-slot={AD_SLOTS.display} data-ad-format="auto" data-full-width-responsive="true"></ins>}
+</aside>

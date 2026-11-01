@@ -28,6 +28,12 @@ T = the day of the transaction. Compensation is meant to be paid automatically.
 3.  **Complain to your bank** if it isn’t resolved in the time above. Keep the transaction ID / UTR number.
 4.  **Escalate to the RBI Ombudsman** at [cms.rbi.org.in](https://cms.rbi.org.in/) if there’s no resolution within 30 days. For UPI, you can also use NPCI’s dispute redressal on its website.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## If it’s fraud, not a failure
 
 If the payment was unauthorised, report it immediately on **1930** or [cybercrime.gov.in](https://cybercrime.gov.in/) and inform your bank in writing. Quick reporting limits your liability under RBI rules.

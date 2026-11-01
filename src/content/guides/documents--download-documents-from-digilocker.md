@@ -25,6 +25,12 @@ faqs:
 3.  Choose the issuer, enter the details asked (such as DL number or roll number), and click **Get Document**.
 4.  The document appears under **Issued Documents**. Open it to view, download the PDF or share it.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Popular documents you can get
 
 | Document | Issuer |

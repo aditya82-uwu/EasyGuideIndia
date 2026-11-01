@@ -26,6 +26,12 @@ An **IPL scout** watches domestic and age-group cricket to find players a franch
 -   Clear, honest report writing.
 -   Willingness to travel through a long domestic season.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Routes into scouting
 
 1.  **Playing or coaching background:** many scouts played first-class or age-group cricket, or coach at academies and associations.

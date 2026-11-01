@@ -37,6 +37,12 @@ _Lucknow Traffic Police announces diversions before each big match, and LSG publ
 -   **Cab / auto:** the most common option. Phoenix Palassio mall on Shaheed Path is a well-known landmark right next to the stadium.
 -   **From Charbagh railway station or the airport:** take a cab directly to Shaheed Path / Ekana.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Ekana Stadium parking
 
 -   There are designated parking areas for **two-wheelers** and **cars** around Ekana Sports City. LSG publishes parking maps before the season.

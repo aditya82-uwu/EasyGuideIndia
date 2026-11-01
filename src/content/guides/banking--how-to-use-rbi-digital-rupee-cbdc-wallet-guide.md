@@ -29,6 +29,12 @@ The **Digital Rupee (e₹)** is India’s central bank digital currency (CBDC), 
 5.  **Pay** by scanning a merchant QR code, or send e₹ to another person’s wallet.
 6.  **Redeem** unused e₹ back to your bank account at any time.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Is it safe?
 
 -   e₹ is issued by RBI and is legal tender.

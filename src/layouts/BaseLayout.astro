@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { AD_LOADER } from '../lib/ads.mjs';
 
 interface Props {
   title: string;
@@ -11,8 +12,10 @@ interface Props {
   noindex?: boolean;
   // Serialised JSON-LD graph, built with lib/schema.ts
   jsonLd?: string;
+  // Load AdSense on this page. Off for search, 404 and legal pages.
+  ads?: boolean;
 }
-const { title, description, canonical, type = 'website', image = '/og/default.png', noindex = false, jsonLd } = Astro.props;
+const { title, description, canonical, type = 'website', image = '/og/default.png', noindex = false, jsonLd, ads = false } = Astro.props;
 const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
 const imageUrl = new URL(image, Astro.site).href;
 
@@ -55,6 +58,7 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+    {ads && <script is:inline async src={AD_LOADER} crossorigin="anonymous"></script>}
     <slot name="head" />
   </head>
   <body class="flex min-h-dvh flex-col">
@@ -122,5 +126,6 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
         <p class="wrap py-5 text-xs text-paper/50">&copy; {new Date().getFullYear()} Easy Guide India. Independent site, not affiliated with the BCCI, the IPL or any franchise.</p>
       </div>
     </footer>
+    {ads && <script is:inline>(function(){var l=document.querySelectorAll('ins.adsbygoogle');for(var i=0;i<l.length;i++){try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}}})();</script>}
   </body>
 </html>

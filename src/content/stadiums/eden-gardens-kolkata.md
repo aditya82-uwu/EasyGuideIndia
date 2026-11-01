@@ -35,6 +35,12 @@ _Kolkata Police announces restrictions before each match. Check the latest advis
 -   **Train:** **Eden Gardens** station on the Kolkata Circular Railway is right by the ground.
 -   **Bus:** on match days, the bus stands at Band Stand and Auckland Road have been shifted to Kiran Shankar Roy Road and Esplanade Row East (near the Central Bus Terminus).
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## Road closures and parking
 
 _The road lists and routes below come from earlier match advisories. Confirm them against the notice for your match._
