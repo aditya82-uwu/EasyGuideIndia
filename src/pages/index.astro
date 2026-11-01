@@ -2,10 +2,19 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import StadiumCard from '../components/StadiumCard.astro';
+import { byDemand, cardFact, topCount } from '../lib/stadiums';
 
-const stadiums = (await getCollection('stadiums')).sort((a, b) => a.data.city.localeCompare(b.data.city));
-const india = stadiums.filter((s) => s.data.country === 'India');
-const abroad = stadiums.filter((s) => s.data.country !== 'India');
+const all = byDemand(await getCollection('stadiums'));
+const india = all.filter((s) => s.data.country === 'India');
+const popular = india.slice(0, topCount);
+const rest = india.slice(topCount);
+const abroad = all.filter((s) => s.data.country !== 'India');
+
+const essentials = [
+  { href: '/finance/ipl-2026-stadium-entry-rules-mandatory-documents/', title: 'IPL entry rules', text: 'Tickets, ID and the banned items list' },
+  { href: '/finance/ipl-2026-ticket-gst-refund-rules-explained/', title: 'Tickets, GST and refunds', text: 'How booking works and what you get back' },
+  { href: '/finance/ipl-2026-stadium-parking-fastag-rules/', title: 'Parking and FASTag', text: 'Where to park at every venue' },
+];
 ---
 <BaseLayout
   title="Indian Cricket Stadium Guides: Gates, Parking, Metro & Rules | Easy Guide India"
@@ -13,21 +22,45 @@ const abroad = stadiums.filter((s) => s.data.country !== 'India');
 >
   <section class="bg-ink text-white">
     <div class="mx-auto max-w-5xl px-4 py-12 sm:py-16">
-      <h1 class="max-w-2xl text-3xl font-extrabold leading-tight tracking-tight sm:text-5xl">Reach the stadium. Get in fast. Know the rules.</h1>
+      <p class="text-sm font-semibold uppercase tracking-wide text-accent">Match-day guides</p>
+      <h1 class="mt-2 max-w-2xl text-3xl font-extrabold leading-tight tracking-tight sm:text-5xl">Reach the stadium. Get in fast. Know the rules.</h1>
       <p class="mt-4 max-w-2xl text-lg text-slate-300">Gates, parking, nearest metro and banned items for every major cricket ground in India.</p>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <a href="#popular" class="rounded-lg bg-accent px-5 py-2.5 font-bold text-ink">Find my stadium</a>
+        <a href="/finance/ipl-2026-stadium-entry-rules-mandatory-documents/" class="rounded-lg border border-slate-500 px-5 py-2.5 font-semibold">IPL entry rules</a>
+      </div>
     </div>
   </section>
-  <section class="mx-auto max-w-5xl px-4 py-10">
-    <h2 class="text-2xl font-bold tracking-tight">Pick your stadium</h2>
+
+  <section id="popular" class="mx-auto max-w-5xl px-4 py-10">
+    <h2 class="text-2xl font-bold tracking-tight">Most searched stadiums</h2>
     <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {india.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+      {popular.map((s) => (
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
       ))}
     </div>
-    {abroad.length > 0 && <h2 class="mt-10 text-2xl font-bold tracking-tight">Grounds outside India</h2>}
+
+    <h2 class="mt-12 text-2xl font-bold tracking-tight">Before you go: IPL essentials</h2>
+    <div class="mt-4 grid gap-4 sm:grid-cols-3">
+      {essentials.map((e) => (
+        <a href={e.href} class="rounded-xl border border-line bg-white p-4 shadow-sm transition hover:border-accent hover:shadow">
+          <h3 class="font-bold">{e.title}</h3>
+          <p class="mt-1 text-sm text-muted">{e.text}</p>
+        </a>
+      ))}
+    </div>
+
+    <h2 class="mt-12 text-2xl font-bold tracking-tight">More Indian venues</h2>
+    <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {rest.map((s) => (
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
+      ))}
+    </div>
+
+    {abroad.length > 0 && <h2 class="mt-12 text-2xl font-bold tracking-tight">Grounds outside India</h2>}
     <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {abroad.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
       ))}
     </div>
   </section>

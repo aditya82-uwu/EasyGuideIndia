@@ -2,8 +2,9 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import StadiumCard from '../components/StadiumCard.astro';
+import { byDemand, cardFact } from '../lib/stadiums';
 
-const stadiums = (await getCollection('stadiums')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+const stadiums = byDemand(await getCollection('stadiums'));
 const india = stadiums.filter((s) => s.data.country === 'India');
 const abroad = stadiums.filter((s) => s.data.country !== 'India');
 ---
@@ -12,13 +13,13 @@ const abroad = stadiums.filter((s) => s.data.country !== 'India');
     <h1 class="text-3xl font-extrabold tracking-tight">All stadium guides</h1>
     <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {india.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
       ))}
     </div>
     {abroad.length > 0 && <h2 class="mt-10 text-2xl font-bold tracking-tight">Grounds outside India</h2>}
     <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {abroad.map((s) => (
-        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} />
       ))}
     </div>
   </div>
