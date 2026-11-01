@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const SECTIONS = {
+  finance: { title: 'Finance and IPL explainers', blurb: 'Money, tax and IPL rules explained in plain language.' },
+  documents: { title: 'Documents and online services', blurb: 'Aadhaar, PAN, PM Kisan, e-Shram and other status checks and downloads.' },
+  railway: { title: 'Railway and IRCTC guides', blurb: 'Tatkal, cancellation, refunds and train status without the confusion.' },
+  banking: { title: 'Banking and payments', blurb: 'Balance checks, UPI and what to do when a payment fails.' },
+} as const;
+
+export async function getStaticPaths() {
+  return ['finance', 'documents', 'railway', 'banking'].map((section) => ({ params: { section } }));
+}
+
+const { section } = Astro.params as { section: keyof typeof SECTIONS };
+const info = SECTIONS[section];
+const items = (await getCollection('guides'))
+  .filter((g) => g.data.section === section)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+<BaseLayout title={`${info.title} | Easy Guide India`} description={info.blurb}>
+  <div class="mx-auto max-w-3xl px-4 py-10">
+    <h1 class="text-3xl font-extrabold tracking-tight">{info.title}</h1>
+    <p class="mt-2 text-muted">{info.blurb}</p>
+    <ul class="mt-6 divide-y divide-line rounded-xl border border-line bg-white">
+      {items.map((g) => (
+        <li>
+          <a href={`/${g.data.legacyPath}/`} class="block px-4 py-3 hover:bg-paper">
+            <span class="font-semibold">{g.data.title}</span>
+            <span class="mt-0.5 block text-sm text-muted">{g.data.description}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

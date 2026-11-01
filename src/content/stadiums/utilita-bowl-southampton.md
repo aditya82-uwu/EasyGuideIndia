@@ -1,0 +1,61 @@
+---
+legacySlug: "utilita-bowl-southampton-entry-rules-gate-protocol"
+title: "Utilita Bowl Guide: Free Shuttle Bus, Food & Alcohol Rules"
+description: "Utilita Bowl, Southampton: free shuttles from Hedge End and Airport Parkway, park and ride, bring-your-own food rules, no alcohol, cashless."
+name: "Utilita Bowl"
+officialName: "Utilita Bowl"
+city: "Southampton"
+state: "England"
+country: "UK"
+homeTeam: "Hampshire"
+published: 2026-06-12
+updated: 2026-09-27
+quick:
+  - { q: "Nearest stations", a: "Hedge End, Southampton Airport Parkway", tone: info }
+  - { q: "Shuttle", a: "Free rail shuttle buses on match days", tone: yes }
+  - { q: "Payments", a: "Cashless", tone: info }
+  - { q: "Alcohol", a: "Cannot be brought in", tone: no }
+---
+The **Utilita Bowl** (formerly the Rose Bowl and Ageas Bowl) in West End, near Southampton, is home to Hampshire Cricket and The Hundred’s Southern Brave. It hosts England internationals and staged the first World Test Championship final in 2021. It’s out of town, so the free shuttle buses from the station are the key thing to know. This guide covers shuttles, park and ride, food and alcohol rules, and payments.
+
+_Check the official [Utilita Bowl directions and FAQs](https://www.utilitabowl.com/cricket/directions-faqs-cricket/) for your match._
+
+## Utilita Bowl at a glance
+
+<table><tbody><tr><td><strong>Location</strong></td><td>West End, Southampton, Hampshire</td></tr><tr><td><strong>Home of</strong></td><td>Hampshire Cricket, Southern Brave (The Hundred)</td></tr><tr><td><strong>Nearest stations</strong></td><td>Hedge End (under 2 miles); Southampton Airport Parkway</td></tr><tr><td><strong>Shuttle</strong></td><td>Free rail shuttle buses on match days</td></tr><tr><td><strong>Payments</strong></td><td>Cashless</td></tr><tr><td><strong>Alcohol</strong></td><td>Can’t be brought in</td></tr></tbody></table>
+
+## How to get to the Utilita Bowl
+
+-   **Free rail shuttle:** on match days, express shuttle buses run from outside **Southampton Airport Parkway** and **Hedge End** stations, dropping you at the stadium gates. They start an hour before gates open and run until 30 minutes after play ends.
+-   **Walking:** Hedge End station is under 2 miles away, about a 35-minute walk.
+-   **Park and ride:** for major matches (Tests and international T20s), a park and ride usually runs from Southampton city centre. Check Hampshire Cricket’s website for times.
+
+## Food, drink and alcohol
+
+-   You **can bring your own food**, one sealed soft drink up to 500 ml, or an empty water bottle to fill at the water fountains.
+-   **No alcohol can be brought in**. Only drinks bought inside may be consumed, and bags that look like they contain alcohol are searched.
+-   Food outlets inside offer vegan, halal, vegetarian and gluten-free options.
+
+## Payments
+
+The Utilita Bowl is a **cashless venue**: card and mobile payments only.
+
+## Frequently asked questions
+
+### Is there a shuttle to the Utilita Bowl?
+
+Yes. On match days, free shuttle buses run from Southampton Airport Parkway and Hedge End stations.
+
+### Can I bring alcohol to the Utilita Bowl?
+
+No. Only alcohol bought inside the ground can be consumed.
+
+## Related guides
+
+-   [Bristol County Ground (Seat Unique Stadium) Guide: Buses & Trains](/blog/bristol-county-ground-entry-rules-gate-protocol/)
+-   [Lord’s Cricket Ground Guide: Tube, Bags & Alcohol Rules](/blog/lords-cricket-ground-entry-rules-gate-protocol/)
+-   [Kia Oval Guide: Nearest Tube, Bag Size, Food & Alcohol Rules](/blog/the-oval-london-entry-rules-gate-protocol/)
+-   [Edgbaston Guide: Shuttle Bus, Parking, Food & Alcohol Rules](/blog/edgbaston-stadium-entry-rules-gate-protocol-t20-world-cup/)
+-   [Stadium Clear Bag Policy: What You Can Bring](/blog/stadium-clear-bag-policy-guide/)
+
+_Sources: [Utilita Bowl – Directions & FAQs](https://www.utilitabowl.com/cricket/directions-faqs-cricket/), [South Western Railway](https://www.southwesternrailway.com/sights-and-attractions/sporting-grounds/trains-to-utilita-bowl). Easy Guide India is not affiliated with Hampshire Cricket._

@@ -1,0 +1,17 @@
+---
+interface Props { items: { q: string; a: string; tone: 'yes' | 'no' | 'info' }[] }
+const { items } = Astro.props;
+const tones = {
+  yes: 'bg-yes-bg text-yes border-yes/30',
+  no: 'bg-no-bg text-no border-no/30',
+  info: 'bg-info-bg text-info border-info/30',
+};
+---
+<ul class="grid grid-cols-2 gap-3 sm:grid-cols-3" aria-label="Quick answers">
+  {items.map((i) => (
+    <li class={`rounded-xl border p-3 ${tones[i.tone]}`}>
+      <p class="text-xs font-semibold uppercase tracking-wide opacity-80">{i.q}</p>
+      <p class="mt-1 text-base font-bold leading-snug">{i.a}</p>
+    </li>
+  ))}
+</ul>

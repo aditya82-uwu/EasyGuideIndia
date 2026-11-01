@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((entry) => ({ params: { path: entry.data.legacyPath }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+const fmt = (date: Date) => date.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+const isLegal = d.section === 'page';
+const labels = { finance: 'Finance', documents: 'Documents', railway: 'Railway', banking: 'Banking', blog: 'Guides', page: '' };
+
+const jsonLd = isLegal ? null : {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.published.toISOString(),
+  dateModified: d.updated.toISOString(),
+  author: { '@type': 'Organization', name: 'Easy Guide India' },
+  publisher: { '@type': 'Organization', name: 'Easy Guide India' },
+  mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
+};
+---
+<BaseLayout title={d.title} description={d.description} type={isLegal ? 'website' : 'article'}>
+  {jsonLd && <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  <article class="mx-auto max-w-3xl px-4 py-8">
+    {!isLegal && (
+      <nav class="text-sm text-muted" aria-label="Breadcrumb">
+        <a href="/" class="underline">Home</a> /
+        {d.section !== 'blog' ? <a href={`/${d.section}/`} class="underline">{labels[d.section]}</a> : <span>{labels[d.section]}</span>}
+      </nav>
+    )}
+    <h1 class="mt-3 text-3xl font-extrabold leading-tight tracking-tight sm:text-4xl">{d.title}</h1>
+    {!isLegal && <p class="mt-2 text-sm text-muted">Updated {fmt(d.updated)}</p>}
+    <div class="prose-egi mt-6"><Content /></div>
+  </article>
+</BaseLayout>

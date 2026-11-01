@@ -1,0 +1,44 @@
+---
+legacyPath: "railway/train-running-status-sms"
+title: "Train Running Status by SMS: SPOT to 139"
+description: "Get live train running status without internet: SMS SPOT to 139 or call 139. Also the PNR SMS format and NTES for online status."
+section: railway
+published: 2026-04-12
+updated: 2026-09-27
+---
+No internet on the platform? You can get the **live running status** of any train by **SMS** or a **call to 139**, Indian Railways’ integrated helpline (Rail Madad). Here’s the exact SMS format, plus the online options.
+
+## Train running status by SMS
+
+Send **SPOT <train number>** to **139**.
+
+Example: **SPOT 12951**. You’ll get an SMS with the train’s current location and delay. Standard SMS charges may apply.
+
+## Train running status by phone
+
+Call **139** from any phone and follow the IVR menu for train enquiry. Enter the train number to hear its running status.
+
+## Online options
+
+-   **NTES** (National Train Enquiry System): the official website and app for live running status. See [checking train running status online](/railway/check-train-running-status-online/).
+-   **IRCTC Rail Connect** and other rail apps also show live status.
+
+## Other useful 139 SMS formats
+
+| What you want | SMS to 139 |
+| --- | --- |
+| PNR status | PNR <10-digit PNR> |
+| Train running status | SPOT <train number> |
+
+## Frequently asked questions
+
+### Is 139 a free number?
+
+Calls to 139 are charged at normal rates by most operators; SMS may carry standard charges.
+
+## Related guides
+
+-   [How to Check PNR Status Online](/railway/check-pnr-status-online/)
+-   [How to Check Bank Balance Without App or Internet](/banking/check-bank-balance-without-app/)
+
+_Official links: [NTES / Indian Railways enquiry](https://enquiry.indianrail.gov.in/) · Rail Madad 139. Easy Guide India is not affiliated with Indian Railways._

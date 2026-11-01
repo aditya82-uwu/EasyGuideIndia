@@ -1,0 +1,955 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/blog/mi-vs-srh-wankhede-stadium-guide-pitch-report/",
+      "destination": "/blog/wankhede-stadium-mumbai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/estadio-azteca-mexico-city-world-cup-stadium-transit-safety-guide/",
+      "destination": "/blog/estadio-azteca-banorte-guide-tren-ligero-parking-rules/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/csk-vs-lsg-ipl-2026-match-prediction-playing-xi-chennai/",
+      "destination": "/blog/chepauk-stadium-chennai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-2026-final-tickets-online-booking-price-zomato-district-guide/",
+      "destination": "/finance/ipl-2026-ticket-gst-refund-rules-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ssc-result-2026/",
+      "destination": "/documents/ssc-result/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sofi-stadium-los-angeles-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lincoln-financial-field-philadelphia-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/bse-odisha-otet-results-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-stadium-bag-policy-prohibited-items-list/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/estadio-bbva-monterrey-world-cup-stadium-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nrg-stadium-houston-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gillette-stadium-boston-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/ipl-2026-tata-gold-coins-investment-value/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-oil-prices-rise-during-wars/",
+      "destination": "/finance/why-crude-oil-prices-rise-or-fall/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/bitcoin-price-impact-on-indian-stock-market/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-gold-prices-fell-after-budget-2026/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-2026-playoff-qualification-scenarios-points-table-update/",
+      "destination": "/blog/ipl-playoffs-format-rules-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bmo-field-toronto-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/metlife-stadium-new-york-new-jersey-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lumen-field-seattle-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/estadio-akron-guadalajara-world-cup-stadium-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/gds-result-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-messi-ronaldo-neymar-last-dance-schedule-stadiums/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-ticket-refund-policy-cancelled-matches-guide/",
+      "destination": "/finance/ipl-2026-ticket-gst-refund-rules-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-2026-final-weather-forecast-rain-rules-reserve-day-ahmedabad/",
+      "destination": "/blog/ipl-playoffs-format-rules-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/countries-dependent-strait-of-hormuz/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mercedes-benz-stadium-atlanta-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kerala-blasters-stadium-kochi-entry-parking-guide-isl/",
+      "destination": "/blog/kaloor-stadium-kochi-entry-gates-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/levis-stadium-san-francisco-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/arrowhead-stadium-kansas-city-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-public-transport-transit-passes-guide/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-fan-festival-zones-tickets-locations/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ssc-exam-date-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/csk-vs-srh-ipl-2026-live-score-playing-11-chepauk-updates/",
+      "destination": "/blog/chepauk-stadium-chennai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bc-place-vancouver-world-cup-fan-guide/",
+      "destination": "//",
+      "permanent": true
+    },
+    {
+      "source": "/finance/ipl-2026-fantasy-cricket-tax-tds-calculation/",
+      "destination": "/finance/ipl-2026-fantasy-cricket-tax-rules-dream11-winnings/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/state-farm-stadium-phoenix-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/att-stadium-dallas-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-it-stocks-fall-india/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/csk-vs-lsg-ipl-2026-live-score-playing-11-match-updates/",
+      "destination": "/blog/chepauk-stadium-chennai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/factors-affecting-adani-power-share-price/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-ration-card-pdf/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/budget-impact-on-stock-market-india/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hard-rock-stadium-miami-world-cup-fan-guide/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/lpg-shortage-india-explained/",
+      "destination": "/finance/why-crude-oil-prices-rise-or-fall/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rcb-vs-gt-ipl-2026-final-live-score-playing-11-predictions/",
+      "destination": "/blog/narendra-modi-stadium-ahmedabad-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-voter-id-card-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-stadium-entry-rules-banned-items-list/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/us-iran-war-impact-petrol-prices-india/",
+      "destination": "/finance/why-crude-oil-prices-rise-or-fall/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/cigarette-prices-after-budget-2026/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-prepaid-esim-plans-usa-mexico-canada-world-cup/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/new-income-tax-rules-2026-explained/",
+      "destination": "/finance/how-to-calculate-income-tax-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/union-budget-2026-highlights/",
+      "destination": "/finance/how-to-calculate-income-tax-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/tcs-ai-data-centre-india/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/vaibhav-suryavanshi-ipl-records-stats-biography/",
+      "destination": "/blog/how-to-join-ipl-cricket-trials-selection-process/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rr-vs-gt-ipl-2026-match-prediction-playing-xi-jaipur/",
+      "destination": "/blog/sawai-mansingh-stadium-jaipur-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-ticket-resale-marketplace-transfer-guide/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-entry-visa-rules-mobile-tickets-app-guide/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/how-us-iran-war-affects-oil-prices/",
+      "destination": "/finance/why-crude-oil-prices-rise-or-fall/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/digilocker-account-setup-document-download-guide/",
+      "destination": "/documents/download-documents-from-digilocker/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/factors-affecting-tcs-share-price/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-fantasy-cricket-winnings-tax-tds-rules/",
+      "destination": "/finance/ipl-2026-fantasy-cricket-tax-rules-dream11-winnings/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-travel-between-usa-mexico-canada-world-cup/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rcb-vs-mi-ipl-2026-live-score-playing-11-raipur-updates/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-2026-final-prize-money-winning-amount-award-winners-list/",
+      "destination": "/blog/ipl-playoffs-format-rules-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/icmai-cma-result-2026-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/what-is-nifty-it/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/factors-affecting-bajaj-finance-share-price/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/rrb-group-d-answer-key-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-banking-stocks-rise-or-fall-together/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/pm-kisan-installment-status-check/",
+      "destination": "/documents/pm-kisan-status-check/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-match-schedule-by-host-city-fixtures/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/railway/cancel-train-ticket-online/",
+      "destination": "/railway/cancel-train-ticket-irctc/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/gold-rates-today-india/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-gold-prices-are-trending-india/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-2026-double-header-sunday-match-predictions-playing-xi/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/gold-vs-fixed-deposit-2026/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rcb-vs-mi-ipl-2026-the-clash-of-titans-in-raipur-full-preview-stats/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/csk-vs-mi-match-result-ipl-2026-chennai-win-8-wickets/",
+      "destination": "/blog/chepauk-stadium-chennai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rr-vs-dc-ipl-2026-match-43-jaipur-stadium-guide/",
+      "destination": "/blog/sawai-mansingh-stadium-jaipur-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/epfo-new-rules-2026/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/anthropic-ai-impact-on-it-stocks/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cheapest-cities-to-stay-fifa-world-cup-2026-accommodation-cost/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/gate-2026-exam-details/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rcb-vs-gt-ipl-2026-qualifier-1-live-score-playing-11-dharamshala/",
+      "destination": "/blog/dharamshala-cricket-stadium-entry-gates-parking-guide-hpca/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-bank-nifty-is-volatile-today/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/kwality-walls-share-price/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ipl-fan-essentials-best-gear-stadium-use/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/strait-of-hormuz-impact-india/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gt-vs-csk-ipl-2026-live-score-playing-11-ahmedabad-updates/",
+      "destination": "/blog/narendra-modi-stadium-ahmedabad-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/buy-gold-or-silver-2026/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/bank-nifty-today/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/gold-silver-rates-today/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-it-stocks-are-falling/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-ayushman-card-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/fractal-analytics-ipo-details/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/gold-vs-silver-investment-india/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dc-vs-rr-ipl-2026-live-score-playing-11-delhi-traffic-advisory/",
+      "destination": "/blog/arun-jaitley-stadium-delhi-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/bseb-bihar-board-10th-result-2026-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/jee-mains-answer-key-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ssc-hall-ticket-download-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ind-vs-afg-2nd-odi-lucknow-matchday-travel-streaming-guide/",
+      "destination": "/blog/ekana-stadium-lucknow-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/tax-free-income-india-list/",
+      "destination": "/finance/how-to-calculate-income-tax-india/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ctet-admit-card-download-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/csk-vs-dc-match-result-ipl-2026-chennai-win-8-wickets/",
+      "destination": "/blog/chepauk-stadium-chennai-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/jee-mains-result-2026-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/pbks-vs-rcb-ipl-2026-live-score-playing-11-dharamshala-updates/",
+      "destination": "/blog/dharamshala-cricket-stadium-entry-gates-parking-guide-hpca/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/commercial-lpg-gas-cylinder-price-hike-india-updates/",
+      "destination": "/finance/why-crude-oil-prices-rise-or-fall/",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap_index.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/wp-sitemap.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sofi-stadium-guide-parking-bag-policy-metro/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/state-farm-stadium-glendale-guide-parking-rideshare/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/lock-unlock-aadhaar-biometrics/",
+      "destination": "/documents/check-aadhaar-update-status/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/estadio-akron-guadalajara-guide-transport-parking/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/link-pan-with-aadhaar-online/",
+      "destination": "/documents/pan-card-reprint-online/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mercedes-benz-stadium-atlanta-guide-marta-parking/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/india-post-gds-result-merit-list/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/jee-mains-percentile-vs-rank/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/check-ration-card-status-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/arrowhead-stadium-guide-parking-rideshare-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/levis-stadium-guide-vta-caltrain-parking/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ctet-admit-card-download/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lincoln-financial-field-guide-parking-septa-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ssc-exam-date-calendar/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/apply-pan-card-online/",
+      "destination": "/documents/pan-card-reprint-online/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nrg-stadium-houston-guide-metrorail-parking/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gillette-stadium-guide-parking-train-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/estadio-bbva-monterrey-guide-metro-parking/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lumen-field-seattle-guide-light-rail-parking-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/bse-odisha-otet-result/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/old-vs-new-tax-regime-which-is-better/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/att-stadium-arlington-guide-parking-rideshare-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bmo-field-toronto-guide-go-train-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hard-rock-stadium-miami-guide-parking-rideshare/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/bihar-board-10th-result-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/what-is-ipo-and-how-it-works/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/jee-main-result-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-driving-licence-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ayushman-bharat-golden-card-download-eligibility/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-electricity-bill-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/icmai-cma-result-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/pf-balance-check-missed-call/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/voter-card-verification-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/metlife-stadium-guide-nj-transit-parking-bag-policy/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/ssc-hall-ticket-download/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/cbse-10th-12th-result-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-voter-id-epic-number/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/gas-subsidy-status-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/check-driving-licence-status-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/why-strait-of-hormuz-important/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/rrb-group-d-answer-key/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/how-to-withdraw-pf-online/",
+      "destination": "/finance/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bc-place-vancouver-guide-skytrain-bag-policy/",
+      "destination": "//",
+      "permanent": true
+    },
+    {
+      "source": "/documents/gate-exam-details/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/download-ration-card-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/renew-driving-licence-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/apply-voter-id-card-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/change-address-driving-licence-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/jee-main-answer-key/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "destination": "/stadiums/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-cashless-stadiums-best-forex-cards-guide/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/online-services/link-pan-with-aadhaar-online/",
+      "destination": "/documents/pan-card-reprint-online/",
+      "permanent": true
+    },
+    {
+      "source": "/online-services/download-documents-from-digilocker/",
+      "destination": "/documents/download-documents-from-digilocker/",
+      "permanent": true
+    },
+    {
+      "source": "/online-services/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/interest-rates-impact-on-gold-silver-stock-market/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/what-makes-stock-market-volatile-india/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/how-union-budget-impacts-stock-market-india/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/banking/upi-setup-guide/",
+      "destination": "/banking/upi-setup-guide-india-aadhaar-debit-card/",
+      "permanent": true
+    },
+    {
+      "source": "/banking/digital-payment-refund-process/",
+      "destination": "/banking/digital-payment-refund-process-india/",
+      "permanent": true
+    },
+    {
+      "source": "/banking/check-bank-account-balance-online-without-app/",
+      "destination": "/banking/check-bank-balance-without-app/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mullanpur-stadium-new-chandigarh-gates-parking-guide-yadavindra/",
+      "destination": "/blog/mullanpur-stadium-chandigarh-entry-rules-parking-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dharamshala-cricket-stadium-ultimate-fan-guide-entry-parking-rules/",
+      "destination": "/blog/dharamshala-cricket-stadium-entry-gates-parking-guide-hpca/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rcb-vs-mi-ipl-2026-match-result/",
+      "destination": "/finance/ipl-2026-stadium-entry-rules-mandatory-documents/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/check-aadhaar-bank-linking-status/",
+      "destination": "/documents/aadhaar-seeding-status-check/",
+      "permanent": true
+    },
+    {
+      "source": "/document/update-aadhaar-address-online/",
+      "destination": "/documents/update-aadhaar-address-online/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/download-documents-from-digilocker/",
+      "destination": "/documents/download-documents-from-digilocker/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/gate-2026-exam-details/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/reset-atm-pin-online/",
+      "destination": "/banking/reset-atm-pin-online/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/rrb-group-d-result-2026/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/link-pan-with-aadhaar-online/",
+      "destination": "/documents/pan-card-reprint-online/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/update-address-aadhaar-card-online/",
+      "destination": "/documents/update-aadhaar-address-online/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/check-bank-account-balance-online/",
+      "destination": "/banking/check-bank-account-balance-online/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/digital-gold-investment-guide-2026/",
+      "destination": "/finance/what-affects-gold-prices-india/",
+      "permanent": true
+    },
+    {
+      "source": "/bank-nifty-today/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    },
+    {
+      "source": "/railway/irctc-tatkal-ticket-booking-speed-guide-2026/",
+      "destination": "/railway/irctc-tatkal-ticket-booking/",
+      "permanent": true
+    },
+    {
+      "source": "/documents/cbse-10th-12th-result-2026-check-online/",
+      "destination": "/documents/",
+      "permanent": true
+    },
+    {
+      "source": "/finance/factors-affecting-sbi-share-price/",
+      "destination": "/finance/factors-affecting-share-price/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fifa-world-cup-2026-live-streaming-how-to-watch-free-mobile/",
+      "destination": "/blog/stadium-clear-bag-policy-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-nifty-it-index/",
+      "destination": "/finance/sensex-vs-nifty-vs-bank-nifty-difference/",
+      "permanent": true
+    }
+  ]
+}

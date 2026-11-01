@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0f172a;
+  --color-ink-soft: #1e293b;
+  --color-paper: #f8fafc;
+  --color-line: #e2e8f0;
+  --color-muted: #475569;
+  --color-accent: #f59e0b;
+  --color-accent-ink: #78350f;
+  --color-yes: #15803d;
+  --color-yes-bg: #dcfce7;
+  --color-no: #b91c1c;
+  --color-no-bg: #fee2e2;
+  --color-info-bg: #e0f2fe;
+  --color-info: #075985;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-paper text-ink font-sans antialiased; }
+
+.prose-egi { @apply max-w-none leading-relaxed; }
+.prose-egi h2 { @apply mt-10 mb-3 text-2xl font-bold tracking-tight; }
+.prose-egi h3 { @apply mt-6 mb-2 text-lg font-semibold; }
+.prose-egi p { @apply my-3; }
+.prose-egi ul { @apply my-3 list-disc pl-6; }
+.prose-egi a { @apply text-info underline underline-offset-2; }
+
+.prose-egi table { @apply my-4 w-full border-collapse overflow-hidden rounded-lg border border-line bg-white text-sm; }
+.prose-egi td, .prose-egi th { @apply border-b border-line px-3 py-2 text-left align-top; }
+.prose-egi tr:last-child td { @apply border-b-0; }
+.prose-egi td:first-child { @apply w-2/5 bg-paper font-semibold; }
+.prose-egi img { @apply my-4 h-auto max-w-full rounded-lg; }
+.prose-egi h4 { @apply mt-4 mb-1 font-semibold; }

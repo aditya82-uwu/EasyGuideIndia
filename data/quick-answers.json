@@ -1,0 +1,487 @@
+{
+ "arun-jaitley-delhi": [
+  {
+   "q": "Nearest metro",
+   "a": "Delhi Gate (Violet Line)",
+   "tone": "info"
+  },
+  {
+   "q": "Free parking",
+   "a": "Mata Sundari Rd, Rajghat Power House Rd, Velodrome Rd",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Commonly banned at IPL venues",
+   "tone": "no"
+  },
+  {
+   "q": "Bags",
+   "a": "Commonly banned at IPL venues",
+   "tone": "no"
+  },
+  {
+   "q": "Ticket type",
+   "a": "E-ticket QR or physical. Follow your ticket",
+   "tone": "info"
+  },
+  {
+   "q": "Capacity",
+   "a": "About 41,000",
+   "tone": "info"
+  }
+ ],
+ "mullanpur-chandigarh": [
+  {
+   "q": "Public parking",
+   "a": "Paid lots P4, P5, P6. Book on Show My Parking",
+   "tone": "info"
+  },
+  {
+   "q": "Parking fee",
+   "a": "Rs 200 car, Rs 100 two-wheeler (as reported)",
+   "tone": "info"
+  },
+  {
+   "q": "Gates",
+   "a": "13 gates. Yours is on the ticket",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Distance",
+   "a": "About 15 km from central Chandigarh",
+   "tone": "info"
+  }
+ ],
+ "narendra-modi-ahmedabad": [
+  {
+   "q": "Nearest metro",
+   "a": "Motera Stadium station (Red Line)",
+   "tone": "info"
+  },
+  {
+   "q": "Parking",
+   "a": "Pre-book on Show My Parking",
+   "tone": "info"
+  },
+  {
+   "q": "Gates open",
+   "a": "About 3 hours before the start",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags",
+   "a": "Not allowed (small ladies purses excepted)",
+   "tone": "no"
+  },
+  {
+   "q": "Re-entry",
+   "a": "No re-entry once you leave",
+   "tone": "no"
+  }
+ ],
+ "ekana-lucknow": [
+  {
+   "q": "Metro",
+   "a": "No station at the stadium. Nearest are several km away",
+   "tone": "no"
+  },
+  {
+   "q": "Gates open",
+   "a": "About 3 hours before the start (IPL 2026)",
+   "tone": "info"
+  },
+  {
+   "q": "Parking",
+   "a": "Designated car and two-wheeler areas. Fills early",
+   "tone": "info"
+  },
+  {
+   "q": "Shuttles",
+   "a": "Some matches had shuttles from Hazratganj, Charbagh",
+   "tone": "yes"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Outside food and drink",
+   "a": "Not allowed",
+   "tone": "no"
+  }
+ ],
+ "wankhede-mumbai": [
+  {
+   "q": "Nearest train",
+   "a": "Churchgate, a few minutes walk",
+   "tone": "info"
+  },
+  {
+   "q": "Metro",
+   "a": "Line 3 (Aqua) serves Churchgate area",
+   "tone": "info"
+  },
+  {
+   "q": "Parking at stadium",
+   "a": "None for the public",
+   "tone": "no"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags",
+   "a": "Only small. Larger than A4 not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Tickets (IPL 2026)",
+   "a": "MI official partner, BookMyShow",
+   "tone": "info"
+  }
+ ],
+ "eden-gardens-kolkata": [
+  {
+   "q": "Nearest metro",
+   "a": "Esplanade, walkable",
+   "tone": "info"
+  },
+  {
+   "q": "Nearest train",
+   "a": "Eden Gardens (Circular Railway)",
+   "tone": "info"
+  },
+  {
+   "q": "Parking",
+   "a": "None near the ground on match days",
+   "tone": "no"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags and cameras",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "ID",
+   "a": "Carry a government photo ID",
+   "tone": "info"
+  }
+ ],
+ "uppal-hyderabad": [
+  {
+   "q": "Nearest metro",
+   "a": "Stadium station (Blue Line). Uppal also close",
+   "tone": "info"
+  },
+  {
+   "q": "Gates open",
+   "a": "3 hours before the start (IPL 2026)",
+   "tone": "info"
+  },
+  {
+   "q": "Tickets",
+   "a": "Digital tickets (IPL 2026)",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags and pens",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Cloakroom",
+   "a": "None. Banned items are confiscated",
+   "tone": "no"
+  }
+ ],
+ "dharamshala-hpca": [
+  {
+   "q": "Near the stadium",
+   "a": "No-vehicle zone on match days",
+   "tone": "no"
+  },
+  {
+   "q": "Shuttles",
+   "a": "HRTC buses from designated parking grounds",
+   "tone": "yes"
+  },
+  {
+   "q": "Nearest airport",
+   "a": "Kangra (Gaggal), about 12 km",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Backpacks and large bags",
+   "a": "Not allowed",
+   "tone": "no"
+  }
+ ],
+ "sms-jaipur": [
+  {
+   "q": "Nearest bus stops",
+   "a": "Rambagh Circle, Nagar Nigam (Lal Kothi)",
+   "tone": "info"
+  },
+  {
+   "q": "Nearest train",
+   "a": "Gandhinagar Jaipur. Jaipur Junction by cab",
+   "tone": "info"
+  },
+  {
+   "q": "Parking",
+   "a": "Limited. No-parking ring around the stadium",
+   "tone": "no"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Bags and bottles",
+   "a": "Not allowed",
+   "tone": "no"
+  }
+ ],
+ "barsapara-guwahati": [
+  {
+   "q": "Public parking",
+   "a": "Champawati Field, Sawkuchi High School Ground",
+   "tone": "info"
+  },
+  {
+   "q": "Drop-off",
+   "a": "Barsapara Tiniali, Dhirenpara Tiniali",
+   "tone": "info"
+  },
+  {
+   "q": "Gates open",
+   "a": "4:00 PM for a 7:30 PM match",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Large backpacks",
+   "a": "Not allowed",
+   "tone": "no"
+  },
+  {
+   "q": "Capacity",
+   "a": "About 46,000",
+   "tone": "info"
+  }
+ ],
+ "kaloor-kochi": [
+  {
+   "q": "Nearest metro",
+   "a": "JLN Stadium station (Kochi Metro)",
+   "tone": "info"
+  },
+  {
+   "q": "Public parking",
+   "a": "Paid, Helipad Ground behind the stadium",
+   "tone": "info"
+  },
+  {
+   "q": "PIN code",
+   "a": "682017",
+   "tone": "info"
+  }
+ ],
+ "chinnaswamy-bengaluru": [
+  {
+   "q": "Nearest metro",
+   "a": "Cubbon Park and MG Road (Purple Line)",
+   "tone": "info"
+  },
+  {
+   "q": "Parking",
+   "a": "Freedom Park, UB City, other designated spots",
+   "tone": "info"
+  },
+  {
+   "q": "Cab and auto pick-up",
+   "a": "BRV Ground, Manekshaw Parade Ground",
+   "tone": "info"
+  },
+  {
+   "q": "Power bank",
+   "a": "Not allowed, with other electronics",
+   "tone": "no"
+  }
+ ],
+ "indira-gandhi-guwahati": [
+  {
+   "q": "Location",
+   "a": "Sarusajai Sports Complex, beside NH-37",
+   "tone": "info"
+  },
+  {
+   "q": "Home team",
+   "a": "NorthEast United FC (ISL)",
+   "tone": "info"
+  }
+ ],
+ "jrd-tata-jamshedpur": [
+  {
+   "q": "Nearest railway",
+   "a": "Tatanagar Junction",
+   "tone": "info"
+  },
+  {
+   "q": "Entry gates",
+   "a": "Nine gates for supporters and media",
+   "tone": "info"
+  },
+  {
+   "q": "Home team",
+   "a": "Jamshedpur FC (ISL)",
+   "tone": "info"
+  }
+ ],
+ "headingley-leeds": [
+  {
+   "q": "Nearest station",
+   "a": "Burley Park, about 5 min walk",
+   "tone": "info"
+  },
+  {
+   "q": "Park and ride",
+   "a": "From Beckett Park on international match days",
+   "tone": "yes"
+  },
+  {
+   "q": "Bag size",
+   "a": "Max 45 x 30 x 30 cm. No luggage drop",
+   "tone": "info"
+  }
+ ],
+ "utilita-bowl-southampton": [
+  {
+   "q": "Nearest stations",
+   "a": "Hedge End, Southampton Airport Parkway",
+   "tone": "info"
+  },
+  {
+   "q": "Shuttle",
+   "a": "Free rail shuttle buses on match days",
+   "tone": "yes"
+  },
+  {
+   "q": "Payments",
+   "a": "Cashless",
+   "tone": "info"
+  },
+  {
+   "q": "Alcohol",
+   "a": "Cannot be brought in",
+   "tone": "no"
+  }
+ ],
+ "bristol-county-ground": [
+  {
+   "q": "Main stations",
+   "a": "Bristol Temple Meads (2 mi), Bristol Parkway (4 mi)",
+   "tone": "info"
+  },
+  {
+   "q": "Buses",
+   "a": "Routes 72 to 77 from Temple Meads",
+   "tone": "yes"
+  },
+  {
+   "q": "Bag and food rules",
+   "a": "Vary by match. Check Gloucestershire Cricket",
+   "tone": "info"
+  }
+ ],
+ "lords-london": [
+  {
+   "q": "Nearest tube",
+   "a": "St John's Wood (Jubilee line), 5 min walk",
+   "tone": "info"
+  },
+  {
+   "q": "Famous entrance",
+   "a": "The Grace Gates",
+   "tone": "info"
+  },
+  {
+   "q": "Bags",
+   "a": "Small bags only. Avoid luggage",
+   "tone": "info"
+  }
+ ],
+ "the-oval-london": [
+  {
+   "q": "Nearest stations",
+   "a": "Oval (Northern), Vauxhall (Victoria, National Rail)",
+   "tone": "info"
+  },
+  {
+   "q": "Bags",
+   "a": "One per person, max 45 x 30 x 30 cm",
+   "tone": "info"
+  },
+  {
+   "q": "Own food",
+   "a": "Allowed",
+   "tone": "yes"
+  }
+ ],
+ "old-trafford-manchester": [
+  {
+   "q": "Tram",
+   "a": "Old Trafford Metrolink stop, next to the ground",
+   "tone": "yes"
+  },
+  {
+   "q": "Bags",
+   "a": "One small bag, max 45 x 30 x 30 cm",
+   "tone": "info"
+  },
+  {
+   "q": "Alcohol",
+   "a": "Not allowed in. No cans or glass",
+   "tone": "no"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StadiumCard from '../components/StadiumCard.astro';
+
+const stadiums = (await getCollection('stadiums')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+const india = stadiums.filter((s) => s.data.country === 'India');
+const abroad = stadiums.filter((s) => s.data.country !== 'India');
+---
+<BaseLayout title="All Indian Cricket Stadium Guides | Easy Guide India" description="Every stadium guide on Easy Guide India, sorted by city.">
+  <div class="mx-auto max-w-5xl px-4 py-10">
+    <h1 class="text-3xl font-extrabold tracking-tight">All stadium guides</h1>
+    <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {india.map((s) => (
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+      ))}
+    </div>
+    {abroad.length > 0 && <h2 class="mt-10 text-2xl font-bold tracking-tight">Grounds outside India</h2>}
+    <div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {abroad.map((s) => (
+        <StadiumCard href={`/blog/${s.data.legacySlug}/`} name={s.data.name} city={s.data.city} team={s.data.homeTeam} />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

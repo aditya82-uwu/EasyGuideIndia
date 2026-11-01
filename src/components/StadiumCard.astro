@@ -1,0 +1,10 @@
+---
+interface Props { href: string; name: string; city: string; team: string }
+const { href, name, city, team } = Astro.props;
+---
+<a href={href} class="block rounded-xl border border-line bg-white p-4 shadow-sm transition hover:border-accent hover:shadow">
+  <p class="text-xs font-semibold uppercase tracking-wide text-muted">{city}</p>
+  <h3 class="mt-1 text-lg font-bold leading-snug">{name}</h3>
+  <p class="mt-1 text-sm text-muted">{team}</p>
+  <p class="mt-3 text-sm font-semibold text-accent-ink">Gates, parking, metro, rules →</p>
+</a>

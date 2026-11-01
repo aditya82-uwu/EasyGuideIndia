@@ -1,0 +1,58 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  type?: 'website' | 'article';
+}
+const { title, description, canonical, type = 'website' } = Astro.props;
+const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={url} />
+    <meta property="og:site_name" content="Easy Guide India" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <slot name="head" />
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <header class="bg-ink text-white">
+      <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
+        <a href="/" class="text-lg font-extrabold tracking-tight">Easy<span class="text-accent">Guide</span>India</a>
+        <nav class="flex flex-wrap justify-end gap-x-4 gap-y-1 text-sm font-medium">
+          <a href="/stadiums/" class="hover:text-accent">Stadiums</a>
+          <a href="/finance/" class="hover:text-accent">IPL &amp; Finance</a>
+          <a href="/railway/" class="hover:text-accent">Railway</a>
+          <a href="/banking/" class="hover:text-accent">Banking</a>
+          <a href="/documents/" class="hover:text-accent">Documents</a>
+        </nav>
+      </div>
+    </header>
+    <main class="flex-1"><slot /></main>
+    <footer class="mt-16 bg-ink text-sm text-slate-300">
+      <div class="mx-auto max-w-5xl px-4 py-8">
+        <nav class="mb-4 flex flex-wrap gap-x-5 gap-y-1 font-medium text-white">
+          <a href="/about-us/">About</a>
+          <a href="/contact-us/">Contact</a>
+          <a href="/privacy-policy/">Privacy</a>
+          <a href="/terms-and-conditions/">Terms</a>
+          <a href="/disclaimer/">Disclaimer</a>
+        </nav>
+        <p>Easy Guide India: match-day stadium guides for Indian cricket venues. Rules change per match, so check the latest advisory from the team, BCCI or local traffic police before you travel.</p>
+      </div>
+    </footer>
+  </body>
+</html>
