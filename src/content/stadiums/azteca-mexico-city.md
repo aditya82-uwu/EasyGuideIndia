@@ -38,7 +38,7 @@ You pay for the Tren Ligero with Mexico City’s integrated mobility card, and t
 
 ## Parking at Estadio Azteca
 
-The stadium’s general parking has about **3,200 spaces** with several vehicle entrances. It fills up quickly for Club América and national team matches, and traffic on Calzada de Tlalpan is heavy on event days. Prices and pre-booking vary by event, so check the event page or your ticketing platform before driving.
+The stadium’s general parking has about **3,200 spaces** with several vehicle entrances, but for some 2026 matches, including Mexico vs Portugal and América vs Cruz Azul, no parking was available. It fills up quickly for Club América and national team matches, and traffic on Calzada de Tlalpan is heavy on event days. Prices and pre-booking vary by event, so check the event page or your ticketing platform before driving.
 
 ## Entry and gates
 

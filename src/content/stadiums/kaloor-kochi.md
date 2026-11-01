@@ -13,25 +13,26 @@ updated: 2026-09-27
 faqs:
   - { q: "Which metro station is nearest to Kaloor Stadium?", a: "JLN Stadium station on the Kochi Metro." }
   - { q: "Where can I park for a Kerala Blasters match?", a: "At the paid public parking on the Helipad Ground behind the stadium." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "JLN Stadium station (Kochi Metro)", tone: info }
-  - { q: "Public parking", a: "Paid, Helipad Ground behind the stadium", tone: info }
+  - { q: "Public parking", a: "Paid parking reported at the Helipad Ground behind the stadium", tone: info }
   - { q: "PIN code", a: "682017", tone: info }
 ---
 The **Jawaharlal Nehru International Stadium** in Kaloor, Kochi, is home to **Kerala Blasters FC** in the Indian Super League and one of India’s biggest football stadiums. It has also hosted international cricket. It has its own Kochi Metro station, which makes it easy to reach. This guide covers the metro, parking, entry and match-day rules.
 
 ## Kaloor Stadium at a glance
 
-<table><tbody><tr><td><strong>Official name</strong></td><td>Jawaharlal Nehru International Stadium, Kaloor, Kochi</td></tr><tr><td><strong>PIN code</strong></td><td>682017 (Kaloor, Kochi)</td></tr><tr><td><strong>Home team</strong></td><td>Kerala Blasters FC (ISL)</td></tr><tr><td><strong>Nearest metro</strong></td><td>JLN Stadium station (Kochi Metro)</td></tr><tr><td><strong>Public parking</strong></td><td>Paid parking at the Helipad Ground behind the stadium</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Official name</strong></td><td>Jawaharlal Nehru International Stadium, Kaloor, Kochi</td></tr><tr><td><strong>PIN code</strong></td><td>682017 (Kaloor, Kochi)</td></tr><tr><td><strong>Home team</strong></td><td>Kerala Blasters FC (ISL)</td></tr><tr><td><strong>Nearest metro</strong></td><td>JLN Stadium station (Kochi Metro)</td></tr><tr><td><strong>Public parking</strong></td><td>Paid parking reported at the Helipad Ground behind the stadium</td></tr></tbody></table>
 
 ## How to reach Kaloor Stadium
 
-Take **Kochi Metro** to **JLN Stadium** station, right by the stadium. On big match nights, check the metro’s last-train timing (normally around 10 PM) before you rely on it for the return, as extended services are announced only for some matches.
+Take **Kochi Metro** to **JLN Stadium** station, right by the stadium. On big match nights, check the metro’s last-train timing (it varies by date) before you rely on it for the return, as extended services are announced only for some matches.
 
 ## Parking
 
 -   Parking **inside the stadium** is only for authorised vehicles.
--   **Paid public parking** is at the open **Helipad Ground** behind the stadium, first come, first served.
+-   **Paid public parking** has been reported at the open **Helipad Ground** behind the stadium. Confirm with Kerala Blasters before the match.
 -   Roads around Kaloor are congested before big Kerala Blasters matches, so the metro is quicker.
 
 ## Entry rules

@@ -14,14 +14,14 @@ faqs:
   - { q: "Which railway station is nearest to JRD Tata Sports Complex?", a: "Tatanagar Junction. From there, take a taxi or auto." }
 quick:
   - { q: "Nearest railway", a: "Tatanagar Junction", tone: info }
-  - { q: "Entry gates", a: "Nine gates for supporters and media", tone: info }
+  - { q: "Entry gates", a: "Nine gates reported. Use the one on your ticket", tone: info }
   - { q: "Home team", a: "Jamshedpur FC (ISL)", tone: info }
 ---
 The **JRD Tata Sports Complex** in Jamshedpur, Jharkhand, nicknamed “The Furnace” for its loud crowds, is home to **Jamshedpur FC** in the Indian Super League. It’s a multi-sport complex in the centre of the city. This guide covers how to get there, entry and match-day tips.
 
 ## JRD Tata Sports Complex at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>Jamshedpur, Jharkhand</td></tr><tr><td><strong>Home team</strong></td><td>Jamshedpur FC (ISL)</td></tr><tr><td><strong>Nearest railway station</strong></td><td>Tatanagar Junction</td></tr><tr><td><strong>Entry gates</strong></td><td>Nine gates for supporters and media</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>Jamshedpur, Jharkhand</td></tr><tr><td><strong>Home team</strong></td><td>Jamshedpur FC (ISL)</td></tr><tr><td><strong>Nearest railway station</strong></td><td>Tatanagar Junction</td></tr><tr><td><strong>Entry gates</strong></td><td>Nine gates reported for supporters and media</td></tr></tbody></table>
 
 ## How to reach JRD Tata Sports Complex
 
@@ -30,7 +30,7 @@ The **JRD Tata Sports Complex** in Jamshedpur, Jharkhand, nicknamed “The Furna
 
 ## Entry and match-day rules
 
--   Entry is only with a valid match ticket. The club has set up nine entry gates, so use the one on your ticket.
+-   Entry is only with a valid match ticket. The club has reported nine entry gates, so use the one on your ticket.
 -   Gates open a few hours before evening kick-offs. Arrive early for big matches.
 -   Jamshedpur FC publishes a stadium code of conduct and prohibited items list. As at most Indian stadiums, don’t carry outside food, bottles, flares, fireworks, lighters or sharp objects.
 

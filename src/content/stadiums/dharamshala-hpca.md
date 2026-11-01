@@ -13,8 +13,9 @@ updated: 2026-09-27
 faqs:
   - { q: "Can I drive to the HPCA Stadium on match day?", a: "Not up to the gate. The area around the stadium is a no-vehicle zone. Park at your assigned ground and take the HRTC shuttle." }
   - { q: "Which airport is nearest to Dharamshala stadium?", a: "Kangra Airport (Gaggal), about 12 km from the stadium." }
+checked: 2026-11-01
 quick:
-  - { q: "Near the stadium", a: "No-vehicle zone on match days", tone: no }
+  - { q: "Near the stadium", a: "Roads restricted to vehicles on match days", tone: no }
   - { q: "Shuttles", a: "HRTC buses from designated parking grounds", tone: yes }
   - { q: "Nearest airport", a: "Kangra (Gaggal), about 12 km", tone: info }
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
@@ -26,7 +27,7 @@ _Kangra Police issues a traffic plan before each big match. Check the latest one
 
 ## HPCA Stadium at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>Dharamshala, Kangra district, Himachal Pradesh</td></tr><tr><td><strong>Owner</strong></td><td>Himachal Pradesh Cricket Association (HPCA)</td></tr><tr><td><strong>Nearest airport</strong></td><td>Kangra (Gaggal), about 12 km</td></tr><tr><td><strong>Near the stadium</strong></td><td>No-vehicle zone on match days</td></tr><tr><td><strong>Shuttles</strong></td><td>HRTC shuttle buses from designated parking grounds</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>Dharamshala, Kangra district, Himachal Pradesh</td></tr><tr><td><strong>Owner</strong></td><td>Himachal Pradesh Cricket Association (HPCA)</td></tr><tr><td><strong>Nearest airport</strong></td><td>Kangra (Gaggal), about 12 km</td></tr><tr><td><strong>Near the stadium</strong></td><td>Roads restricted to vehicles on match days</td></tr><tr><td><strong>Shuttles</strong></td><td>HRTC shuttle buses from designated parking grounds</td></tr></tbody></table>
 
 ## How to reach Dharamshala stadium
 
@@ -39,7 +40,7 @@ _Kangra Police issues a traffic plan before each big match. Check the latest one
 -   Vehicles coming from Chamunda, Kangra, Gaggal and McLeodganj are each given **specific parking locations** in the police plan.
 -   **HRTC shuttle buses** carry spectators from the farther parking grounds, such as **Dari Ground** and **Zorawar Stadium**.
 -   Temporary shuttle stops have been set up at **Trends Mall, Dharamshala** and near the exit gate of the **Police Ground**.
--   Don’t try to drive to the stadium gate, as the surrounding roads are closed to vehicles.
+-   Don’t try to drive to the stadium gate: roads around it have been restricted to vehicles on match days, so follow the police signs. These plans are from earlier IPL seasons (2023 and 2025), so check the Kangra police notice for your match.
 
 ## What to carry and what’s banned
 

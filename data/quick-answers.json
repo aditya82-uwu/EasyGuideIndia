@@ -196,7 +196,7 @@
  "dharamshala-hpca": [
   {
    "q": "Near the stadium",
-   "a": "No-vehicle zone on match days",
+   "a": "Roads restricted to vehicles on match days",
    "tone": "no"
   },
   {
@@ -250,17 +250,17 @@
  "barsapara-guwahati": [
   {
    "q": "Public parking",
-   "a": "Champawati Field, Sawkuchi High School Ground",
+   "a": "Champawati Field and other grounds named by police",
    "tone": "info"
   },
   {
    "q": "Drop-off",
-   "a": "Barsapara Tiniali, Dhirenpara Tiniali",
+   "a": "Barsapara Tiniali, Dhirenpara Tiniali (past advisories)",
    "tone": "info"
   },
   {
    "q": "Gates open",
-   "a": "4:00 PM for a 7:30 PM match",
+   "a": "Check your ticket. Other IPL grounds opened about 3 hours before",
    "tone": "info"
   },
   {
@@ -282,7 +282,7 @@
   },
   {
    "q": "Public parking",
-   "a": "Paid, Helipad Ground behind the stadium",
+   "a": "Paid parking reported at the Helipad Ground behind the stadium",
    "tone": "info"
   },
   {
@@ -299,12 +299,12 @@
   },
   {
    "q": "Parking",
-   "a": "Freedom Park, UB City, other designated spots",
+   "a": "IPL 2026 police list: UB City, Shivajinagar Bus Stand",
    "tone": "info"
   },
   {
-   "q": "Cab and auto pick-up",
-   "a": "BRV Ground, Manekshaw Parade Ground",
+   "q": "Entry (IPL 2026)",
+   "a": "Fully digital QR tickets, reported",
    "tone": "info"
   },
   {
@@ -333,7 +333,7 @@
   },
   {
    "q": "Entry gates",
-   "a": "Nine gates for supporters and media",
+   "a": "Nine gates reported. Use the one on your ticket",
    "tone": "info"
   },
   {
@@ -355,7 +355,7 @@
   },
   {
    "q": "Bag size",
-   "a": "Max 45 x 30 x 30 cm. No luggage drop",
+   "a": "Max 45 x 30 x 30 cm. No luggage drop listed",
    "tone": "info"
   }
  ],
@@ -366,8 +366,8 @@
    "tone": "info"
   },
   {
-   "q": "Shuttle",
-   "a": "Free rail shuttle buses on match days",
+   "q": "Rail shuttle",
+   "a": "Free for The Hundred and Blast. Paid for some internationals",
    "tone": "yes"
   },
   {
@@ -389,7 +389,7 @@
   },
   {
    "q": "Buses",
-   "a": "Routes 72 to 77 from Temple Meads",
+   "a": "Services 17, 70 and 72 to 76 within a 5 minute walk",
    "tone": "yes"
   },
   {

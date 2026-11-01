@@ -13,10 +13,11 @@ updated: 2026-09-27
 faqs:
   - { q: "Which station is nearest to Headingley cricket ground?", a: "Burley Park, about a 5-minute walk from the St Michael’s Lane entrance." }
   - { q: "Can I bring alcohol to a Test match at Headingley?", a: "No. Bringing in alcohol isn’t allowed for international matches." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest station", a: "Burley Park, about 5 min walk", tone: info }
   - { q: "Park and ride", a: "From Beckett Park on international match days", tone: yes }
-  - { q: "Bag size", a: "Max 45 x 30 x 30 cm. No luggage drop", tone: info }
+  - { q: "Bag size", a: "Max 45 x 30 x 30 cm. No luggage drop listed", tone: info }
 ---
 **Headingley** in Leeds is home to Yorkshire County Cricket Club and hosts England Tests and white-ball internationals, including India’s tours of England. It’s famous for the lively Western Terrace. This guide covers how to get there by train and park and ride, bag size, and the food and alcohol rules.
 
@@ -33,7 +34,7 @@ _Check the official [Yorkshire CCC match-day information](https://yorkshireccc.c
 
 ## Bags
 
-Bags must be no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)** and fit under a seat. There’s **no luggage drop** at Headingley.
+Bags must be no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)** and fit under a seat. The ground’s regulations list no luggage drop service, so don’t bring suitcases.
 
 ## Food, drink and alcohol
 

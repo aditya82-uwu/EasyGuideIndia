@@ -14,6 +14,17 @@ export const checked = {
   'wankhede-mumbai': '2026-11-01',
   'eden-gardens-kolkata': '2026-11-01',
   'uppal-hyderabad': '2026-11-01',
+  'dharamshala-hpca': '2026-11-01',
+  'sms-jaipur': '2026-11-01',
+  'barsapara-guwahati': '2026-11-01',
+  'kaloor-kochi': '2026-11-01',
+  'chinnaswamy-bengaluru': '2026-11-01',
+  'headingley-leeds': '2026-11-01',
+  'utilita-bowl-southampton': '2026-11-01',
+  'bristol-county-ground': '2026-11-01',
+  'lords-london': '2026-11-01',
+  'the-oval-london': '2026-11-01',
+  'old-trafford-manchester': '2026-11-01',
 };
 
 export default {
@@ -68,7 +79,7 @@ export default {
     bags('Bags, pens and electronics are on police lists'),
   ],
   'dharamshala-hpca': [
-    { q: 'Near the stadium', a: 'No-vehicle zone on match days', tone: N },
+    { q: 'Near the stadium', a: 'Roads restricted to vehicles on match days', tone: N },
     { q: 'Shuttles', a: 'HRTC buses from designated parking grounds', tone: Y },
     { q: 'Nearest airport', a: 'Kangra (Gaggal), about 12 km', tone: I },
     pb(),
@@ -82,21 +93,21 @@ export default {
     bags('Bags and bottles commonly banned'),
   ],
   'barsapara-guwahati': [
-    { q: 'Public parking', a: 'Champawati Field, Sawkuchi High School Ground', tone: I },
-    { q: 'Drop-off', a: 'Barsapara Tiniali, Dhirenpara Tiniali', tone: I },
-    { q: 'Gates open', a: '4:00 PM for a 7:30 PM match', tone: I },
+    { q: 'Public parking', a: 'Champawati Field and other grounds named by police', tone: I },
+    { q: 'Drop-off', a: 'Barsapara Tiniali, Dhirenpara Tiniali (past advisories)', tone: I },
+    { q: 'Gates open', a: 'Check your ticket. Other IPL grounds opened about 3 hours before', tone: I },
     pb(),
     bags('Large backpacks commonly banned'),
   ],
   'kaloor-kochi': [
     { q: 'Nearest metro', a: 'JLN Stadium station (Kochi Metro)', tone: I },
-    { q: 'Public parking', a: 'Paid, Helipad Ground behind the stadium', tone: I },
+    { q: 'Public parking', a: 'Paid parking reported at the Helipad Ground behind the stadium', tone: I },
     { q: 'PIN code', a: '682017', tone: I },
   ],
   'chinnaswamy-bengaluru': [
     { q: 'Nearest metro', a: 'Cubbon Park and MG Road (Purple Line)', tone: I },
-    { q: 'Parking', a: 'Freedom Park, UB City, other designated spots', tone: I },
-    { q: 'Cab and auto pick-up', a: 'BRV Ground, Manekshaw Parade Ground', tone: I },
+    { q: 'Parking', a: 'IPL 2026 police list: UB City, Shivajinagar Bus Stand', tone: I },
+    { q: 'Entry (IPL 2026)', a: 'Fully digital QR tickets, reported', tone: I },
     pb('Commonly banned, with other electronics'),
   ],
   'indira-gandhi-guwahati': [
@@ -105,23 +116,23 @@ export default {
   ],
   'jrd-tata-jamshedpur': [
     { q: 'Nearest railway', a: 'Tatanagar Junction', tone: I },
-    { q: 'Entry gates', a: 'Nine gates for supporters and media', tone: I },
+    { q: 'Entry gates', a: 'Nine gates reported. Use the one on your ticket', tone: I },
     { q: 'Home team', a: 'Jamshedpur FC (ISL)', tone: I },
   ],
   'headingley-leeds': [
     { q: 'Nearest station', a: 'Burley Park, about 5 min walk', tone: I },
     { q: 'Park and ride', a: 'From Beckett Park on international match days', tone: Y },
-    { q: 'Bag size', a: 'Max 45 x 30 x 30 cm. No luggage drop', tone: I },
+    { q: 'Bag size', a: 'Max 45 x 30 x 30 cm. No luggage drop listed', tone: I },
   ],
   'utilita-bowl-southampton': [
     { q: 'Nearest stations', a: 'Hedge End, Southampton Airport Parkway', tone: I },
-    { q: 'Shuttle', a: 'Free rail shuttle buses on match days', tone: Y },
+    { q: 'Rail shuttle', a: 'Free for The Hundred and Blast. Paid for some internationals', tone: Y },
     { q: 'Payments', a: 'Cashless', tone: I },
     { q: 'Alcohol', a: 'Cannot be brought in', tone: N },
   ],
   'bristol-county-ground': [
     { q: 'Main stations', a: 'Bristol Temple Meads (2 mi), Bristol Parkway (4 mi)', tone: I },
-    { q: 'Buses', a: 'Routes 72 to 77 from Temple Meads', tone: Y },
+    { q: 'Buses', a: 'Services 17, 70 and 72 to 76 within a 5 minute walk', tone: Y },
     { q: 'Bag and food rules', a: 'Vary by match. Check Gloucestershire Cricket', tone: I },
   ],
   'lords-london': [

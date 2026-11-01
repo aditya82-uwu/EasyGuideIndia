@@ -22,16 +22,16 @@ _Check the official [Edgbaston travel page](https://edgbaston.com/visiting-us/tr
 
 ## Edgbaston at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>Edgbaston, Birmingham</td></tr><tr><td><strong>Home of</strong></td><td>Warwickshire CCC (Bears)</td></tr><tr><td><strong>Main rail station</strong></td><td>Birmingham New Street</td></tr><tr><td><strong>Shuttle</strong></td><td>501 Shuttle Bus from New Street (booked in advance)</td></tr><tr><td><strong>Parking</strong></td><td>Pre-booked, off-site; residents-only zone around the ground</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>Edgbaston, Birmingham</td></tr><tr><td><strong>Home of</strong></td><td>Warwickshire CCC (Bears)</td></tr><tr><td><strong>Main rail station</strong></td><td>Birmingham New Street</td></tr><tr><td><strong>Shuttle</strong></td><td>501 Shuttle Bus from New Street (tickets in the NXBus app or by contactless on the bus)</td></tr><tr><td><strong>Parking</strong></td><td>Pre-booked, off-site match-day car parks</td></tr></tbody></table>
 
 ## How to get to Edgbaston
 
--   **501 Shuttle Bus:** picks up outside **Birmingham New Street station** on Smallbrook Queensway (near the Bullring). Tickets have been £6 per adult and £4.50 per child for a day pass; book in advance.
+-   **501 Shuttle Bus:** picks up outside **Birmingham New Street station** on Smallbrook Queensway (near the Bullring). A day ticket was £6 per adult and £4 per child (aged 5 to 15) in April 2026, bought in the NXBus mTicket app or by contactless on the bus. The shuttle runs for selected matches, including all internationals and The Hundred.
 -   **Regular buses:** National Express West Midlands routes **45 and 47** run along Pershore Road, a short walk from the ground. Routes 1, 61, 63 and 35 also stop nearby.
 
 ## Parking
 
-Book official parking in advance at the off-site car parks. On match days there’s a large **controlled parking zone** around the stadium where streets are for permit holders only, and cars parked without a permit may be ticketed or towed.
+Book official parking in advance at the off-site car parks. Streets around the ground carry local parking restrictions on match days, so use the pre-booked car parks rather than parking on residential roads.
 
 ## Bags, food and alcohol
 

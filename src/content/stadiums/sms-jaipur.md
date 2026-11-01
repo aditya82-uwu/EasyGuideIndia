@@ -13,6 +13,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Is there parking at Sawai Mansingh Stadium?", a: "Only limited parking. Police set up a no-parking zone around the stadium on match days, so public transport or a cab drop is easier." }
   - { q: "Which bus stop is nearest to SMS Stadium?", a: "Rambagh Circle and Nagar Nigam (Lal Kothi)." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest bus stops", a: "Rambagh Circle, Nagar Nigam (Lal Kothi)", tone: info }
   - { q: "Nearest train", a: "Gandhinagar Jaipur. Jaipur Junction by cab", tone: info }

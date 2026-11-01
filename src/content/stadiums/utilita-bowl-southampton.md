@@ -11,11 +11,12 @@ homeTeam: "Hampshire"
 published: 2026-06-12
 updated: 2026-09-27
 faqs:
-  - { q: "Is there a shuttle to the Utilita Bowl?", a: "Yes. On match days, free shuttle buses run from Southampton Airport Parkway and Hedge End stations." }
+  - { q: "Is there a shuttle to the Utilita Bowl?", a: "Yes. Rail shuttle buses run from Southampton Airport Parkway and Hedge End on match days. They have been free for The Hundred and Vitality Blast and paid for some internationals." }
   - { q: "Can I bring alcohol to the Utilita Bowl?", a: "No. Only alcohol bought inside the ground can be consumed." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest stations", a: "Hedge End, Southampton Airport Parkway", tone: info }
-  - { q: "Shuttle", a: "Free rail shuttle buses on match days", tone: yes }
+  - { q: "Rail shuttle", a: "Free for The Hundred and Blast. Paid for some internationals", tone: yes }
   - { q: "Payments", a: "Cashless", tone: info }
   - { q: "Alcohol", a: "Cannot be brought in", tone: no }
 ---
@@ -25,11 +26,11 @@ _Check the official [Utilita Bowl directions and FAQs](https://www.utilitabowl.c
 
 ## Utilita Bowl at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>West End, Southampton, Hampshire</td></tr><tr><td><strong>Home of</strong></td><td>Hampshire Cricket, Southern Brave (The Hundred)</td></tr><tr><td><strong>Nearest stations</strong></td><td>Hedge End (under 2 miles); Southampton Airport Parkway</td></tr><tr><td><strong>Shuttle</strong></td><td>Free rail shuttle buses on match days</td></tr><tr><td><strong>Payments</strong></td><td>Cashless</td></tr><tr><td><strong>Alcohol</strong></td><td>Can’t be brought in</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>West End, Southampton, Hampshire</td></tr><tr><td><strong>Home of</strong></td><td>Hampshire Cricket, Southern Brave (The Hundred)</td></tr><tr><td><strong>Nearest stations</strong></td><td>Hedge End (under 2 miles); Southampton Airport Parkway</td></tr><tr><td><strong>Shuttle</strong></td><td>Rail shuttle buses on match days (free for The Hundred and Blast, paid for some internationals)</td></tr><tr><td><strong>Payments</strong></td><td>Cashless</td></tr><tr><td><strong>Alcohol</strong></td><td>Can’t be brought in</td></tr></tbody></table>
 
 ## How to get to the Utilita Bowl
 
--   **Free rail shuttle:** on match days, express shuttle buses run from outside **Southampton Airport Parkway** and **Hedge End** stations, dropping you at the stadium gates. They start an hour before gates open and run until 30 minutes after play ends.
+-   **Rail shuttle:** on match days, shuttle buses run from outside **Southampton Airport Parkway** and **Hedge End** stations to the stadium gates. They have been free for The Hundred and Vitality Blast, and paid for some internationals (£5 adults, £3 under-17 on one fixture). Times vary: for one recent match they ran from an hour before gates opened until 30 minutes after play ended.
 -   **Walking:** Hedge End station is under 2 miles away, about a 35-minute walk.
 -   **Park and ride:** for major matches (Tests and international T20s), a park and ride usually runs from Southampton city centre. Check Hampshire Cricket’s website for times.
 

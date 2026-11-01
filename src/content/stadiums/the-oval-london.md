@@ -13,6 +13,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Which tube station is closest to the Oval?", a: "Oval station on the Northern line. Vauxhall is also close." }
   - { q: "Can I bring alcohol to an England match at the Oval?", a: "Not for major internationals or The Hundred. Limited amounts are allowed for county matches." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest stations", a: "Oval (Northern), Vauxhall (Victoria, National Rail)", tone: info }
   - { q: "Bags", a: "One per person, max 45 x 30 x 30 cm", tone: info }

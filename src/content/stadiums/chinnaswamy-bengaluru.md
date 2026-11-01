@@ -13,19 +13,22 @@ updated: 2026-09-27
 faqs:
   - { q: "Which metro station is nearest to Chinnaswamy Stadium?", a: "Cubbon Park and MG Road on the Purple Line are both within walking distance." }
   - { q: "Where can I park for an RCB match?", a: "At designated parking such as Freedom Park or UB City. Most roads around the stadium are no-parking zones on match days." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Cubbon Park and MG Road (Purple Line)", tone: info }
-  - { q: "Parking", a: "Freedom Park, UB City, other designated spots", tone: info }
-  - { q: "Cab and auto pick-up", a: "BRV Ground, Manekshaw Parade Ground", tone: info }
+  - { q: "Parking", a: "IPL 2026 police list: UB City, Shivajinagar Bus Stand", tone: info }
+  - { q: "Entry (IPL 2026)", a: "Fully digital QR tickets, reported", tone: info }
   - { q: "Power bank", a: "Commonly banned, with other electronics", tone: no }
 ---
 **M. Chinnaswamy Stadium** in central Bengaluru is home to **Royal Challengers Bengaluru (RCB)** in the IPL and the Karnataka State Cricket Association (KSCA). It sits between Cubbon Park and MG Road, where roads are busy even on normal days. On match days, Bengaluru Traffic Police bans parking on most nearby roads, so here’s how to get there, where to park and get dropped, and what you can’t carry.
 
 _Bengaluru Traffic Police issues an advisory before each match. Check the latest one for your date._
 
+_For IPL 2026, reports said entry was fully digital with QR tickets, spectator numbers were capped at about 28,000, and gates opened about four hours before the start. Confirm the rules for your match._
+
 ## Chinnaswamy Stadium at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>MG Road / Cubbon Road area, Bengaluru</td></tr><tr><td><strong>Home team</strong></td><td>Royal Challengers Bengaluru (IPL); KSCA</td></tr><tr><td><strong>Nearest metro</strong></td><td>Cubbon Park and MG Road (Purple Line)</td></tr><tr><td><strong>Parking</strong></td><td>Freedom Park, UB City and other designated spots</td></tr><tr><td><strong>Cab / auto pick-up</strong></td><td>BRV Ground, Manekshaw Parade Ground</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>MG Road / Cubbon Road area, Bengaluru</td></tr><tr><td><strong>Home team</strong></td><td>Royal Challengers Bengaluru (IPL); KSCA</td></tr><tr><td><strong>Nearest metro</strong></td><td>Cubbon Park and MG Road (Purple Line)</td></tr><tr><td><strong>Parking</strong></td><td>UB City and Shivajinagar Bus Stand (2026 police list); Freedom Park in past seasons</td></tr><tr><td><strong>Cab / auto pick-up</strong></td><td>BRV Ground and Manekshaw Parade Ground in past seasons</td></tr></tbody></table>
 
 ## How to reach Chinnaswamy Stadium
 
@@ -35,7 +38,7 @@ _Bengaluru Traffic Police issues an advisory before each match. Check the latest
 
 ## Parking near Chinnaswamy Stadium
 
--   **Designated parking** has been available at **Freedom Park**, **UB City** and other notified locations.
+-   **Designated parking** in 2026 included **UB City** and **Shivajinagar Bus Stand** (police list), and **Freedom Park** in earlier seasons.
 -   **No parking** on Queens Road, MG Road, Link Road, Raj Bhavan Road, T Chowdaiah Road, Race Course Road, Central Street, Cubbon Road, St Mark’s Road, Museum Road, Kasturba Road, Lavelle Road and Vittal Mallya Road, and none inside Cubbon Park.
 
 ## Things not allowed in Chinnaswamy Stadium

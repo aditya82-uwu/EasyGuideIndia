@@ -13,6 +13,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Which tram stop is nearest to Old Trafford cricket ground?", a: "Old Trafford stop on the Metrolink Altrincham line, right next to the ground." }
   - { q: "Is halal food available at Emirates Old Trafford?", a: "Yes. Halal, vegan and vegetarian options are available on all match days." }
+checked: 2026-11-01
 quick:
   - { q: "Tram", a: "Old Trafford Metrolink stop, next to the ground", tone: yes }
   - { q: "Bags", a: "One small bag, max 45 x 30 x 30 cm", tone: info }
@@ -30,15 +31,15 @@ _Check [Lancashire Cricket’s bag policy FAQs](https://cricket.lancashirecricke
 
 -   **Metrolink tram:** get off at **Old Trafford** stop (Altrincham line). The cricket ground is on your right as you arrive from the city centre.
 -   **Don’t confuse it with the football stadium:** Wharfside tram stop serves Manchester United’s ground, not the cricket.
--   **Park and ride:** many Metrolink stops have free park and ride. The closest is **Stretford** (Edge Lane, M32 8HN).
+-   **Park and ride:** several Metrolink stops have park and ride, with **Stretford** the nearest. Check Transport for Greater Manchester and the club’s travel page for current details.
 
 ## Bags
 
-One small bag per person, no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)**, about the size of a regular backpack. All bags and picnic hampers are searched.
+One small bag per person, no bigger than **45 × 30 × 30 cm (18″ × 12″ × 12″)**. All bags and picnic hampers are searched.
 
 ## Food and drink
 
--   You **can bring your own food and drink**, but drinks must be in plastic bottles of up to **500 ml**.
+-   You **can bring your own food and drink**, but not glass bottles, cans or alcohol.
 -   **No alcohol, cans or glass** can be brought in.
 -   Halal, vegan and vegetarian food is available inside on all match days.
 

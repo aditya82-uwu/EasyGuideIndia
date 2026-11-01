@@ -13,6 +13,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Which tube station is nearest to Lord’s?", a: "St John’s Wood on the Jubilee line, about a 5-minute walk." }
   - { q: "Can I bring beer into Lord’s?", a: "For matches where it’s permitted, adults can bring two cans or bottles of beer or cider (up to 500 ml each), or one bottle of wine. Different rules apply for T20 Blast and The Hundred." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest tube", a: "St John's Wood (Jubilee line), 5 min walk", tone: info }
   - { q: "Famous entrance", a: "The Grace Gates", tone: info }
@@ -37,7 +38,7 @@ Lord’s gets very full on big match days, so bring a **small bag** only. All ba
 
 ## Can you bring alcohol into Lord’s?
 
-Lord’s is one of the few big grounds that lets adults bring _some_ alcohol, **but not for every match**. For matches where it’s allowed, each adult may bring **one** of:
+Lord’s is one of the few big grounds that lets adults bring _some_ alcohol, **but not for every match**. For matches where it’s allowed, each adult could bring **one** of the following (quantities as reported in 2021; confirm on the MCC page):
 
 -   one bottle of wine or Champagne (max 750 ml), **or**
 -   two cans or bottles of beer or cider (max 500 ml each), **or**

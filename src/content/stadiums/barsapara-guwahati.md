@@ -13,36 +13,37 @@ updated: 2026-09-27
 faqs:
   - { q: "Where can I park for a match at Barsapara Stadium?", a: "At Champawati Field or Sawkuchi High School Ground. Parking on A.K. Azad Road and A.K. Dev Road is restricted." }
   - { q: "What time do gates open at Barsapara?", a: "For a 7:30 PM match, gates have opened at 4:00 PM. Arrive by 5:30 PM." }
+checked: 2026-11-01
 quick:
-  - { q: "Public parking", a: "Champawati Field, Sawkuchi High School Ground", tone: info }
-  - { q: "Drop-off", a: "Barsapara Tiniali, Dhirenpara Tiniali", tone: info }
-  - { q: "Gates open", a: "4:00 PM for a 7:30 PM match", tone: info }
+  - { q: "Public parking", a: "Champawati Field and other grounds named by police", tone: info }
+  - { q: "Drop-off", a: "Barsapara Tiniali, Dhirenpara Tiniali (past advisories)", tone: info }
+  - { q: "Gates open", a: "Check your ticket. Other IPL grounds opened about 3 hours before", tone: info }
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Large backpacks commonly banned", tone: no }
 ---
-**Barsapara Cricket Stadium**, officially the **ACA Stadium** (Dr. Bhupen Hazarika Cricket Stadium), in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. It seats about 46,000 (extendable to about 55,000). On match days, Guwahati traffic police restrict roads around the stadium from the afternoon, so here’s how to get there, where to park, gate timings and what you can’t bring.
+**Barsapara Cricket Stadium**, officially the **ACA Stadium** (Dr. Bhupen Hazarika Cricket Stadium), in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. On match days, Guwahati traffic police restrict roads around the stadium from the afternoon, so here’s how to get there, where to park, gate timings and what you can’t bring.
 
 _Guwahati traffic police and the Assam Cricket Association (ACA) issue advisories before each match. Check the latest one._
 
 ## Barsapara Stadium at a glance
 
-<table><tbody><tr><td><strong>Official name</strong></td><td>ACA Stadium / Dr. Bhupen Hazarika Cricket Stadium, Barsapara</td></tr><tr><td><strong>Capacity</strong></td><td>About 46,000 (extendable to about 55,000)</td></tr><tr><td><strong>IPL</strong></td><td>Rajasthan Royals’ second home</td></tr><tr><td><strong>Public parking</strong></td><td>Champawati Field, Sawkuchi High School Ground</td></tr><tr><td><strong>Drop-off points</strong></td><td>Barsapara Tiniali, Dhirenpara Tiniali</td></tr><tr><td><strong>Gates open</strong></td><td>4:00 PM for a 7:30 PM match</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Official name</strong></td><td>ACA Stadium / Dr. Bhupen Hazarika Cricket Stadium, Barsapara</td></tr><tr><td><strong>IPL</strong></td><td>Rajasthan Royals’ second home</td></tr><tr><td><strong>Public parking</strong></td><td>Champawati Field and other grounds named by police</td></tr><tr><td><strong>Drop-off points</strong></td><td>Barsapara Tiniali, Dhirenpara Tiniali</td></tr><tr><td><strong>Gates open</strong></td><td>Check your ticket. Other IPL grounds opened about 3 hours before the start</td></tr></tbody></table>
 
 ## How to reach Barsapara Stadium
 
 -   **From Guwahati Railway Station:** about 30 minutes by cab or auto.
--   **Match-day buses:** special ASTC buses usually run from Adabari and Paltan Bazar to the stadium.
+-   **Match-day buses:** special buses have been announced for some matches. Check the announcement for your match.
 -   **Cabs:** drop-off points have been at **Barsapara Tiniali** and **Dhirenpara Tiniali**. Later in the evening, only official car-pass vehicles are allowed closer to the stadium.
 
 ## Parking and road restrictions
 
--   **Public parking:** **Champawati Field** and **Sawkuchi High School Ground**.
+-   **Public parking:** **Champawati Field** (a standard parking site for big matches) and other grounds named in the police advisory.
 -   **Restricted:** parking on A.K. Azad Road and A.K. Dev Road (only limited parallel parking in marked spots).
--   Restrictions generally run from 2 PM to midnight on evening match days, and A.K. Azad Road has been made one-way (Lalganesh Tiniali to Cycle Factory Tiniali) from the afternoon.
+-   Restrictions have run through the afternoon and evening on match days, and A.K. Azad Road has been made one-way in past advisories. Check the Guwahati Traffic Police notice for your match.
 
 ## Entry and banned items
 
--   **Gates open at 4:00 PM for 7:30 PM matches.** Reach by about 5:30 PM, as there are two layers of security checks.
+-   **Gates have opened roughly three hours before the start at IPL grounds.** Check your ticket, and allow time for two layers of security checks.
 -   Use the gate printed on your ticket.
 -   **Not allowed:** power banks, Bluetooth speakers, professional cameras, helmets, umbrellas, lighters, coins, large backpacks and outside food, plus weapons, firecrackers and laser pointers.
 
