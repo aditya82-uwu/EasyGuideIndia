@@ -13,7 +13,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Which metro station is nearest to Uppal Stadium?", a: "Stadium station on the Hyderabad Metro Blue Line, right next to the ground." }
   - { q: "Where can I park for an SRH match at Uppal?", a: "At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur)." }
-  - { q: "Can I carry a bag or pen into Uppal Stadium?", a: "No. Bags, pens, key chains and electronics are banned, and there’s no cloakroom." }
+  - { q: "Can I carry a bag or pen into Uppal Stadium?", a: "No. Bags, pens, key chains and electronics are banned, and no cloakroom is reported." }
 checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Stadium station (Blue Line). Uppal also close", tone: info }
@@ -27,7 +27,7 @@ _Malkajgiri / Rachakonda traffic police issue an advisory before each IPL match.
 
 ## Uppal Stadium at a glance
 
-<table><tbody><tr><td><strong>Official name</strong></td><td>Rajiv Gandhi International Cricket Stadium, Uppal</td></tr><tr><td><strong>Home team</strong></td><td>Sunrisers Hyderabad (IPL); Hyderabad Cricket Association</td></tr><tr><td><strong>Nearest metro</strong></td><td>Stadium station (Blue Line); Uppal station is also close</td></tr><tr><td><strong>Gates open</strong></td><td>3 hours before the start (IPL 2026)</td></tr><tr><td><strong>Tickets</strong></td><td>Digital tickets (IPL 2026)</td></tr><tr><td><strong>Cloakroom</strong></td><td>None: banned items are confiscated</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Official name</strong></td><td>Rajiv Gandhi International Cricket Stadium, Uppal</td></tr><tr><td><strong>Home team</strong></td><td>Sunrisers Hyderabad (IPL); Hyderabad Cricket Association</td></tr><tr><td><strong>Nearest metro</strong></td><td>Stadium station (Blue Line); Uppal station is also close</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start (recent seasons)</td></tr><tr><td><strong>Tickets</strong></td><td>Check the ticket terms for your match</td></tr><tr><td><strong>Cloakroom</strong></td><td>Not reported. Leave banned items at home</td></tr></tbody></table>
 
 ## How to reach Uppal Stadium
 
@@ -44,10 +44,10 @@ Parking inside the stadium is only for VIP/VVIP pass holders. Don’t park on th
 
 ## Entry rules
 
--   **Gates open three hours before the start.**
--   For IPL 2026, **digital tickets were mandatory**. Keep your ticket ready in the app.
+-   **Gates have opened about three hours before the start.**
+-   Tickets for recent IPL matches were digital. Keep your ticket ready in the app.
 -   Seats are pre-assigned, so sit in your allotted seat.
--   There’s **no cloakroom**. Banned items are confiscated at the gate and not returned.
+-   No cloakroom is reported, so leave banned items at home. Items found at the gate may be confiscated.
 
 ## Things not allowed in Uppal Stadium
 

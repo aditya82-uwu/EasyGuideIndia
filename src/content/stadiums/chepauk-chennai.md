@@ -47,3 +47,5 @@ sources:
   - "Greater Chennai Traffic Police IPL arrangements"
   - "CSK / TNCA ticketing rules"
 ---
+
+_Parking and traffic details follow the Greater Chennai Traffic Police arrangements published for earlier IPL seasons. We found no 2026 notice, so check the police and CSK announcements for your match._

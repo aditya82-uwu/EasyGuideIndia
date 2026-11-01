@@ -24,19 +24,21 @@ quick:
   - { q: "Bags", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Ticket type", a: "E-ticket QR or physical. Follow your ticket", tone: info }
 ---
-**Arun Jaitley Stadium** (formerly **Feroz Shah Kotla**) on Bahadur Shah Zafar Marg in central Delhi is the home of Delhi Capitals in the IPL and WPL, and one of India’s oldest Test grounds. It’s run by the Delhi & District Cricket Association (DDCA) and holds about 41,000 spectators. The roads around it (BSZ Marg, JLN Marg and Asaf Ali Road) are among Delhi’s busiest, so on match days you need to know which road leads to your gate, where to park, and which metro station to use.
+**Arun Jaitley Stadium** (formerly **Feroz Shah Kotla**) on Bahadur Shah Zafar Marg in central Delhi is the home of Delhi Capitals in the IPL and WPL, and one of India’s oldest Test grounds. It’s run by the Delhi & District Cricket Association (DDCA). The roads around it (BSZ Marg, JLN Marg and Asaf Ali Road) are among Delhi’s busiest, so on match days you need to know which road leads to your gate, where to park, and which metro station to use.
 
 _Details below are from Delhi Traffic Police advisories for IPL 2026 matches. Arrangements are announced before every big match, so check the latest @dtptraffic advisory for your date._
 
 ## Arun Jaitley Stadium at a glance
 
-<table><tbody><tr><td><strong>Address</strong></td><td>Bahadur Shah Zafar Marg, New Delhi</td></tr><tr><td><strong>Also known as</strong></td><td>Feroz Shah Kotla</td></tr><tr><td><strong>Home team</strong></td><td>Delhi Capitals (IPL and WPL); Delhi (domestic)</td></tr><tr><td><strong>Capacity</strong></td><td>About 41,000</td></tr><tr><td><strong>Nearest metro</strong></td><td>Delhi Gate (Violet Line)</td></tr><tr><td><strong>Free public parking</strong></td><td>Mata Sundari Road, Rajghat Power House Road, Velodrome Road</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Address</strong></td><td>Bahadur Shah Zafar Marg, New Delhi</td></tr><tr><td><strong>Also known as</strong></td><td>Feroz Shah Kotla</td></tr><tr><td><strong>Home team</strong></td><td>Delhi Capitals (IPL and WPL); Delhi (domestic)</td></tr><tr><td><strong>Nearest metro</strong></td><td>Delhi Gate or ITO (Violet Line)</td></tr><tr><td><strong>Free public parking</strong></td><td>Mata Sundari Road, Rajghat Power House Road, Velodrome Road</td></tr></tbody></table>
 
 ## Nearest metro station to Arun Jaitley Stadium
 
-**Delhi Gate** metro station on the **Violet Line** is closest, just a short walk from the stadium’s gates on Bahadur Shah Zafar Marg. Delhi Traffic Police strongly advises fans to use the metro on match days, as roads around the stadium are closed or diverted from late afternoon until around midnight.
+**Delhi Gate** and **ITO** metro stations on the **Violet Line** are closest. Delhi Gate is a short walk from the gates on Bahadur Shah Zafar Marg. Police advisories have pointed Delhi Gate to Gates 4 and 5 and ITO to Gates 3, 4 and 5. Delhi Traffic Police strongly advises fans to use the metro on match days, as roads around the stadium are closed or diverted from late afternoon until around midnight.
 
 ## Which road leads to your gate
+
+_The road lists and routes below come from earlier match advisories. Confirm them against the notice for your match._
 
 Your gate number is printed on your ticket. The traffic police split entry routes by gate:
 

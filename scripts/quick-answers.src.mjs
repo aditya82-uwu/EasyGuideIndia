@@ -35,8 +35,8 @@ export default {
   ],
   'narendra-modi-ahmedabad': [
     { q: 'Nearest metro', a: 'Motera Stadium station (Red Line)', tone: Y },
-    { q: 'Parking', a: 'Limited and often reserved. Pre-book where the match offers it', tone: I },
-    { q: 'Gates open', a: 'A few hours before the start. Check your ticket', tone: I },
+    { q: 'Parking', a: 'Limited. Pre-booking via Show My Parking was offered for IPL 2026', tone: I },
+    { q: 'Gates open', a: 'About 3 hours before the start in IPL 2025. Check your ticket', tone: I },
     pb(),
     bags('Commonly banned at IPL venues (small ladies purses excepted)'),
   ],

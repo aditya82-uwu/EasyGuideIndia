@@ -21,9 +21,9 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Commonly banned, with cameras", tone: no }
 ---
-**Eden Gardens** in Kolkata is India’s oldest international cricket ground, the home of **Kolkata Knight Riders** and the Cricket Association of Bengal (CAB). It sits in the BBD Bagh / Maidan area near the Hooghly river. On match days, Kolkata Police closes the roads around the ground and bans parking nearby, so **public transport is the way to go**. This guide covers the nearest metro and train stations, road closures, tickets and banned items.
+**Eden Gardens** in Kolkata is one of India’s oldest international cricket grounds, the home of **Kolkata Knight Riders** and the Cricket Association of Bengal (CAB). It sits in the BBD Bagh / Maidan area near the Hooghly river. On match days, Kolkata Police closes the roads around the ground and bans parking nearby, so **public transport is the way to go**. This guide covers the nearest metro and train stations, road closures, tickets and banned items.
 
-_Kolkata Police announces restrictions before each match, generally from 4 pm to 1 am on evening match days. Check the latest advisory._
+_Kolkata Police announces restrictions before each match. Check the latest advisory for your date._
 
 ## Eden Gardens at a glance
 
@@ -36,6 +36,8 @@ _Kolkata Police announces restrictions before each match, generally from 4 pm to
 -   **Bus:** on match days, the bus stands at Band Stand and Auckland Road have been shifted to Kiran Shankar Roy Road and Esplanade Row East (near the Central Bus Terminus).
 
 ## Road closures and parking
+
+_The road lists and routes below come from earlier match advisories. Confirm them against the notice for your match._
 
 -   **Closed to vehicles** during restricted hours: Kshudiram Bose Road, North Brooke Avenue and Gostha Pal Sarani.
 -   **No parking** on either side of Gostha Pal Sarani, Kshudiram Bose Road, Government Place East, Rani Rashmoni Avenue, Old Court House Street, Red Road, Mayo Road and Dufferin Road.

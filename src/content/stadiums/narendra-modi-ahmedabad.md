@@ -13,13 +13,13 @@ updated: 2026-09-27
 faqs:
   - { q: "How do I book parking at Narendra Modi Stadium?", a: "Through the Show My Parking app, as early as possible. Spaces for big matches sell out." }
   - { q: "Which metro station is nearest to Narendra Modi Stadium?", a: "Motera Stadium station on the Ahmedabad Metro Red Line, right by the stadium." }
-  - { q: "What time do gates open at Narendra Modi Stadium?", a: "About 3 hours before the start of play." }
+  - { q: "What time do gates open at Narendra Modi Stadium?", a: "About 3 hours before the start in IPL 2025. Check your ticket." }
   - { q: "Can I take a bag into Narendra Modi Stadium?", a: "No, except a small ladies’ purse. Bags, briefcases and helmets aren’t allowed." }
 checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Motera Stadium station (Red Line)", tone: yes }
-  - { q: "Parking", a: "Limited and often reserved. Pre-book where the match offers it", tone: info }
-  - { q: "Gates open", a: "A few hours before the start. Check your ticket", tone: info }
+  - { q: "Parking", a: "Limited. Pre-booking via Show My Parking was offered for IPL 2026", tone: info }
+  - { q: "Gates open", a: "About 3 hours before the start in IPL 2025. Check your ticket", tone: info }
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Commonly banned at IPL venues (small ladies purses excepted)", tone: no }
 ---
@@ -29,7 +29,7 @@ _Parking and traffic arrangements are announced for each big match. Check the la
 
 ## Narendra Modi Stadium at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>Motera, Ahmedabad, Gujarat</td></tr><tr><td><strong>Capacity</strong></td><td>About 1.3 lakh (world’s largest cricket stadium)</td></tr><tr><td><strong>Home team</strong></td><td>Gujarat Titans (IPL); Gujarat Cricket Association</td></tr><tr><td><strong>Metro</strong></td><td>Motera Stadium station (Ahmedabad Metro Red Line)</td></tr><tr><td><strong>Parking</strong></td><td>Pre-book through the Show My Parking app</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>Motera, Ahmedabad, Gujarat</td></tr><tr><td><strong>Capacity</strong></td><td>About 1.3 lakh (world’s largest cricket stadium)</td></tr><tr><td><strong>Home team</strong></td><td>Gujarat Titans (IPL); Gujarat Cricket Association</td></tr><tr><td><strong>Metro</strong></td><td>Motera Stadium station (Ahmedabad Metro Red Line)</td></tr><tr><td><strong>Parking</strong></td><td>Pre-book through the Show My Parking app (offered for IPL 2026)</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start (IPL 2025)</td></tr></tbody></table>
 
 ## How to reach Narendra Modi Stadium by metro
 
@@ -43,14 +43,14 @@ _Parking and traffic arrangements are announced for each big match. Check the la
 
 ## Entry rules
 
--   **Gates open about 3 hours before the start.** Arrive early; security checks and frisking take time.
+-   **Gates opened about 3 hours before the start in IPL 2025.** Arrive early; security checks and frisking take time.
 -   Carry a **valid, undamaged ticket** and use the gate printed on it.
 -   **No re-entry** once you leave, unless explicitly permitted.
 
 ## What is not allowed in Narendra Modi Stadium
 
 -   Bags and briefcases (other than small ladies’ purses), and motorcycle helmets
--   Power banks and charging devices
+-   Power banks and charging devices (not named in the GCA list we found, but commonly banned at IPL venues, so leave them at home)
 -   Outside food and drinks; bottles, tins, cans and metal containers
 -   Cameras, binoculars and recording devices
 -   Lighters, firecrackers and cigarettes (smoking is banned inside)

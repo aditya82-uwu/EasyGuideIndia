@@ -12,7 +12,7 @@ published: 2026-04-01
 updated: 2026-09-27
 faqs:
   - { q: "Which metro station is nearest to Ekana Stadium?", a: "Lucknow Metro doesn’t reach Ekana, and the nearest stations are several kilometres away. Take a cab or auto, or a match-day shuttle if one is announced." }
-  - { q: "What time do gates open at Ekana Stadium?", a: "About 3 hours before the start: 4:30 PM for a 7:30 PM IPL match." }
+  - { q: "What time do gates open at Ekana Stadium?", a: "Gates have opened about 3 hours before the start, so around 4:30 PM for a 7:30 PM IPL match. Check your ticket." }
   - { q: "Can I carry a power bank into Ekana Stadium?", a: "No. Power banks are banned at IPL venues, so charge your phone before you go." }
 checked: 2026-11-01
 quick:
@@ -28,12 +28,12 @@ _Lucknow Traffic Police announces diversions before each big match, and LSG publ
 
 ## Ekana Stadium at a glance
 
-<table><tbody><tr><td><strong>Location</strong></td><td>Ekana Sports City, Shaheed Path, Lucknow (near Phoenix Palassio)</td></tr><tr><td><strong>Home team</strong></td><td>Lucknow Super Giants (IPL)</td></tr><tr><td><strong>Metro</strong></td><td>No station at the stadium; nearest Lucknow Metro stations are several km away</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start (for IPL 2026 evening matches)</td></tr><tr><td><strong>Parking</strong></td><td>Designated two-wheeler and car parking; fills up early</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Location</strong></td><td>Ekana Sports City, Shaheed Path, Lucknow (near Phoenix Palassio)</td></tr><tr><td><strong>Home team</strong></td><td>Lucknow Super Giants (IPL)</td></tr><tr><td><strong>Metro</strong></td><td>No station at the stadium; nearest Lucknow Metro stations are several km away</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start in recent seasons</td></tr><tr><td><strong>Parking</strong></td><td>Designated two-wheeler and car parking; fills up early</td></tr></tbody></table>
 
 ## How to reach Ekana Stadium
 
 -   **Metro:** Lucknow Metro doesn’t reach the stadium, and the nearest stations are several kilometres away, so plan a cab, auto or shuttle for the last stretch.
--   **Match-day shuttles:** for some IPL 2026 matches, special shuttle buses were announced from central points such as Hazratganj and Charbagh. Check the announcement for your match.
+-   **Match-day buses:** Lucknow Metro has run feeder buses from stations such as Indira Nagar and Transport Nagar to the stadium on IPL match days, and extended metro hours to 12:30 AM. Check the announcement for your match.
 -   **Cab / auto:** the most common option. Phoenix Palassio mall on Shaheed Path is a well-known landmark right next to the stadium.
 -   **From Charbagh railway station or the airport:** take a cab directly to Shaheed Path / Ekana.
 
@@ -41,11 +41,11 @@ _Lucknow Traffic Police announces diversions before each big match, and LSG publ
 
 -   There are designated parking areas for **two-wheelers** and **cars** around Ekana Sports City. LSG publishes parking maps before the season.
 -   Parking fills up quickly on match days, so arrive early.
--   Traffic on Shaheed Path is heavy before and after matches. Traffic police have diverted vehicles from the Kamta–Shaheed Path junction on Ayodhya Road to alternative routes, so allow extra time.
+-   Traffic on Shaheed Path is heavy before and after matches. For a 2025 match, police diverted vehicles from Sultanpur Road and Arjunganj, barred autos and e-rickshaws from Shaheed Path, and stopped ride-hailing pickups on that stretch. Check the police advisory for your match.
 
 ## Entry time and tickets
 
--   **Gates open about 3 hours before the start**: around 4:30 PM for a 7:30 PM match, and 12:30 PM for a 3:30 PM match (IPL 2026 timings).
+-   **Gates have opened about 3 hours before the start**, so around 4:30 PM for a 7:30 PM match. Check your ticket for your match.
 -   Your gate and stand are printed on your ticket.
 -   Buy tickets only from LSG’s official ticketing partner for the season.
 
