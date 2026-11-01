@@ -1,7 +1,8 @@
 ---
 legacySlug: "barsapara-stadium-guwahati-entry-rules-parking-guide"
-title: "Barsapara Stadium Guwahati: Parking, Entry Time & Rules"
-description: "ACA Barsapara Stadium, Guwahati: public parking at Champawati Field and Sawkuchi, drop-off points, gate opening time and the banned items list."
+title: "Barsapara Stadium Guwahati IPL Guide: Parking & Entry Rules"
+description: "Barsapara Stadium Guwahati IPL guide: Champawati Field parking, road restrictions, drop-off points and banned items."
+intro: "Barsapara Cricket Stadium, officially the ACA Stadium, in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. Police restrict roads around the ground on match days. Champawati Field is a standard parking site for big matches, and drop-off points have been at Barsapara Tiniali and Dhirenpara Tiniali in past advisories. This guide covers how to get there, parking and banned items."
 name: "Barsapara Stadium"
 officialName: "ACA Stadium, Barsapara"
 city: "Guwahati"
@@ -9,7 +10,7 @@ state: "Assam"
 country: "India"
 homeTeam: "Rajasthan Royals (second home venue)"
 published: 2026-04-05
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Where can I park for a match at Barsapara Stadium?", a: "At Champawati Field or Sawkuchi High School Ground. Parking on A.K. Azad Road and A.K. Dev Road is restricted." }
   - { q: "What time do gates open at Barsapara?", a: "For a 7:30 PM match, gates have opened at 4:00 PM. Arrive by 5:30 PM." }
@@ -21,7 +22,6 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Large backpacks commonly banned", tone: no }
 ---
-**Barsapara Cricket Stadium**, officially the **ACA Stadium** (Dr. Bhupen Hazarika Cricket Stadium), in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. On match days, Guwahati traffic police restrict roads around the stadium from the afternoon, so here’s how to get there, where to park, gate timings and what you can’t bring.
 
 _Guwahati traffic police and the Assam Cricket Association (ACA) issue advisories before each match. Check the latest one._
 

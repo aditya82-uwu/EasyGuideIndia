@@ -6,6 +6,7 @@ import QuickAnswers from '../../components/QuickAnswers.astro';
 import Toc from '../../components/Toc.astro';
 import Faq from '../../components/Faq.astro';
 import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, venueLd, graph } from '../../lib/schema';
+import { isIplGround } from '../../lib/stadiums';
 
 export async function getStaticPaths() {
   const stadiums = await getCollection('stadiums');
@@ -37,8 +38,11 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
       <Breadcrumbs trail={[{ name: 'Home', href: '/' }, { name: 'Stadiums', href: '/stadiums/' }]} current={d.name} />
       <p class="kicker mt-8">{d.city === d.state ? d.city : `${d.city}, ${d.state}`}</p>
       <h1 class="display mt-2 max-w-4xl text-[clamp(2.75rem,7vw,5.25rem)]">{d.name}</h1>
-      <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-2">Gates, parking, transport and entry rules at {d.officialName}.</p>
+      <p class="mt-5 max-w-2xl text-lg leading-relaxed text-ink-2">{d.intro ?? `Gates, parking, transport and entry rules at ${d.officialName}.`}</p>
       <p class="mt-4 font-mono text-[0.78rem] text-ink-3">Home of {d.homeTeam} &middot; Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{fmt(d.updated)}</time></p>
+      {isIplGround(d.legacySlug) && (
+        <p class="mt-3 text-sm"><a href="/ipl-2027/" class="link-quiet">IPL 2027 ground guide: all 12 IPL grounds, what is confirmed and a match-day checklist</a></p>
+      )}
     </header>
 
     <div class="wrap grid gap-10 pb-6 lg:grid-cols-[minmax(0,1fr)_20.5rem] lg:gap-16">

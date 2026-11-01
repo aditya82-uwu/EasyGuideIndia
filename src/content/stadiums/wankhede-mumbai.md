@@ -1,7 +1,8 @@
 ---
 legacySlug: "wankhede-stadium-mumbai-entry-rules-parking-guide"
-title: "Wankhede Stadium Gates, Parking & How to Reach by Train"
-description: "Wankhede Stadium, Mumbai: Churchgate and Marine Lines stations, why there's no parking, entry gates, tickets and the list of banned items like power banks."
+title: "Wankhede Stadium IPL 2027 Guide: Gates, Parking & Trains"
+description: "Wankhede IPL 2027 guide: no public parking, Churchgate and Marine Lines stations, Metro Line 3, BookMyShow tickets, gates and banned items."
+intro: "Wankhede Stadium in Churchgate, South Mumbai, is the home ground of Mumbai Indians. The ground has no public parking, so most fans arrive by Western Railway to Churchgate, a few minutes’ walk away, or to Marine Lines. Mumbai Metro Line 3 (Aqua Line) also serves the Churchgate area. This guide covers entry gates, tickets, parking and what you cannot carry in, based on IPL 2026 notices, and we update it when IPL 2027 details are announced."
 name: "Wankhede Stadium"
 officialName: "Wankhede Stadium"
 city: "Mumbai"
@@ -9,7 +10,7 @@ state: "Maharashtra"
 country: "India"
 homeTeam: "Mumbai Indians"
 published: 2026-04-01
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which station is nearest to Wankhede Stadium?", a: "Churchgate on the Western Railway, a few minutes’ walk. Marine Lines is also close." }
   - { q: "Is there parking at Wankhede Stadium?", a: "Not for the public. Use a local train, or park elsewhere in South Mumbai and take a cab." }
@@ -23,7 +24,6 @@ quick:
   - { q: "Power bank", a: "Banned at past matches. Assume not allowed", tone: no }
   - { q: "Bags", a: "Large bags banned. Carry phone, wallet, ticket", tone: no }
 ---
-**Wankhede Stadium** in Churchgate, South Mumbai, is home to Mumbai Indians (IPL) and the Mumbai Cricket Association. It hosted the 2011 World Cup final. It sits between Marine Drive and Churchgate station, and there’s **no public parking at the stadium**, so how you travel is the most important decision on match day. This guide covers the nearest stations, entry gates, tickets, parking and what you can’t carry.
 
 _Mumbai Traffic Police issues an advisory for Marine Drive and Churchgate before big matches. Check the latest one, and your ticket, before you leave._
 

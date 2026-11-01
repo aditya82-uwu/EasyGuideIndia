@@ -1,7 +1,8 @@
 ---
 legacySlug: "mullanpur-stadium-chandigarh-entry-rules-parking-guide"
-title: "Mullanpur Stadium (New Chandigarh): Parking, Gates & Map"
-description: "Maharaja Yadavindra Singh Stadium, Mullanpur: paid parking P4–P6 (₹200 car, ₹100 bike), Show My Parking booking, route, 16 gates and banned items."
+title: "Mullanpur Stadium IPL 2027 Guide: Parking, Gates & Rules"
+description: "Mullanpur IPL 2027 guide: paid lots P4 to P6 (₹200 car, ₹100 bike as reported), Show My Parking, about 16 gates and banned items."
+intro: "Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur, New Chandigarh, is the home ground of Punjab Kings. It is outside the main city, so traffic and parking are the main things to plan. Paid public parking was in lots P4, P5 and P6 (₹200 for a car and ₹100 for a two-wheeler, as The Tribune reported), bookable on Show My Parking. Gates opened at 4:30 PM for the IPL 2026 opener. Below are the route, gates and banned items."
 name: "Mullanpur Stadium"
 officialName: "Maharaja Yadavindra Singh International Cricket Stadium"
 city: "New Chandigarh (Mullanpur)"
@@ -9,7 +10,7 @@ state: "Punjab"
 country: "India"
 homeTeam: "Punjab Kings"
 published: 2026-03-31
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Where can I park for a match at Mullanpur stadium?", a: "In the public lots P4, P5 and P6 (₹200 for cars, ₹100 for two-wheelers), bookable on the Show My Parking app." }
   - { q: "How far is Mullanpur stadium from Chandigarh?", a: "It is in New Chandigarh, outside the main city. Allow extra time on match days." }
@@ -22,7 +23,6 @@ quick:
   - { q: "Bags", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Tickets", a: "District by Zomato. Pick up at Mohali or Mullanpur", tone: info }
 ---
-**Maharaja Yadavindra Singh International Cricket Stadium** in Mullanpur, New Chandigarh, is Punjab Kings’ home ground in the IPL and one of India’s newest international venues. It’s outside Chandigarh city (outside the main city), so traffic and parking are the main things to plan. This guide covers how to get there, paid parking and booking, entry gates and what you can’t carry.
 
 _Chandigarh and Punjab police issue traffic plans before big matches. Check the latest advisory and your ticket before you travel._
 

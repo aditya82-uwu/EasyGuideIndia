@@ -1,7 +1,8 @@
 ---
 legacySlug: "arun-jaitley-stadium-delhi-entry-rules-parking-guide"
-title: "Arun Jaitley Stadium Parking, Nearest Metro & Gate Numbers"
-description: "Arun Jaitley Stadium (Feroz Shah Kotla), Delhi: Delhi Gate metro, free public parking, which road leads to Gates 1–18, cab drop points and roads to avoid."
+title: "Arun Jaitley Stadium IPL 2027 Guide: Metro, Parking, Gates"
+description: "Arun Jaitley Stadium IPL 2027 guide: Delhi Gate and ITO metro, free parking on Mata Sundari Road, which road leads to each gate, and banned items."
+intro: "Arun Jaitley Stadium (formerly Feroz Shah Kotla) on Bahadur Shah Zafar Marg is the home ground of Delhi Capitals. Delhi Traffic Police advise using the Violet Line metro: Delhi Gate and ITO are the nearest stations. In IPL 2026, free public parking was set up on Mata Sundari Road, Rajghat Power House Road and Velodrome Road, and parking near the gates was only for vehicles with an official label. Below are the roads that lead to each gate and the roads to avoid."
 name: "Arun Jaitley Stadium"
 officialName: "Arun Jaitley Stadium (Feroz Shah Kotla)"
 city: "Delhi"
@@ -9,7 +10,7 @@ state: "Delhi"
 country: "India"
 homeTeam: "Delhi Capitals"
 published: 2026-04-07
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which is the nearest metro station to Arun Jaitley Stadium?", a: "Delhi Gate on the Violet Line, a short walk from the gates on Bahadur Shah Zafar Marg." }
   - { q: "Where can I park for a match at Arun Jaitley Stadium?", a: "Free public parking has been provided on Mata Sundari Road, Rajghat Power House Road and Velodrome Road. Parking near the gates is only for vehicles with official labels." }
@@ -24,7 +25,6 @@ quick:
   - { q: "Bags", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Ticket type", a: "E-ticket QR or physical. Follow your ticket", tone: info }
 ---
-**Arun Jaitley Stadium** (formerly **Feroz Shah Kotla**) on Bahadur Shah Zafar Marg in central Delhi is the home of Delhi Capitals in the IPL and WPL, and one of India’s oldest Test grounds. It’s run by the Delhi & District Cricket Association (DDCA). The roads around it (BSZ Marg, JLN Marg and Asaf Ali Road) are among Delhi’s busiest, so on match days you need to know which road leads to your gate, where to park, and which metro station to use.
 
 _Details below are from Delhi Traffic Police advisories for IPL 2026 matches. Arrangements are announced before every big match, so check the latest @dtptraffic advisory for your date._
 

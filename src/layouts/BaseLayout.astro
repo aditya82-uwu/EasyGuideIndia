@@ -18,6 +18,7 @@ const imageUrl = new URL(image, Astro.site).href;
 
 const path = Astro.url.pathname;
 const nav = [
+  { href: '/ipl-2027/', label: 'IPL 2027', match: ['/ipl-2027/'] },
   { href: '/stadiums/', label: 'Stadiums', match: ['/stadiums/', '/blog/'] },
   { href: '/finance/', label: 'IPL & finance', match: ['/finance/'] },
   { href: '/railway/', label: 'Railway', match: ['/railway/'] },
@@ -109,6 +110,7 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
         <nav aria-label="Footer" class="md:col-span-6 md:justify-self-end">
           <ul class="flex flex-wrap gap-x-6 gap-y-2 text-sm">
             <li><a class="hover:text-paper hover:underline" href="/about-us/">About</a></li>
+            <li><a class="hover:text-paper hover:underline" href="/how-we-check/">How we check</a></li>
             <li><a class="hover:text-paper hover:underline" href="/contact-us/">Contact</a></li>
             <li><a class="hover:text-paper hover:underline" href="/privacy-policy/">Privacy</a></li>
             <li><a class="hover:text-paper hover:underline" href="/terms-and-conditions/">Terms</a></li>

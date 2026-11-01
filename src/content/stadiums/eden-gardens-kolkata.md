@@ -1,7 +1,8 @@
 ---
 legacySlug: "eden-gardens-kolkata-entry-rules-metro-parking-guide"
-title: "Eden Gardens Rules, Nearest Metro, Parking & Banned Items"
-description: "Eden Gardens, Kolkata: Esplanade metro and Eden Gardens station, roads closed and no-parking zones on match days, KKR tickets and banned items."
+title: "Eden Gardens IPL 2027 Guide: Metro, Parking & Banned Items"
+description: "Eden Gardens IPL 2027 guide: Esplanade metro, Eden Gardens station, no-parking zones on match days, KKR tickets and banned items."
+intro: "Eden Gardens in Kolkata is the home ground of Kolkata Knight Riders and the Cricket Association of Bengal. Kolkata Police restrict roads and parking around the ground on match days, so public transport is the practical choice: Esplanade metro station is about 1 km away, and Eden Gardens station on the Circular Railway is right by the ground. This guide covers road closures from earlier advisories, tickets and banned items, and we update it for IPL 2027."
 name: "Eden Gardens"
 officialName: "Eden Gardens"
 city: "Kolkata"
@@ -9,7 +10,7 @@ state: "West Bengal"
 country: "India"
 homeTeam: "Kolkata Knight Riders"
 published: 2026-04-05
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which metro station is nearest to Eden Gardens?", a: "Esplanade metro station. Eden Gardens railway station on the Circular Railway is even closer." }
   - { q: "Is there parking at Eden Gardens on match days?", a: "No. Kolkata Police bans parking on the surrounding roads and provides no parking near the ground, so use the metro, train or bus." }
@@ -21,7 +22,6 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Commonly banned, with cameras", tone: no }
 ---
-**Eden Gardens** in Kolkata is one of India’s oldest international cricket grounds, the home of **Kolkata Knight Riders** and the Cricket Association of Bengal (CAB). It sits in the BBD Bagh / Maidan area near the Hooghly river. On match days, Kolkata Police closes the roads around the ground and bans parking nearby, so **public transport is the way to go**. This guide covers the nearest metro and train stations, road closures, tickets and banned items.
 
 _Kolkata Police announces restrictions before each match. Check the latest advisory for your date._
 

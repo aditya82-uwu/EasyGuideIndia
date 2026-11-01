@@ -8,7 +8,7 @@ updated: 2026-09-26
 ---
 Welcome to **Easy Guide India** ([Easy Guide India](/)), a premier digital resource dedicated to simplifying the complexities of Indian administrative, digital, and financial services.
 
-**Our Vision** In an era of rapid digital transformation, navigating official portals and service guidelines can often be overwhelming. Our vision is to empower every Indian citizen with clear, concise, and actionable information. We believe that accessing essential services—whether it’s checking a government status or booking a travel ticket—should be a seamless experience for everyone.
+**Our Vision** In an era of rapid digital transformation, navigating official portals and service guidelines can often be overwhelming. Our vision is to empower every Indian citizen with clear, concise, and actionable information. We believe that accessing essential services-whether it’s checking a government status or booking a travel ticket-should be a seamless experience for everyone.
 
 **What We Do** Easy Guide India serves as a bridge between complex official documentation and the end-user. We specialize in:
 

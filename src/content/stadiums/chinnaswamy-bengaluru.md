@@ -1,7 +1,8 @@
 ---
 legacySlug: "m-chinnaswamy-stadium-bengaluru-entry-rules-parking-guide"
-title: "Chinnaswamy Stadium: Nearest Metro, Parking & Banned Items"
-description: "M. Chinnaswamy Stadium, Bengaluru: Cubbon Park and MG Road metro, Freedom Park parking, cab points, no-parking roads and banned items for RCB matches."
+title: "Chinnaswamy Stadium IPL 2027 Guide: Metro, Parking & Rules"
+description: "Chinnaswamy IPL 2027 guide: Cubbon Park and MG Road metro, 2026 parking at UB City and Shivajinagar, digital entry and banned items."
+intro: "M. Chinnaswamy Stadium in central Bengaluru is the home ground of Royal Challengers Bengaluru. The nearest metro stations are Cubbon Park and MG Road on the Purple Line. Police ban parking on most nearby roads on match days, and in IPL 2026 they listed UB City and Shivajinagar Bus Stand for parking. Reports said IPL 2026 entry was fully digital, with spectator numbers capped at about 28,000. This guide covers metro, parking, drop-off points and banned items."
 name: "M. Chinnaswamy Stadium"
 officialName: "M. Chinnaswamy Stadium"
 city: "Bengaluru"
@@ -9,7 +10,7 @@ state: "Karnataka"
 country: "India"
 homeTeam: "Royal Challengers Bengaluru"
 published: 2026-07-29
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which metro station is nearest to Chinnaswamy Stadium?", a: "Cubbon Park and MG Road on the Purple Line are both within walking distance." }
   - { q: "Where can I park for an RCB match?", a: "At designated parking such as Freedom Park or UB City. Most roads around the stadium are no-parking zones on match days." }
@@ -20,7 +21,6 @@ quick:
   - { q: "Entry (IPL 2026)", a: "Fully digital QR tickets, reported", tone: info }
   - { q: "Power bank", a: "Commonly banned, with other electronics", tone: no }
 ---
-**M. Chinnaswamy Stadium** in central Bengaluru is home to **Royal Challengers Bengaluru (RCB)** in the IPL and the Karnataka State Cricket Association (KSCA). It sits between Cubbon Park and MG Road, where roads are busy even on normal days. On match days, Bengaluru Traffic Police bans parking on most nearby roads, so here’s how to get there, where to park and get dropped, and what you can’t carry.
 
 _Bengaluru Traffic Police issues an advisory before each match. Check the latest one for your date._
 

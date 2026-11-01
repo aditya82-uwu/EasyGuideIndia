@@ -1,7 +1,8 @@
 ---
 legacySlug: "ekana-stadium-lucknow-entry-rules-parking-guide"
-title: "Ekana Stadium Lucknow: Parking, Nearest Metro, Gates & Rules"
-description: "Ekana Stadium, Lucknow: how to reach (metro doesn't go there), match-day shuttles, parking, gate opening time and banned items for LSG matches."
+title: "Ekana Stadium IPL 2027 Guide: Lucknow Parking, Metro & Rules"
+description: "Ekana Stadium IPL 2027 guide: no metro at the ground, feeder buses, parking, gate timing and banned items for Lucknow Super Giants matches."
+intro: "BRSABV Ekana Cricket Stadium on Shaheed Path, Lucknow, is the home ground of Lucknow Super Giants. Lucknow Metro does not reach the ground: Indira Nagar is the nearest station, about 4 km away, so plan a cab, an auto or the feeder buses that ran from metro stations on IPL match days. Traffic on Shaheed Path is heavy before and after matches, so allow extra time. This guide covers transport, parking, gate timing and banned items for IPL 2027."
 name: "Ekana Stadium"
 officialName: "BRSABV Ekana Cricket Stadium"
 city: "Lucknow"
@@ -9,7 +10,7 @@ state: "Uttar Pradesh"
 country: "India"
 homeTeam: "Lucknow Super Giants"
 published: 2026-04-01
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which metro station is nearest to Ekana Stadium?", a: "Lucknow Metro doesn’t reach Ekana, and the nearest stations are several kilometres away. Take a cab or auto, or a match-day shuttle if one is announced." }
   - { q: "What time do gates open at Ekana Stadium?", a: "Gates have opened about 3 hours before the start, so around 4:30 PM for a 7:30 PM IPL match. Check your ticket." }
@@ -22,7 +23,6 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Outside food and drink", a: "Commonly banned at IPL venues", tone: no }
 ---
-**BRSABV Ekana Cricket Stadium** (Bharat Ratna Shri Atal Bihari Vajpayee Ekana Stadium) on Shaheed Path, Lucknow, is home to **Lucknow Super Giants** in the IPL. It’s in the Ekana Sports City complex, near Phoenix Palassio mall. The stadium is away from Lucknow’s metro line, so planning your transport and parking is the key to a smooth match day. This guide covers how to get there, parking, entry timings and what you can’t bring.
 
 _Lucknow Traffic Police announces diversions before each big match, and LSG publishes parking maps for the season. Check both for your match._
 

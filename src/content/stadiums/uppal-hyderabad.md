@@ -1,7 +1,8 @@
 ---
 legacySlug: "uppal-stadium-hyderabad-entry-gates-parking-guide-rgis"
-title: "Uppal Stadium Hyderabad: Metro, Parking & Banned Items List"
-description: "Rajiv Gandhi Stadium, Uppal: Stadium metro station, the four police parking grounds, gate timing, digital tickets and the strict banned-items list."
+title: "Uppal Stadium IPL 2027 Guide: Metro, Parking & Banned Items"
+description: "Uppal Stadium IPL 2027 guide: Stadium metro station, the four police parking grounds, gate timing and the banned items police have listed."
+intro: "Rajiv Gandhi International Cricket Stadium in Uppal is the home ground of Sunrisers Hyderabad. Stadium station on the Hyderabad Metro Blue Line is the nearest metro, and police advise the metro and RTC buses on match days. Police designated four public parking areas within about 500 m of the ground: Penguin, TGIALA, DSL and Modern Bakery. This guide covers parking, entry and the items police have banned, including laptops, cameras and electronics."
 name: "Uppal Stadium"
 officialName: "Rajiv Gandhi International Stadium (Uppal)"
 city: "Hyderabad"
@@ -9,7 +10,7 @@ state: "Telangana"
 country: "India"
 homeTeam: "Sunrisers Hyderabad"
 published: 2026-05-17
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Which metro station is nearest to Uppal Stadium?", a: "Stadium station on the Hyderabad Metro Blue Line, right next to the ground." }
   - { q: "Where can I park for an SRH match at Uppal?", a: "At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur)." }
@@ -21,7 +22,6 @@ quick:
   - { q: "Power bank", a: "Electronics are on police lists. Assume banned", tone: no }
   - { q: "Bags", a: "Bags, pens and electronics are on police lists", tone: no }
 ---
-**Rajiv Gandhi International Cricket Stadium** in Uppal, Hyderabad, is home to **Sunrisers Hyderabad** in the IPL and the Hyderabad Cricket Association. It’s right on the Hyderabad Metro, which makes it one of the easier IPL venues to reach. This guide covers the metro, the police-designated public parking, entry rules and the banned-items list (it’s strict, and there’s no cloakroom).
 
 _Malkajgiri / Rachakonda traffic police issue an advisory before each IPL match. Check the latest one for your date._
 

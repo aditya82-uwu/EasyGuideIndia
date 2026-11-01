@@ -1,7 +1,8 @@
 ---
 legacySlug: "sawai-mansingh-stadium-jaipur-entry-rules-parking-guide"
-title: "Sawai Mansingh Stadium Jaipur: Parking, How to Reach & Rules"
-description: "SMS Stadium, Jaipur: nearest bus stops and stations, parking and the no-parking ring on match days, entry gates and items not allowed for RR matches."
+title: "Sawai Mansingh Stadium IPL 2027 Guide: Jaipur Parking & Rules"
+description: "Sawai Mansingh Stadium IPL 2027 guide: how to reach Jaipur’s ground, limited parking, nearest bus stops and stations, gate timing and banned items."
+intro: "Sawai Mansingh Stadium (SMS Stadium) in Jaipur is the home ground of Rajasthan Royals. It is near Rambagh Circle and JLN Marg, and Jaipur Metro does not stop at the ground, so most fans come by bus, cab or auto. Parking is limited and police restrict parking around the stadium on match days. Gates opened about three hours before the start for IPL 2026 matches, for example 4:30 PM for a 7:30 PM game. This guide covers how to reach the ground, parking, entry and banned items."
 name: "Sawai Mansingh Stadium"
 officialName: "Sawai Mansingh Stadium (SMS)"
 city: "Jaipur"
@@ -9,7 +10,7 @@ state: "Rajasthan"
 country: "India"
 homeTeam: "Rajasthan Royals"
 published: 2026-05-01
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Is there parking at Sawai Mansingh Stadium?", a: "Only limited parking. Police set up a no-parking zone around the stadium on match days, so public transport or a cab drop is easier." }
   - { q: "Which bus stop is nearest to SMS Stadium?", a: "Rambagh Circle and Nagar Nigam (Lal Kothi)." }
@@ -21,7 +22,6 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Bags and bottles commonly banned", tone: no }
 ---
-**Sawai Mansingh Stadium** (SMS Stadium) in Jaipur is home to **Rajasthan Royals** in the IPL and the Rajasthan Cricket Association. It’s near Rambagh Circle and JLN Marg in the heart of the city. On match days, Jaipur Traffic Police sets up a no-parking ring around the stadium and diverts traffic, so plan your route and parking ahead. This guide covers how to get there, parking, entry and banned items.
 
 _Jaipur Traffic Police announces diversions before each IPL match. Check the latest advisory and your ticket._
 

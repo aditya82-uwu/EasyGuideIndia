@@ -1,7 +1,8 @@
 ---
 legacySlug: "narendra-modi-stadium-ahmedabad-entry-rules-parking-guide"
-title: "Narendra Modi Stadium Parking, Gates & Entry Rules"
-description: "Narendra Modi Stadium, Ahmedabad: book parking on Show My Parking, Motera Stadium metro, gate opening time, no re-entry and the full banned items list."
+title: "Narendra Modi Stadium IPL 2027 Guide: Parking, Metro & Gates"
+description: "Narendra Modi Stadium IPL 2027 guide: Motera Stadium metro, Show My Parking, gate timing, no re-entry and the banned items list."
+intro: "Narendra Modi Stadium in Motera, Ahmedabad, is the home ground of Gujarat Titans and the world’s largest cricket stadium by capacity. Motera Stadium station on the Red Line metro is the quickest way to arrive and leave. Parking is limited, and pre-booking through Show My Parking was offered for IPL 2026. Gates opened about three hours before the start in IPL 2025, and there is no re-entry once you leave. Below are parking, entry rules and the banned items list."
 name: "Narendra Modi Stadium"
 officialName: "Narendra Modi Stadium (Motera)"
 city: "Ahmedabad"
@@ -9,7 +10,7 @@ state: "Gujarat"
 country: "India"
 homeTeam: "Gujarat Titans"
 published: 2026-04-01
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "How do I book parking at Narendra Modi Stadium?", a: "Through the Show My Parking app, as early as possible. Spaces for big matches sell out." }
   - { q: "Which metro station is nearest to Narendra Modi Stadium?", a: "Motera Stadium station on the Ahmedabad Metro Red Line, right by the stadium." }
@@ -23,7 +24,6 @@ quick:
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Commonly banned at IPL venues (small ladies purses excepted)", tone: no }
 ---
-**Narendra Modi Stadium** in Motera, Ahmedabad, is the **world’s largest cricket stadium**, with room for about 1.3 lakh (130,000) spectators. It’s home to **Gujarat Titans** in the IPL and the Gujarat Cricket Association, and has hosted a Cricket World Cup final and IPL finals. With crowds this big, parking and exit plans matter more here than anywhere else. This guide covers parking booking, the metro, entry timings and prohibited items.
 
 _Parking and traffic arrangements are announced for each big match. Check the latest Ahmedabad Traffic Police / GCA instructions and your ticket._
 

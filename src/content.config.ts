@@ -14,6 +14,8 @@ const stadiums = defineCollection({
     legacySlug: z.string(),
     title: z.string(),
     description: z.string(),
+    // Answer-first opening paragraph shown under the page heading. Plain text, no markdown.
+    intro: z.string().optional(),
     name: z.string(),
     officialName: z.string(),
     city: z.string(),

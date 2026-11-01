@@ -1,10 +1,10 @@
 ---
 legacyPath: "finance/ipl-2026-stadium-entry-rules-mandatory-documents"
-title: "IPL Stadium Entry Rules: ID Proof, Banned Items & Power Banks"
-description: "Going to an IPL match? Ticket and ID rules, the banned items list (power banks, bags, coins, earphones), when to arrive, and guides to every IPL stadium."
+title: "IPL 2027 Stadium Entry Rules: Tickets, ID, Banned Items"
+description: "IPL 2027 entry rules from IPL 2026 notices: digital tickets, ID, banned items such as power banks and bags, gate timings and a guide to every IPL ground."
 section: finance
 published: 2026-03-30
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Are power banks allowed in IPL stadiums?", a: "Usually not. Power banks have been on prohibited lists at Wankhede and Hyderabad and are commonly banned at IPL venues, so charge your phone fully and leave the power bank at home." }
   - { q: "Do I need a physical ticket for an IPL match?", a: "Usually not. Most IPL tickets are digital QR tickets scanned at the gate. Follow the instructions on your ticket, as a few categories or venues may differ." }
@@ -12,7 +12,7 @@ faqs:
   - { q: "Is water available inside the stadium?", a: "You can’t bring your own bottle. Drinking water and other drinks are available to buy inside the stadium." }
   - { q: "What time should I reach for a 7:30 PM IPL match?", a: "Gates opened around 4:30 PM at several venues in IPL 2026, about three hours before a 7:30 PM start. Aim to arrive by about 6:00 PM to clear security comfortably." }
 ---
-Going to an IPL match? Every stadium has its own gates, parking and transport plan, but the **entry rules are broadly the same across venues**: carry a valid ticket on your phone, use the gate printed on it, arrive early, and leave power banks, bags and outside food at home. This guide covers the rules that apply almost everywhere, with links to our detailed guide for each IPL stadium.
+IPL 2027 is reported to start around 10 March 2027, and entry rules for the new season have not been published yet. The rules below come from IPL 2026 notices and are broadly the same across grounds: carry a valid ticket on your phone, use the gate printed on it, arrive early, and leave power banks, bags and outside food at home. We update this page when 2027 notices appear, and link to a guide for each ground.
 
 _Rules are set by each franchise, state association and local police, and can change during the season. Always read the instructions on your ticket._
 

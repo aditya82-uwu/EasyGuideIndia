@@ -1,14 +1,15 @@
 ---
 legacySlug: chepauk-stadium-chennai-entry-rules-parking-guide
-title: "Chepauk Stadium Parking, Nearest Metro & Gates (Chennai)"
-description: "Chepauk (MA Chidambaram Stadium): Government Estate metro and free match-day travel, Marina Beach parking, cab and bus drop points, e-tickets and banned items."
+title: "Chepauk Stadium IPL 2027 Guide: Parking, Metro & Gates"
+description: "Chepauk IPL 2027 guide: Government Estate metro 200 m away, free metro for CSK ticket holders in 2026, Marina Beach parking, gates and banned items."
+intro: "Chepauk Stadium (M. A. Chidambaram Stadium) in Chennai is the home ground of Chennai Super Kings. The nearest metro station is Government Estate, about a 200 m walk, and CSK ticket holders had free metro and MTC bus travel on match days in IPL 2026. Parking near the ground is very limited: without a car pass, fans parked on the Marina Beach service road and walked about 500 m. This guide covers gates, parking, tickets and banned items from earlier IPL seasons, and we update it when IPL 2027 notices appear."
 name: "Chepauk Stadium"
 officialName: "M. A. Chidambaram Stadium"
 city: "Chennai"
 state: "Tamil Nadu"
 homeTeam: "Chennai Super Kings (IPL), Tamil Nadu Cricket Association"
 published: 2026-04-01
-updated: 2026-09-27
+updated: 2026-11-01
 checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Government Estate, about 200 m walk", tone: info }

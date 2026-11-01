@@ -1,16 +1,16 @@
 ---
 legacyPath: "finance/ipl-2026-ticket-gst-refund-rules-explained"
-title: "IPL Tickets: How to Book, 40% GST & Refund Rules"
-description: "Book IPL tickets via the official ticketing partner, see how 40% GST (since 22 Sep 2025) changes the price, and the refunds you get if a match is cancelled."
+title: "IPL 2027 Tickets: How to Book, 40% GST and Refund Rules"
+description: "How to book IPL tickets through the official partner, what 40% GST (since 22 Sep 2025) adds to the price, and refunds if a match is cancelled."
 section: finance
 published: 2026-03-30
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Why is GST on IPL tickets 40% but lower for other matches?", a: "The GST Council placed IPL-type events in the 40% “luxury and sin” slab. Recognised sporting events stay at 18%, with tickets up to ₹500 exempt." }
   - { q: "Can I claim GST input credit on IPL tickets?", a: "Generally no. Entertainment and admission expenses are blocked credits for most businesses under GST law." }
   - { q: "Does the 40% apply to IPL 2027 tickets too?", a: "Yes, unless the GST Council changes the rate. Check the tax shown at checkout. _Sources: [GST Council](https://gstcouncil.gov.in/), [CBIC](https://www.cbic.gov.in/), [IPL official website](https://www.iplt20.com/). General information, not tax advice. Always read the ticket terms on the official ticketing platform._" }
 ---
-**IPL tickets attract 40% GST** since **22 September 2025**, when the GST Council’s rate changes (often called GST 2.0) came into force. Earlier the rate was 28%. So a ticket with a base price of ₹1,000 now costs ₹1,400 before booking fees. This guide explains how the tax is calculated, how it compares with other sports, and what happens to your money if a match is cancelled.
+IPL tickets carry 40% GST, in force since 22 September 2025 when the GST Council’s rate changes (GST 2.0) came in. The earlier rate was 28%. A ticket with a base price of ₹1,000 now costs ₹1,400 before booking fees. This guide explains how the tax is calculated, how it compares with other sports, how booking works and what happens to your money if a match is cancelled.
 
 ## GST rate on IPL tickets
 

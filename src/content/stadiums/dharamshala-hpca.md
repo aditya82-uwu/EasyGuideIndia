@@ -1,7 +1,8 @@
 ---
 legacySlug: "dharamshala-cricket-stadium-entry-gates-parking-guide-hpca"
-title: "HPCA Stadium Dharamshala: Parking, Shuttles & Entry Rules"
-description: "HPCA Stadium, Dharamshala: police parking plan, HRTC shuttles from Dari Ground and Zorawar Stadium, Kangra airport, and what you can carry."
+title: "HPCA Stadium Dharamshala IPL Guide: Parking, Shuttles & Rules"
+description: "HPCA Stadium Dharamshala IPL guide: police parking plan, HRTC shuttles from Dari Ground, Kangra airport and what you can carry."
+intro: "The HPCA Stadium in Dharamshala, Himachal Pradesh, hosts internationals and some Punjab Kings IPL matches, with the Dhauladhar mountains behind the ground. Hill roads are narrow, so police restrict vehicles near the stadium on match days and run a parking and shuttle plan: in earlier plans, HRTC buses carried fans from grounds such as Dari Ground and Zorawar Stadium. This guide covers how to get there, parking, shuttles and what to carry."
 name: "Dharamshala Cricket Stadium"
 officialName: "HPCA Stadium"
 city: "Dharamshala"
@@ -9,7 +10,7 @@ state: "Himachal Pradesh"
 country: "India"
 homeTeam: "Punjab Kings (alternate home venue)"
 published: 2026-05-17
-updated: 2026-09-27
+updated: 2026-11-01
 faqs:
   - { q: "Can I drive to the HPCA Stadium on match day?", a: "Not up to the gate. The area around the stadium is a no-vehicle zone. Park at your assigned ground and take the HRTC shuttle." }
   - { q: "Which airport is nearest to Dharamshala stadium?", a: "Kangra Airport (Gaggal), about 12 km from the stadium." }

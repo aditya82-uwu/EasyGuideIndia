@@ -58,11 +58,12 @@ for (const file of await walk(dist)) {
   for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
     try { JSON.parse(m[1]); } catch { add(page, 'invalid JSON-LD'); }
   }
-  const hasFaqText = /Frequently asked questions/i.test(html);
+  if (/—|&mdash;|&#8212;|&#x2014;|\\u2014/.test(html)) add(page, 'em dash found');
+  const hasFaqText =/Frequently asked questions/i.test(html);
   const hasFaqSchema = /"FAQPage"/.test(html);
   if (hasFaqText && !hasFaqSchema) add(page, 'visible FAQ section but no FAQPage schema');
   if (hasFaqSchema && !hasFaqText) add(page, 'FAQPage schema but no visible FAQ section');
-  if (!/"BreadcrumbList"/.test(html) && page !== '/' && page !== '/search/' && !/privacy|terms|disclaimer|about|contact/.test(page)) add(page, 'no BreadcrumbList schema');
+  if (!/"BreadcrumbList"/.test(html) && page !== '/' && page !== '/search/' && !/privacy|terms|disclaimer|about|contact|how-we-check/.test(page)) add(page, 'no BreadcrumbList schema');
 }
 for (const [t, pages] of titles) if (pages.length > 1) add(pages.join(', '), `duplicate title "${t}"`);
 for (const [d, pages] of descs) if (pages.length > 1) add(pages.join(', '), 'duplicate description');
