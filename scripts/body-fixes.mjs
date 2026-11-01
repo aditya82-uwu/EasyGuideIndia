@@ -74,6 +74,36 @@ for (const [file, list] of Object.entries(patches)) {
   await writeFile(url, text);
 }
 
+// Guides (src/content/guides). Re-run convert-guides.mjs, then this script, then apply-review.mjs.
+const guidePatches = {
+  'finance--ipl-2026-stadium-entry-rules-mandatory-documents': [
+    ['(for example District / Paytm Insider or BookMyShow, depending on the team and season)', '(for IPL 2026, District for Rajasthan Royals and BookMyShow for Mumbai Indians; it differs by team and season)'],
+    ['-   **Most IPL tickets are now digital**, with a QR code in the ticketing app that’s scanned at the gate. At some venues a live QR code in the app is required and screenshots may not scan, so keep your phone charged.',
+     '-   **Most IPL tickets are now digital**, with a QR code in the ticketing app that’s scanned at the gate. Mumbai Indians did not accept screenshots or screen recordings of its M-ticket in 2025, and Rajasthan Royals tickets sit in the District app profile and can’t be downloaded. Some guides say a few venues still ask fans to swap an e-ticket for a physical pass, so read your ticket instructions and keep your phone charged.'],
+    ['-   **Children:** franchises usually require a ticket for children above a set age. The age differs by team, so check the terms on the ticketing page before buying.',
+     '-   **Children:** Rajasthan Royals says a ticket is needed from age two, and anyone under 18 must come with an adult who also has a ticket. Other franchises may differ, so check the terms on the ticketing page before buying.'],
+    ['These items appear on the prohibited lists of most IPL venues (including Chepauk, Uppal, Chinnaswamy, Wankhede and Narendra Modi Stadium):',
+     'These items have appeared on prohibited lists at IPL venues in recent seasons, including Wankhede and Uppal. We found no official IPL 2026 list for most grounds, so use this as a guide and check your ticket:'],
+    ['Most stadiums have **no cloakroom**, so items found at the gate are usually confiscated and not returned.', 'Cloakrooms are rare, so leave banned items at home. Items found at the gate may be confiscated.'],
+    ['Gates usually open **2–3 hours before the first ball**. For a 7:30 PM match, several venues opened gates around 4:30 PM in IPL 2026.',
+     'Gates usually open about **3 hours before the first ball**. In IPL 2026, Jaipur, Mullanpur and Ahmedabad opened gates at 4:30 PM for a 7:30 PM match, and Chinnaswamy was reported to open about four hours before.'],
+    ['"No. Power banks and chargers are banned at almost every IPL venue, so charge your phone fully before you leave."',
+     '"Usually not. Power banks have been on prohibited lists at Wankhede and Hyderabad and are commonly banned at IPL venues, so charge your phone fully and leave the power bank at home."'],
+    ['"Gates usually open 2–3 hours before. Aim to arrive by about 6:00 PM to clear security comfortably."',
+     '"Gates opened around 4:30 PM at several venues in IPL 2026, about three hours before a 7:30 PM start. Aim to arrive by about 6:00 PM to clear security comfortably."'],
+    ['_Compiled from official stadium and police advisories for IPL 2026. Easy Guide India', '_Compiled from news reports of franchise, stadium and police advisories from IPL 2024 to 2026. No single official list covers every ground. Easy Guide India'],
+  ],
+};
+for (const [file, list] of Object.entries(guidePatches)) {
+  const url = new URL(`src/content/guides/${file}.md`, root);
+  let text = await readFile(url, 'utf8');
+  for (const [from, to] of list) {
+    if (text.includes(from)) text = text.replace(from, to);
+    else if (!text.includes(to)) { misses++; console.log(`MISS ${file}: ${from.slice(0, 70)}`); }
+  }
+  await writeFile(url, text);
+}
+
 // Chepauk is hand-built: add a note once.
 const chepauk = new URL('src/content/stadiums/chepauk-chennai.md', root);
 let c = await readFile(chepauk, 'utf8');
