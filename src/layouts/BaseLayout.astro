@@ -6,9 +6,12 @@ interface Props {
   description: string;
   canonical?: string;
   type?: 'website' | 'article';
+  // Path under public/, e.g. "/og/default.png"
+  image?: string;
 }
-const { title, description, canonical, type = 'website' } = Astro.props;
+const { title, description, canonical, type = 'website', image = '/og/default.png' } = Astro.props;
 const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+const imageUrl = new URL(image, Astro.site).href;
 ---
 <!doctype html>
 <html lang="en">
@@ -23,8 +26,15 @@ const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
     <meta property="og:type" content={type} />
     <meta property="og:url" content={url} />
     <meta property="og:site_name" content="Easy Guide India" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={imageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="theme-color" content="#0f172a" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <slot name="head" />
   </head>
@@ -38,6 +48,7 @@ const url = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
           <a href="/railway/" class="hover:text-accent">Railway</a>
           <a href="/banking/" class="hover:text-accent">Banking</a>
           <a href="/documents/" class="hover:text-accent">Documents</a>
+          <a href="/search/" class="hover:text-accent" aria-label="Search">Search</a>
         </nav>
       </div>
     </header>

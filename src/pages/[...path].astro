@@ -28,7 +28,7 @@ const jsonLd = isLegal ? null : {
 ---
 <BaseLayout title={d.title} description={d.description} type={isLegal ? 'website' : 'article'}>
   {jsonLd && <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
-  <article class="mx-auto max-w-3xl px-4 py-8">
+  <article data-pagefind-body={!isLegal ? "" : undefined} class="mx-auto max-w-3xl px-4 py-8">
     {!isLegal && (
       <nav class="text-sm text-muted" aria-label="Breadcrumb">
         <a href="/" class="underline">Home</a> &nbsp;/&nbsp;

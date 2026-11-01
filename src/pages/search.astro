@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search | Easy Guide India" description="Search stadium guides, IPL rules and everyday guides.">
+  <meta slot="head" name="robots" content="noindex" />
+  <link slot="head" href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <div class="mx-auto max-w-3xl px-4 py-10">
+    <h1 class="text-3xl font-extrabold tracking-tight">Search</h1>
+    <p class="mt-2 text-muted">Try a stadium, a gate number or a rule, such as "wankhede gate 4" or "power bank".</p>
+    <div id="search" class="mt-6"></div>
+  </div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      new PagefindUI({ element: '#search', showImages: false, autofocus: true, resetStyles: false });
+    });
+  </script>
+</BaseLayout>

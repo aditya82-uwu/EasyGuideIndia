@@ -8,5 +8,5 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory' },
   vite: { plugins: [tailwindcss()] },
-  integrations: [sitemap()],
+  integrations: [sitemap({ filter: (page) => !page.includes('/search/') })],
 });
