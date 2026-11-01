@@ -32,7 +32,7 @@ Give a missed call from your registered mobile number. The call disconnects and 
 | Yes Bank | 09223920000 |
 | IndusInd Bank | 1800 274 1000 |
 
-Some banks ask you to register for the service first (for example, SBI: SMS **REG <account number>** to 9223488888). Numbers can change, so confirm on your bank’s official website if one doesn’t work.
+Some banks ask you to register for the service first (for example, SBI: SMS **REG <account number>** to 9223488888). We matched the SBI, HDFC and ICICI numbers against several listings. The others come from older lists, and numbers change, so confirm on your bank’s official website if one doesn’t work.
 
 ## Method 2: \*99# USSD (works on any phone, no internet)
 

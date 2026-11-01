@@ -34,6 +34,7 @@ Under **PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)**, eligible farmer families
 -   **OTP eKYC:** on pmkisan.gov.in, under Farmers Corner, choose **eKYC** and verify with your Aadhaar-linked mobile.
 -   **Face authentication:** using the official **PM-KISAN mobile app**.
 -   **Biometric eKYC:** at a Common Service Centre (CSC).
+-   **Farmer ID:** some states now also ask for a Farmer ID from the AgriStack registry, mainly for new registrations. Reports differ on where it is required, so check pmkisan.gov.in or your agriculture office.
 
 ## When is the next PM Kisan instalment?
 

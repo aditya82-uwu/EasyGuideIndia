@@ -76,6 +76,24 @@ for (const [file, list] of Object.entries(patches)) {
 
 // Guides (src/content/guides). Re-run convert-guides.mjs, then this script, then apply-review.mjs.
 const guidePatches = {
+  'banking--check-bank-balance-without-app': [
+    ['Numbers can change, so confirm on your bank’s official website if one doesn’t work.', 'We matched the SBI, HDFC and ICICI numbers against several listings. The others come from older lists, and numbers change, so confirm on your bank’s official website if one doesn’t work.'],
+  ],
+  'documents--pm-kisan-status-check': [
+    ['-   **Biometric eKYC:** at a Common Service Centre (CSC).', '-   **Biometric eKYC:** at a Common Service Centre (CSC).\n-   **Farmer ID:** some states now also ask for a Farmer ID from the AgriStack registry, mainly for new registrations. Reports differ on where it is required, so check pmkisan.gov.in or your agriculture office.'],
+  ],
+  'railway--irctc-refund-rules': [
+    ['These windows apply from the revised rules introduced in April 2026 (the no-refund cut-off moved from 4 hours to 8 hours). IRCTC shows the exact refund amount before you confirm a cancellation.',
+     'These windows follow news reports of the revised rules from April 2026, which moved the no-refund cut-off from 4 hours to 8 hours. We could not match every slab to a Railway Board notice, so rely on the amount IRCTC shows before you confirm a cancellation.'],
+  ],
+  'finance--ipl-2026-stadium-parking-fastag-rules': [
+    ['Freedom Park, UB City and notified spots', 'UB City and Shivajinagar Bus Stand (2026 police list); Freedom Park in past seasons'],
+    ['Metro to Esplanade / Eden Gardens station', 'Metro to Esplanade, or Circular Railway to Eden Gardens station'],
+    ['Champawati Field, Sawkuchi High School Ground', 'Champawati Field and other grounds named by police'],
+    ['Match-day ASTC buses', 'Special buses on some match days'],
+    ['Paid lots P4–P6 (₹200 car / ₹100 bike), Show My Parking', 'Paid lots P4–P6 (₹200 car / ₹100 bike as reported), Show My Parking'],
+    ['Cab or match-day shuttle', 'Cab, or feeder buses from metro stations on some match days'],
+  ],
   'finance--ipl-2026-stadium-entry-rules-mandatory-documents': [
     ['(for example District / Paytm Insider or BookMyShow, depending on the team and season)', '(for IPL 2026, District for Rajasthan Royals and BookMyShow for Mumbai Indians; it differs by team and season)'],
     ['-   **Most IPL tickets are now digital**, with a QR code in the ticketing app that’s scanned at the gate. At some venues a live QR code in the app is required and screenshots may not scan, so keep your phone charged.',

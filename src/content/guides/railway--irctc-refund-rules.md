@@ -20,7 +20,7 @@ How much you get back when you cancel a train ticket depends on **when you cance
 | 24 to 8 hours | 50% of the fare (subject to the flat minimum) |
 | Less than 8 hours | No refund |
 
-These windows apply from the revised rules introduced in April 2026 (the no-refund cut-off moved from 4 hours to 8 hours). IRCTC shows the exact refund amount before you confirm a cancellation.
+These windows follow news reports of the revised rules from April 2026, which moved the no-refund cut-off from 4 hours to 8 hours. We could not match every slab to a Railway Board notice, so rely on the amount IRCTC shows before you confirm a cancellation.
 
 ## RAC and waitlisted tickets
 

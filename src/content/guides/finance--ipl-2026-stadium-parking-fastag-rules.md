@@ -20,14 +20,14 @@ _Parking plans are announced before each match and can change. Check the latest 
 | [Wankhede, Mumbai](/blog/wankhede-stadium-mumbai-entry-rules-parking-guide/) | No public parking at the stadium | Local train to Churchgate / Marine Lines |
 | [Chepauk, Chennai](/blog/chepauk-stadium-chennai-entry-rules-parking-guide/) | Marina Beach service road (car-pass holders: lot on pass) | Metro to Government Estate (free with match ticket in recent seasons) |
 | [Arun Jaitley, Delhi](/blog/arun-jaitley-stadium-delhi-entry-rules-parking-guide/) | Free public parking: Mata Sundari Road, Rajghat Power House Road, Velodrome Road | Metro to Delhi Gate |
-| [Eden Gardens, Kolkata](/blog/eden-gardens-kolkata-entry-rules-metro-parking-guide/) | No spectator parking nearby; wide no-parking zone | Metro to Esplanade / Eden Gardens station |
-| [Chinnaswamy, Bengaluru](/blog/m-chinnaswamy-stadium-bengaluru-entry-rules-parking-guide/) | Freedom Park, UB City and notified spots | Metro to Cubbon Park / MG Road |
+| [Eden Gardens, Kolkata](/blog/eden-gardens-kolkata-entry-rules-metro-parking-guide/) | No spectator parking nearby; wide no-parking zone | Metro to Esplanade, or Circular Railway to Eden Gardens station |
+| [Chinnaswamy, Bengaluru](/blog/m-chinnaswamy-stadium-bengaluru-entry-rules-parking-guide/) | UB City and Shivajinagar Bus Stand (2026 police list); Freedom Park in past seasons | Metro to Cubbon Park / MG Road |
 | [Uppal, Hyderabad](/blog/uppal-stadium-hyderabad-entry-gates-parking-guide-rgis/) | Penguin, TGIALA, DSL (opp. NSL) and Modern Bakery grounds | Metro to Stadium station |
 | [Narendra Modi Stadium, Ahmedabad](/blog/narendra-modi-stadium-ahmedabad-entry-rules-parking-guide/) | Pre-book on the Show My Parking app | Metro to Motera Stadium |
-| [Mullanpur, New Chandigarh](/blog/mullanpur-stadium-chandigarh-entry-rules-parking-guide/) | Paid lots P4–P6 (₹200 car / ₹100 bike), Show My Parking | Leave early; shuttles for some matches |
-| [Barsapara, Guwahati](/blog/barsapara-stadium-guwahati-entry-rules-parking-guide/) | Champawati Field, Sawkuchi High School Ground | Match-day ASTC buses |
+| [Mullanpur, New Chandigarh](/blog/mullanpur-stadium-chandigarh-entry-rules-parking-guide/) | Paid lots P4–P6 (₹200 car / ₹100 bike as reported), Show My Parking | Leave early; shuttles for some matches |
+| [Barsapara, Guwahati](/blog/barsapara-stadium-guwahati-entry-rules-parking-guide/) | Champawati Field and other grounds named by police | Special buses on some match days |
 | [HPCA, Dharamshala](/blog/dharamshala-cricket-stadium-entry-gates-parking-guide-hpca/) | Assigned grounds by direction of travel | HRTC shuttle from the parking grounds |
-| [Ekana, Lucknow](/blog/ekana-stadium-lucknow-entry-rules-parking-guide/) | Designated car and two-wheeler parking | Cab or match-day shuttle |
+| [Ekana, Lucknow](/blog/ekana-stadium-lucknow-entry-rules-parking-guide/) | Designated car and two-wheeler parking | Cab, or feeder buses from metro stations on some match days |
 | [SMS Stadium, Jaipur](/blog/sawai-mansingh-stadium-jaipur-entry-rules-parking-guide/) | Limited; no-parking ring around the stadium | Bus / cab drop |
 
 ## Tips to avoid fines and towing
