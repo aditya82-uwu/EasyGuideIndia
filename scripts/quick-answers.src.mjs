@@ -1,84 +1,92 @@
-// Source for data/quick-answers.json. Every answer is taken from the legacy post text.
+// Source for data/quick-answers.json. Every answer comes from the legacy post text and, for the
+// grounds listed in `checked`, was re-verified against news reports and police notices on that date.
+// Anything we could not confirm is worded as "commonly" or "check your ticket", or left out.
 const Y = 'yes', N = 'no', I = 'info';
-const pb = (a = 'Not allowed') => ({ q: 'Power bank', a, tone: N });
+const COMMON = 'Commonly banned at IPL venues';
+const pb = (a = COMMON) => ({ q: 'Power bank', a, tone: N });
+const bags = (a = COMMON) => ({ q: 'Bags', a, tone: N });
+
+export const checked = {
+  'arun-jaitley-delhi': '2026-11-01',
+  'mullanpur-chandigarh': '2026-11-01',
+  'narendra-modi-ahmedabad': '2026-11-01',
+  'ekana-lucknow': '2026-11-01',
+  'wankhede-mumbai': '2026-11-01',
+  'eden-gardens-kolkata': '2026-11-01',
+  'uppal-hyderabad': '2026-11-01',
+};
+
 export default {
   'arun-jaitley-delhi': [
-    { q: 'Nearest metro', a: 'Delhi Gate (Violet Line)', tone: I },
+    { q: 'Nearest metro', a: 'Delhi Gate (gates 4, 5) or ITO (gates 3, 4, 5), Violet Line', tone: I },
     { q: 'Free parking', a: 'Mata Sundari Rd, Rajghat Power House Rd, Velodrome Rd', tone: I },
-    pb('Commonly banned at IPL venues'),
-    { q: 'Bags', a: 'Commonly banned at IPL venues', tone: N },
+    { q: 'Near the gates', a: 'Only vehicles with an official parking label', tone: N },
+    pb(),
+    bags(),
     { q: 'Ticket type', a: 'E-ticket QR or physical. Follow your ticket', tone: I },
-    { q: 'Capacity', a: 'About 41,000', tone: I },
   ],
   'mullanpur-chandigarh': [
-    { q: 'Public parking', a: 'Paid lots P4, P5, P6. Book on Show My Parking', tone: I },
-    { q: 'Parking fee', a: 'Rs 200 car, Rs 100 two-wheeler (as reported)', tone: I },
-    { q: 'Gates', a: '13 gates. Yours is on the ticket', tone: I },
+    { q: 'Public parking', a: 'Paid lots P4, P5, P6 for general spectators', tone: I },
+    { q: 'Parking fee', a: 'Rs 200 car, Rs 100 two-wheeler, as The Tribune reported. Confirm per match', tone: I },
+    { q: 'Gates', a: '16 gates reported. Use the one on your ticket', tone: I },
     pb(),
-    { q: 'Bags', a: 'Not allowed', tone: N },
-    { q: 'Distance', a: 'About 15 km from central Chandigarh', tone: I },
+    bags(),
+    { q: 'Tickets', a: 'District by Zomato. Pick up at Mohali or Mullanpur', tone: I },
   ],
   'narendra-modi-ahmedabad': [
-    { q: 'Nearest metro', a: 'Motera Stadium station (Red Line)', tone: I },
-    { q: 'Parking', a: 'Pre-book on Show My Parking', tone: I },
-    { q: 'Gates open', a: 'About 3 hours before the start', tone: I },
+    { q: 'Nearest metro', a: 'Motera Stadium station (Red Line)', tone: Y },
+    { q: 'Parking', a: 'Limited and often reserved. Pre-book where the match offers it', tone: I },
+    { q: 'Gates open', a: 'A few hours before the start. Check your ticket', tone: I },
     pb(),
-    { q: 'Bags', a: 'Not allowed (small ladies purses excepted)', tone: N },
-    { q: 'Re-entry', a: 'No re-entry once you leave', tone: N },
+    bags('Commonly banned at IPL venues (small ladies purses excepted)'),
   ],
   'ekana-lucknow': [
-    { q: 'Metro', a: 'No station at the stadium. Nearest are several km away', tone: N },
-    { q: 'Gates open', a: 'About 3 hours before the start (IPL 2026)', tone: I },
-    { q: 'Parking', a: 'Designated car and two-wheeler areas. Fills early', tone: I },
-    { q: 'Shuttles', a: 'Some matches had shuttles from Hazratganj, Charbagh', tone: Y },
+    { q: 'Metro', a: 'No station at the stadium. Indira Nagar is nearest, about 4 km', tone: N },
+    { q: 'Last mile', a: 'Feeder buses from metro stations ran on IPL match days. Else cab or auto', tone: I },
+    { q: 'Metro hours', a: 'Extended to 12:30 AM on IPL match days in a past season', tone: I },
     pb(),
-    { q: 'Outside food and drink', a: 'Not allowed', tone: N },
+    { q: 'Outside food and drink', a: 'Commonly banned at IPL venues', tone: N },
   ],
   'wankhede-mumbai': [
     { q: 'Nearest train', a: 'Churchgate, a few minutes walk', tone: I },
-    { q: 'Metro', a: 'Line 3 (Aqua) serves Churchgate area', tone: I },
-    { q: 'Parking at stadium', a: 'None for the public', tone: N },
-    pb(),
-    { q: 'Bags', a: 'Only small. Larger than A4 not allowed', tone: N },
-    { q: 'Tickets (IPL 2026)', a: 'MI official partner, BookMyShow', tone: I },
+    { q: 'Metro', a: 'Line 3 (Aqua) serves the Churchgate area', tone: I },
+    { q: 'Parking at stadium', a: 'None for the public. Roadside parking restricted on match days', tone: N },
+    pb('Banned at past matches. Assume not allowed'),
+    bags('Large bags banned. Carry phone, wallet, ticket'),
   ],
   'eden-gardens-kolkata': [
-    { q: 'Nearest metro', a: 'Esplanade, walkable', tone: I },
+    { q: 'Nearest metro', a: 'Esplanade, about 1 km walk', tone: I },
     { q: 'Nearest train', a: 'Eden Gardens (Circular Railway)', tone: I },
-    { q: 'Parking', a: 'None near the ground on match days', tone: N },
+    { q: 'Parking', a: 'Very limited. Police restrict nearby roads on match days', tone: N },
     pb(),
-    { q: 'Bags and cameras', a: 'Not allowed', tone: N },
-    { q: 'ID', a: 'Carry a government photo ID', tone: I },
+    bags('Commonly banned, with cameras'),
   ],
   'uppal-hyderabad': [
     { q: 'Nearest metro', a: 'Stadium station (Blue Line). Uppal also close', tone: I },
-    { q: 'Gates open', a: '3 hours before the start (IPL 2026)', tone: I },
-    { q: 'Tickets', a: 'Digital tickets (IPL 2026)', tone: I },
-    pb(),
-    { q: 'Bags and pens', a: 'Not allowed', tone: N },
-    { q: 'Cloakroom', a: 'None. Banned items are confiscated', tone: N },
+    { q: 'Metro', a: 'Police advise metro and RTC buses on match days', tone: Y },
+    pb('Electronics are on police lists. Assume banned'),
+    bags('Bags, pens and electronics are on police lists'),
   ],
   'dharamshala-hpca': [
     { q: 'Near the stadium', a: 'No-vehicle zone on match days', tone: N },
     { q: 'Shuttles', a: 'HRTC buses from designated parking grounds', tone: Y },
     { q: 'Nearest airport', a: 'Kangra (Gaggal), about 12 km', tone: I },
     pb(),
-    { q: 'Backpacks and large bags', a: 'Not allowed', tone: N },
+    bags('Backpacks and large bags commonly banned'),
   ],
   'sms-jaipur': [
     { q: 'Nearest bus stops', a: 'Rambagh Circle, Nagar Nigam (Lal Kothi)', tone: I },
     { q: 'Nearest train', a: 'Gandhinagar Jaipur. Jaipur Junction by cab', tone: I },
     { q: 'Parking', a: 'Limited. No-parking ring around the stadium', tone: N },
     pb(),
-    { q: 'Bags and bottles', a: 'Not allowed', tone: N },
+    bags('Bags and bottles commonly banned'),
   ],
   'barsapara-guwahati': [
     { q: 'Public parking', a: 'Champawati Field, Sawkuchi High School Ground', tone: I },
     { q: 'Drop-off', a: 'Barsapara Tiniali, Dhirenpara Tiniali', tone: I },
     { q: 'Gates open', a: '4:00 PM for a 7:30 PM match', tone: I },
     pb(),
-    { q: 'Large backpacks', a: 'Not allowed', tone: N },
-    { q: 'Capacity', a: 'About 46,000', tone: I },
+    bags('Large backpacks commonly banned'),
   ],
   'kaloor-kochi': [
     { q: 'Nearest metro', a: 'JLN Stadium station (Kochi Metro)', tone: I },
@@ -89,7 +97,7 @@ export default {
     { q: 'Nearest metro', a: 'Cubbon Park and MG Road (Purple Line)', tone: I },
     { q: 'Parking', a: 'Freedom Park, UB City, other designated spots', tone: I },
     { q: 'Cab and auto pick-up', a: 'BRV Ground, Manekshaw Parade Ground', tone: I },
-    pb('Not allowed, with other electronics'),
+    pb('Commonly banned, with other electronics'),
   ],
   'indira-gandhi-guwahati': [
     { q: 'Location', a: 'Sarusajai Sports Complex, beside NH-37', tone: I },

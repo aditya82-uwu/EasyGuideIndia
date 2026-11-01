@@ -17,9 +17,8 @@ quick:
   - { q: "Public parking", a: "Champawati Field, Sawkuchi High School Ground", tone: info }
   - { q: "Drop-off", a: "Barsapara Tiniali, Dhirenpara Tiniali", tone: info }
   - { q: "Gates open", a: "4:00 PM for a 7:30 PM match", tone: info }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Large backpacks", a: "Not allowed", tone: no }
-  - { q: "Capacity", a: "About 46,000", tone: info }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Large backpacks commonly banned", tone: no }
 ---
 **Barsapara Cricket Stadium**, officially the **ACA Stadium** (Dr. Bhupen Hazarika Cricket Stadium), in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. It seats about 46,000 (extendable to about 55,000). On match days, Guwahati traffic police restrict roads around the stadium from the afternoon, so here’s how to get there, where to park, gate timings and what you can’t bring.
 

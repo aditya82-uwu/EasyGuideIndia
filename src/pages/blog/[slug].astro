@@ -62,7 +62,7 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
 
       <aside class="order-1 lg:order-2" aria-label="Summary">
         <div class="space-y-9 lg:sticky lg:top-8">
-          {d.quick.length > 0 && <QuickAnswers items={d.quick} />}
+          {d.quick.length > 0 && <QuickAnswers items={d.quick} checked={d.checked} />}
           <div class="hidden lg:block"><Toc headings={hasStructured ? [{ depth: 2, slug: 'getting-there', text: 'Getting there' }, { depth: 2, slug: 'parking', text: 'Parking' }, { depth: 2, slug: 'tickets-and-gates', text: 'Tickets and gates' }, { depth: 2, slug: 'not-allowed-inside', text: 'Not allowed inside' }] : headings} hasFaq={d.faqs.length > 0} /></div>
         </div>
       </aside>

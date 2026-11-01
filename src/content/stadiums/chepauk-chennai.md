@@ -9,11 +9,12 @@ state: "Tamil Nadu"
 homeTeam: "Chennai Super Kings (IPL), Tamil Nadu Cricket Association"
 published: 2026-04-01
 updated: 2026-09-27
+checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Government Estate, about 200 m walk", tone: info }
-  - { q: "Free metro with ticket", a: "Yes for recent CSK home matches. Confirm per match", tone: yes }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags", a: "Not allowed, including laptop bags", tone: no }
+  - { q: "Free metro with ticket", a: "Yes in IPL 2026 (April and May reports). Confirm per match", tone: yes }
+  - { q: "Power bank", a: "On the prohibited list for CSK matches", tone: no }
+  - { q: "Bags", a: "On the prohibited list, including laptop bags", tone: no }
   - { q: "Ticket type", a: "E-ticket with QR code (IPL 2026)", tone: info }
   - { q: "Car parking", a: "Marina Beach service road, then 500 m walk", tone: info }
 transport:

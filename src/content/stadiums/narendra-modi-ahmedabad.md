@@ -15,13 +15,13 @@ faqs:
   - { q: "Which metro station is nearest to Narendra Modi Stadium?", a: "Motera Stadium station on the Ahmedabad Metro Red Line, right by the stadium." }
   - { q: "What time do gates open at Narendra Modi Stadium?", a: "About 3 hours before the start of play." }
   - { q: "Can I take a bag into Narendra Modi Stadium?", a: "No, except a small ladies’ purse. Bags, briefcases and helmets aren’t allowed." }
+checked: 2026-11-01
 quick:
-  - { q: "Nearest metro", a: "Motera Stadium station (Red Line)", tone: info }
-  - { q: "Parking", a: "Pre-book on Show My Parking", tone: info }
-  - { q: "Gates open", a: "About 3 hours before the start", tone: info }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags", a: "Not allowed (small ladies purses excepted)", tone: no }
-  - { q: "Re-entry", a: "No re-entry once you leave", tone: no }
+  - { q: "Nearest metro", a: "Motera Stadium station (Red Line)", tone: yes }
+  - { q: "Parking", a: "Limited and often reserved. Pre-book where the match offers it", tone: info }
+  - { q: "Gates open", a: "A few hours before the start. Check your ticket", tone: info }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Commonly banned at IPL venues (small ladies purses excepted)", tone: no }
 ---
 **Narendra Modi Stadium** in Motera, Ahmedabad, is the **world’s largest cricket stadium**, with room for about 1.3 lakh (130,000) spectators. It’s home to **Gujarat Titans** in the IPL and the Gujarat Cricket Association, and has hosted a Cricket World Cup final and IPL finals. With crowds this big, parking and exit plans matter more here than anywhere else. This guide covers parking booking, the metro, entry timings and prohibited items.
 

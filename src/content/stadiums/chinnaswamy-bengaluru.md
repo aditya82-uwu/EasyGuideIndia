@@ -17,7 +17,7 @@ quick:
   - { q: "Nearest metro", a: "Cubbon Park and MG Road (Purple Line)", tone: info }
   - { q: "Parking", a: "Freedom Park, UB City, other designated spots", tone: info }
   - { q: "Cab and auto pick-up", a: "BRV Ground, Manekshaw Parade Ground", tone: info }
-  - { q: "Power bank", a: "Not allowed, with other electronics", tone: no }
+  - { q: "Power bank", a: "Commonly banned, with other electronics", tone: no }
 ---
 **M. Chinnaswamy Stadium** in central Bengaluru is home to **Royal Challengers Bengaluru (RCB)** in the IPL and the Karnataka State Cricket Association (KSCA). It sits between Cubbon Park and MG Road, where roads are busy even on normal days. On match days, Bengaluru Traffic Police bans parking on most nearby roads, so here’s how to get there, where to park and get dropped, and what you can’t carry.
 

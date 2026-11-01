@@ -14,13 +14,12 @@ faqs:
   - { q: "Which metro station is nearest to Uppal Stadium?", a: "Stadium station on the Hyderabad Metro Blue Line, right next to the ground." }
   - { q: "Where can I park for an SRH match at Uppal?", a: "At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur)." }
   - { q: "Can I carry a bag or pen into Uppal Stadium?", a: "No. Bags, pens, key chains and electronics are banned, and there’s no cloakroom." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Stadium station (Blue Line). Uppal also close", tone: info }
-  - { q: "Gates open", a: "3 hours before the start (IPL 2026)", tone: info }
-  - { q: "Tickets", a: "Digital tickets (IPL 2026)", tone: info }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags and pens", a: "Not allowed", tone: no }
-  - { q: "Cloakroom", a: "None. Banned items are confiscated", tone: no }
+  - { q: "Metro", a: "Police advise metro and RTC buses on match days", tone: yes }
+  - { q: "Power bank", a: "Electronics are on police lists. Assume banned", tone: no }
+  - { q: "Bags", a: "Bags, pens and electronics are on police lists", tone: no }
 ---
 **Rajiv Gandhi International Cricket Stadium** in Uppal, Hyderabad, is home to **Sunrisers Hyderabad** in the IPL and the Hyderabad Cricket Association. It’s right on the Hyderabad Metro, which makes it one of the easier IPL venues to reach. This guide covers the metro, the police-designated public parking, entry rules and the banned-items list (it’s strict, and there’s no cloakroom).
 

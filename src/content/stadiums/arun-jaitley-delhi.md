@@ -15,13 +15,14 @@ faqs:
   - { q: "Where can I park for a match at Arun Jaitley Stadium?", a: "Free public parking has been provided on Mata Sundari Road, Rajghat Power House Road and Velodrome Road. Parking near the gates is only for vehicles with official labels." }
   - { q: "How do I reach Gates 16, 17 and 18?", a: "Gates 16–18 are approached from Bahadur Shah Zafar Marg on the west side, near the petrol pump. Gates 10–15 are on the Jawaharlal Nehru Marg side, and Gates 1–8 are on BSZ Marg’s south side." }
   - { q: "Where do Uber and Ola drop off near Arun Jaitley Stadium?", a: "Near Gate 2 by Maulana Azad Medical College, at Rajghat Chowk, or on the Ring Road service lane between the IP Flyover and Rajghat." }
+checked: 2026-11-01
 quick:
-  - { q: "Nearest metro", a: "Delhi Gate (Violet Line)", tone: info }
+  - { q: "Nearest metro", a: "Delhi Gate (gates 4, 5) or ITO (gates 3, 4, 5), Violet Line", tone: info }
   - { q: "Free parking", a: "Mata Sundari Rd, Rajghat Power House Rd, Velodrome Rd", tone: info }
+  - { q: "Near the gates", a: "Only vehicles with an official parking label", tone: no }
   - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Bags", a: "Commonly banned at IPL venues", tone: no }
   - { q: "Ticket type", a: "E-ticket QR or physical. Follow your ticket", tone: info }
-  - { q: "Capacity", a: "About 41,000", tone: info }
 ---
 **Arun Jaitley Stadium** (formerly **Feroz Shah Kotla**) on Bahadur Shah Zafar Marg in central Delhi is the home of Delhi Capitals in the IPL and WPL, and one of India’s oldest Test grounds. It’s run by the Delhi & District Cricket Association (DDCA) and holds about 41,000 spectators. The roads around it (BSZ Marg, JLN Marg and Asaf Ali Road) are among Delhi’s busiest, so on match days you need to know which road leads to your gate, where to park, and which metro station to use.
 

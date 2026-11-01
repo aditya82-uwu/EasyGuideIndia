@@ -13,13 +13,14 @@ updated: 2026-09-27
 faqs:
   - { q: "Where can I park for a match at Mullanpur stadium?", a: "In the public lots P4, P5 and P6 (₹200 for cars, ₹100 for two-wheelers), bookable on the Show My Parking app." }
   - { q: "How far is Mullanpur stadium from Chandigarh?", a: "About 15 km from central Chandigarh, in New Chandigarh. Allow extra time on match days." }
+checked: 2026-11-01
 quick:
-  - { q: "Public parking", a: "Paid lots P4, P5, P6. Book on Show My Parking", tone: info }
-  - { q: "Parking fee", a: "Rs 200 car, Rs 100 two-wheeler (as reported)", tone: info }
-  - { q: "Gates", a: "13 gates. Yours is on the ticket", tone: info }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags", a: "Not allowed", tone: no }
-  - { q: "Distance", a: "About 15 km from central Chandigarh", tone: info }
+  - { q: "Public parking", a: "Paid lots P4, P5, P6 for general spectators", tone: info }
+  - { q: "Parking fee", a: "Rs 200 car, Rs 100 two-wheeler, as The Tribune reported. Confirm per match", tone: info }
+  - { q: "Gates", a: "16 gates reported. Use the one on your ticket", tone: info }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Tickets", a: "District by Zomato. Pick up at Mohali or Mullanpur", tone: info }
 ---
 **Maharaja Yadavindra Singh International Cricket Stadium** in Mullanpur, New Chandigarh, is Punjab Kings’ home ground in the IPL and one of India’s newest international venues. It’s outside Chandigarh city (about 15 km from the centre), so traffic and parking are the main things to plan. This guide covers how to get there, paid parking and booking, entry gates and what you can’t carry.
 

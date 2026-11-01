@@ -1,7 +1,8 @@
 ---
 // "At a glance" list. tone: yes (check), no (cross), info (dot). Colour is never the only signal.
-interface Props { items: { q: string; a: string; tone: 'yes' | 'no' | 'info' }[]; heading?: string }
-const { items, heading = 'Quick answers' } = Astro.props;
+interface Props { items: { q: string; a: string; tone: 'yes' | 'no' | 'info' }[]; heading?: string; checked?: Date }
+const { items, heading = 'Quick answers', checked } = Astro.props;
+const checkedLabel = checked?.toLocaleDateString('en-IN', { month: 'long', year: 'numeric' });
 ---
 <section aria-labelledby="glance-h" class="overflow-hidden rounded-lg border border-rule bg-surface">
   <h2 id="glance-h" class="label border-b border-rule px-4 py-3 lg:px-5">{heading}</h2>
@@ -22,4 +23,7 @@ const { items, heading = 'Quick answers' } = Astro.props;
       </div>
     ))}
   </dl>
+  <p class="border-t border-rule bg-surface px-4 py-2.5 font-mono text-[0.72rem] leading-snug text-ink-3 lg:px-5">
+    {checkedLabel ? `Checked ${checkedLabel} against news reports and notices.` : 'Taken from match-day notices.'} Rules change by match: confirm on your ticket.
+  </p>
 </section>

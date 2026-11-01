@@ -17,8 +17,8 @@ quick:
   - { q: "Near the stadium", a: "No-vehicle zone on match days", tone: no }
   - { q: "Shuttles", a: "HRTC buses from designated parking grounds", tone: yes }
   - { q: "Nearest airport", a: "Kangra (Gaggal), about 12 km", tone: info }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Backpacks and large bags", a: "Not allowed", tone: no }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Backpacks and large bags commonly banned", tone: no }
 ---
 The **HPCA Stadium** in Dharamshala, Himachal Pradesh, is one of the most scenic cricket grounds in the world, with the Dhauladhar mountains behind it. It hosts internationals and some Punjab Kings IPL matches. Hill roads are narrow, so on match days the area around the stadium is a **no-vehicle zone** and Kangra Police runs a parking-and-shuttle plan. This guide covers how to get there, parking, shuttles and what to carry.
 

@@ -14,13 +14,13 @@ faqs:
   - { q: "Which metro station is nearest to Ekana Stadium?", a: "Lucknow Metro doesn’t reach Ekana, and the nearest stations are several kilometres away. Take a cab or auto, or a match-day shuttle if one is announced." }
   - { q: "What time do gates open at Ekana Stadium?", a: "About 3 hours before the start: 4:30 PM for a 7:30 PM IPL match." }
   - { q: "Can I carry a power bank into Ekana Stadium?", a: "No. Power banks are banned at IPL venues, so charge your phone before you go." }
+checked: 2026-11-01
 quick:
-  - { q: "Metro", a: "No station at the stadium. Nearest are several km away", tone: no }
-  - { q: "Gates open", a: "About 3 hours before the start (IPL 2026)", tone: info }
-  - { q: "Parking", a: "Designated car and two-wheeler areas. Fills early", tone: info }
-  - { q: "Shuttles", a: "Some matches had shuttles from Hazratganj, Charbagh", tone: yes }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Outside food and drink", a: "Not allowed", tone: no }
+  - { q: "Metro", a: "No station at the stadium. Indira Nagar is nearest, about 4 km", tone: no }
+  - { q: "Last mile", a: "Feeder buses from metro stations ran on IPL match days. Else cab or auto", tone: info }
+  - { q: "Metro hours", a: "Extended to 12:30 AM on IPL match days in a past season", tone: info }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Outside food and drink", a: "Commonly banned at IPL venues", tone: no }
 ---
 **BRSABV Ekana Cricket Stadium** (Bharat Ratna Shri Atal Bihari Vajpayee Ekana Stadium) on Shaheed Path, Lucknow, is home to **Lucknow Super Giants** in the IPL. It’s in the Ekana Sports City complex, near Phoenix Palassio mall. The stadium is away from Lucknow’s metro line, so planning your transport and parking is the key to a smooth match day. This guide covers how to get there, parking, entry timings and what you can’t bring.
 

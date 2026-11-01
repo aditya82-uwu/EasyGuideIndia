@@ -2,13 +2,18 @@
  "arun-jaitley-delhi": [
   {
    "q": "Nearest metro",
-   "a": "Delhi Gate (Violet Line)",
+   "a": "Delhi Gate (gates 4, 5) or ITO (gates 3, 4, 5), Violet Line",
    "tone": "info"
   },
   {
    "q": "Free parking",
    "a": "Mata Sundari Rd, Rajghat Power House Rd, Velodrome Rd",
    "tone": "info"
+  },
+  {
+   "q": "Near the gates",
+   "a": "Only vehicles with an official parking label",
+   "tone": "no"
   },
   {
    "q": "Power bank",
@@ -24,42 +29,37 @@
    "q": "Ticket type",
    "a": "E-ticket QR or physical. Follow your ticket",
    "tone": "info"
-  },
-  {
-   "q": "Capacity",
-   "a": "About 41,000",
-   "tone": "info"
   }
  ],
  "mullanpur-chandigarh": [
   {
    "q": "Public parking",
-   "a": "Paid lots P4, P5, P6. Book on Show My Parking",
+   "a": "Paid lots P4, P5, P6 for general spectators",
    "tone": "info"
   },
   {
    "q": "Parking fee",
-   "a": "Rs 200 car, Rs 100 two-wheeler (as reported)",
+   "a": "Rs 200 car, Rs 100 two-wheeler, as The Tribune reported. Confirm per match",
    "tone": "info"
   },
   {
    "q": "Gates",
-   "a": "13 gates. Yours is on the ticket",
+   "a": "16 gates reported. Use the one on your ticket",
    "tone": "info"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
    "q": "Bags",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
-   "q": "Distance",
-   "a": "About 15 km from central Chandigarh",
+   "q": "Tickets",
+   "a": "District by Zomato. Pick up at Mohali or Mullanpur",
    "tone": "info"
   }
  ],
@@ -67,63 +67,53 @@
   {
    "q": "Nearest metro",
    "a": "Motera Stadium station (Red Line)",
-   "tone": "info"
+   "tone": "yes"
   },
   {
    "q": "Parking",
-   "a": "Pre-book on Show My Parking",
+   "a": "Limited and often reserved. Pre-book where the match offers it",
    "tone": "info"
   },
   {
    "q": "Gates open",
-   "a": "About 3 hours before the start",
+   "a": "A few hours before the start. Check your ticket",
    "tone": "info"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
    "q": "Bags",
-   "a": "Not allowed (small ladies purses excepted)",
-   "tone": "no"
-  },
-  {
-   "q": "Re-entry",
-   "a": "No re-entry once you leave",
+   "a": "Commonly banned at IPL venues (small ladies purses excepted)",
    "tone": "no"
   }
  ],
  "ekana-lucknow": [
   {
    "q": "Metro",
-   "a": "No station at the stadium. Nearest are several km away",
+   "a": "No station at the stadium. Indira Nagar is nearest, about 4 km",
    "tone": "no"
   },
   {
-   "q": "Gates open",
-   "a": "About 3 hours before the start (IPL 2026)",
+   "q": "Last mile",
+   "a": "Feeder buses from metro stations ran on IPL match days. Else cab or auto",
    "tone": "info"
   },
   {
-   "q": "Parking",
-   "a": "Designated car and two-wheeler areas. Fills early",
+   "q": "Metro hours",
+   "a": "Extended to 12:30 AM on IPL match days in a past season",
    "tone": "info"
-  },
-  {
-   "q": "Shuttles",
-   "a": "Some matches had shuttles from Hazratganj, Charbagh",
-   "tone": "yes"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
    "q": "Outside food and drink",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   }
  ],
@@ -135,34 +125,29 @@
   },
   {
    "q": "Metro",
-   "a": "Line 3 (Aqua) serves Churchgate area",
+   "a": "Line 3 (Aqua) serves the Churchgate area",
    "tone": "info"
   },
   {
    "q": "Parking at stadium",
-   "a": "None for the public",
+   "a": "None for the public. Roadside parking restricted on match days",
    "tone": "no"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Banned at past matches. Assume not allowed",
    "tone": "no"
   },
   {
    "q": "Bags",
-   "a": "Only small. Larger than A4 not allowed",
+   "a": "Large bags banned. Carry phone, wallet, ticket",
    "tone": "no"
-  },
-  {
-   "q": "Tickets (IPL 2026)",
-   "a": "MI official partner, BookMyShow",
-   "tone": "info"
   }
  ],
  "eden-gardens-kolkata": [
   {
    "q": "Nearest metro",
-   "a": "Esplanade, walkable",
+   "a": "Esplanade, about 1 km walk",
    "tone": "info"
   },
   {
@@ -172,23 +157,18 @@
   },
   {
    "q": "Parking",
-   "a": "None near the ground on match days",
+   "a": "Very limited. Police restrict nearby roads on match days",
    "tone": "no"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
-   "q": "Bags and cameras",
-   "a": "Not allowed",
+   "q": "Bags",
+   "a": "Commonly banned, with cameras",
    "tone": "no"
-  },
-  {
-   "q": "ID",
-   "a": "Carry a government photo ID",
-   "tone": "info"
   }
  ],
  "uppal-hyderabad": [
@@ -198,28 +178,18 @@
    "tone": "info"
   },
   {
-   "q": "Gates open",
-   "a": "3 hours before the start (IPL 2026)",
-   "tone": "info"
-  },
-  {
-   "q": "Tickets",
-   "a": "Digital tickets (IPL 2026)",
-   "tone": "info"
+   "q": "Metro",
+   "a": "Police advise metro and RTC buses on match days",
+   "tone": "yes"
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Electronics are on police lists. Assume banned",
    "tone": "no"
   },
   {
-   "q": "Bags and pens",
-   "a": "Not allowed",
-   "tone": "no"
-  },
-  {
-   "q": "Cloakroom",
-   "a": "None. Banned items are confiscated",
+   "q": "Bags",
+   "a": "Bags, pens and electronics are on police lists",
    "tone": "no"
   }
  ],
@@ -241,12 +211,12 @@
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
-   "q": "Backpacks and large bags",
-   "a": "Not allowed",
+   "q": "Bags",
+   "a": "Backpacks and large bags commonly banned",
    "tone": "no"
   }
  ],
@@ -268,12 +238,12 @@
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
-   "q": "Bags and bottles",
-   "a": "Not allowed",
+   "q": "Bags",
+   "a": "Bags and bottles commonly banned",
    "tone": "no"
   }
  ],
@@ -295,18 +265,13 @@
   },
   {
    "q": "Power bank",
-   "a": "Not allowed",
+   "a": "Commonly banned at IPL venues",
    "tone": "no"
   },
   {
-   "q": "Large backpacks",
-   "a": "Not allowed",
+   "q": "Bags",
+   "a": "Large backpacks commonly banned",
    "tone": "no"
-  },
-  {
-   "q": "Capacity",
-   "a": "About 46,000",
-   "tone": "info"
   }
  ],
  "kaloor-kochi": [
@@ -344,7 +309,7 @@
   },
   {
    "q": "Power bank",
-   "a": "Not allowed, with other electronics",
+   "a": "Commonly banned, with other electronics",
    "tone": "no"
   }
  ],

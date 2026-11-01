@@ -15,13 +15,13 @@ faqs:
   - { q: "Is there parking at Wankhede Stadium?", a: "Not for the public. Use a local train, or park elsewhere in South Mumbai and take a cab." }
   - { q: "Are power banks allowed in Wankhede Stadium?", a: "No. Power banks are on the prohibited list, so charge your phone fully before you go." }
   - { q: "Can I carry a bag into Wankhede?", a: "Only a small bag. Bags larger than A4 size aren’t allowed." }
+checked: 2026-11-01
 quick:
   - { q: "Nearest train", a: "Churchgate, a few minutes walk", tone: info }
-  - { q: "Metro", a: "Line 3 (Aqua) serves Churchgate area", tone: info }
-  - { q: "Parking at stadium", a: "None for the public", tone: no }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags", a: "Only small. Larger than A4 not allowed", tone: no }
-  - { q: "Tickets (IPL 2026)", a: "MI official partner, BookMyShow", tone: info }
+  - { q: "Metro", a: "Line 3 (Aqua) serves the Churchgate area", tone: info }
+  - { q: "Parking at stadium", a: "None for the public. Roadside parking restricted on match days", tone: no }
+  - { q: "Power bank", a: "Banned at past matches. Assume not allowed", tone: no }
+  - { q: "Bags", a: "Large bags banned. Carry phone, wallet, ticket", tone: no }
 ---
 **Wankhede Stadium** in Churchgate, South Mumbai, is home to Mumbai Indians (IPL) and the Mumbai Cricket Association. It hosted the 2011 World Cup final. It sits between Marine Drive and Churchgate station, and there’s **no public parking at the stadium**, so how you travel is the most important decision on match day. This guide covers the nearest stations, entry gates, tickets, parking and what you can’t carry.
 

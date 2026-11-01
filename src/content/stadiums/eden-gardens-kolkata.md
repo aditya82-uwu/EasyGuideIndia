@@ -13,13 +13,13 @@ updated: 2026-09-27
 faqs:
   - { q: "Which metro station is nearest to Eden Gardens?", a: "Esplanade metro station. Eden Gardens railway station on the Circular Railway is even closer." }
   - { q: "Is there parking at Eden Gardens on match days?", a: "No. Kolkata Police bans parking on the surrounding roads and provides no parking near the ground, so use the metro, train or bus." }
+checked: 2026-11-01
 quick:
-  - { q: "Nearest metro", a: "Esplanade, walkable", tone: info }
+  - { q: "Nearest metro", a: "Esplanade, about 1 km walk", tone: info }
   - { q: "Nearest train", a: "Eden Gardens (Circular Railway)", tone: info }
-  - { q: "Parking", a: "None near the ground on match days", tone: no }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags and cameras", a: "Not allowed", tone: no }
-  - { q: "ID", a: "Carry a government photo ID", tone: info }
+  - { q: "Parking", a: "Very limited. Police restrict nearby roads on match days", tone: no }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Commonly banned, with cameras", tone: no }
 ---
 **Eden Gardens** in Kolkata is India’s oldest international cricket ground, the home of **Kolkata Knight Riders** and the Cricket Association of Bengal (CAB). It sits in the BBD Bagh / Maidan area near the Hooghly river. On match days, Kolkata Police closes the roads around the ground and bans parking nearby, so **public transport is the way to go**. This guide covers the nearest metro and train stations, road closures, tickets and banned items.
 

@@ -17,8 +17,8 @@ quick:
   - { q: "Nearest bus stops", a: "Rambagh Circle, Nagar Nigam (Lal Kothi)", tone: info }
   - { q: "Nearest train", a: "Gandhinagar Jaipur. Jaipur Junction by cab", tone: info }
   - { q: "Parking", a: "Limited. No-parking ring around the stadium", tone: no }
-  - { q: "Power bank", a: "Not allowed", tone: no }
-  - { q: "Bags and bottles", a: "Not allowed", tone: no }
+  - { q: "Power bank", a: "Commonly banned at IPL venues", tone: no }
+  - { q: "Bags", a: "Bags and bottles commonly banned", tone: no }
 ---
 **Sawai Mansingh Stadium** (SMS Stadium) in Jaipur is home to **Rajasthan Royals** in the IPL and the Rajasthan Cricket Association. It’s near Rambagh Circle and JLN Marg in the heart of the city. On match days, Jaipur Traffic Police sets up a no-parking ring around the stadium and diverts traffic, so plan your route and parking ahead. This guide covers how to get there, parking, entry and banned items.
 

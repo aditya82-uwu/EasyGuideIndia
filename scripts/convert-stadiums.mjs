@@ -9,6 +9,8 @@ const root = new URL('../', import.meta.url);
 const posts = JSON.parse(await readFile(new URL('export/posts.json', root), 'utf8'));
 let quick = {};
 try { quick = JSON.parse(await readFile(new URL('data/quick-answers.json', root), 'utf8')); } catch {}
+let checked = {};
+try { checked = JSON.parse(await readFile(new URL('data/quick-answers-checked.json', root), 'utf8')); } catch {}
 
 // file key -> [legacy slug, name, official name, city, state, country, home team]
 const META = {
@@ -75,6 +77,7 @@ for (const [file, [slug, name, official, city, state, country, team]] of Object.
     `published: ${p.date.slice(0, 10)}`,
     `updated: ${p.modified.slice(0, 10)}`,
     ...faqYaml(faqs.faqs),
+    ...(checked[file] ? [`checked: ${checked[file]}`] : []),
     'quick:',
     ...(quick[file] ?? []).map((x) => `  - { q: ${q(x.q)}, a: ${q(x.a)}, tone: ${x.tone} }`),
     ...(quick[file] ? [] : ['  []']),
