@@ -51,13 +51,49 @@ const redirects = [...map].map(([source, d]) => ({ source, destination: resolve(
 await writeFile(new URL('vercel.json', root), JSON.stringify({ trailingSlash: true, redirects }, null, 2));
 console.log('redirects:', redirects.length);
 
+// Titles of migrated pages, keyed by URL path, plus labels for the section hubs
+const HUB_LABEL = {
+  '/finance/': 'IPL and finance guides',
+  '/documents/': 'Documents and online services',
+  '/railway/': 'Railway and IRCTC guides',
+  '/banking/': 'Banking and payments guides',
+  '/stadiums/': 'All stadium guides',
+};
+const titles = new Map();
+for (const dir of ['guides', 'stadiums']) {
+  for (const f of await readdir(new URL(`src/content/${dir}/`, root))) {
+    const t = await readFile(new URL(`src/content/${dir}/${f}`, root), 'utf8');
+    const title = t.match(/^title: "(.+)"/m)?.[1];
+    const key = t.match(/^legacyPath: "(.+)"/m)?.[1] ?? ('blog/' + t.match(/^legacySlug: "?([^"\n]+)"?/m)?.[1]);
+    if (title && key) titles.set(`/${key}/`, title.replace(/\\"/g, '"'));
+  }
+}
+
 // Rewrite links in migrated markdown
 let rewritten = 0;
 for (const dir of ['guides', 'stadiums']) {
   for (const f of await readdir(new URL(`src/content/${dir}/`, root))) {
     const url = new URL(`src/content/${dir}/${f}`, root);
     const before = await readFile(url, 'utf8');
-    const after = before.replace(/\]\((\/[^)#\s]*\/)\)/g, (m, href) => (map.has(href) ? `](${resolve(href)})` : m));
+    // A redirected link must not keep the old page title. Bullets relabel to the target's title (or a hub
+    // label), duplicate bullets collapse, and inline links to a hub become plain text.
+    const seenBullets = new Set();
+    const lines = before.split('\n').flatMap((line) => {
+      const bullet = line.match(/^(-\s+)\[([^\]]+)\]\((\/[^)#\s]*\/)\)\s*$/);
+      if (bullet && map.has(bullet[3])) {
+        const final = resolve(bullet[3]);
+        const label = titles.get(final) ?? HUB_LABEL[final] ?? bullet[2];
+        if (seenBullets.has(final)) return [];
+        seenBullets.add(final);
+        return [`${bullet[1]}[${label}](${final})`];
+      }
+      return [line.replace(/\[([^\]]+)\]\((\/[^)#\s]*\/)\)/g, (m, text, href) => {
+        if (!map.has(href)) return m;
+        const final = resolve(href);
+        return HUB_LABEL[final] ? text : `[${text}](${final})`;
+      })];
+    });
+    const after = lines.join('\n');
     if (after !== before) { await writeFile(url, after); rewritten++; }
   }
 }

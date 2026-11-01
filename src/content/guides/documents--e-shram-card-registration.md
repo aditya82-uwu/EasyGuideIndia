@@ -36,7 +36,7 @@ If your mobile isn’t linked to Aadhaar, register at a **Common Service Centre 
 
 ## Related guides
 
--   [Ayushman Card: Check Eligibility and Download Online](/documents/)
--   [PF Balance Check by Missed Call and SMS](/finance/)
+-   [Documents and online services](/documents/)
+-   [IPL and finance guides](/finance/)
 
 _Official link: [e-Shram portal](https://eshram.gov.in/) · helpline 14434. Easy Guide India is not affiliated with the Ministry of Labour and Employment._

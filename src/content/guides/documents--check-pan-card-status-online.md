@@ -42,7 +42,7 @@ Applied for a new PAN or a correction and want to know where it is? You can trac
 
 ## Related guides
 
--   [How to Apply for PAN Card Online: Free e-PAN or NSDL/UTI](/documents/pan-card-reprint-online/)
+-   [PAN Card Reprint Online: Lost or Damaged PAN Card](/documents/pan-card-reprint-online/)
 -   [How to Download PAN Card PDF (e-PAN) Online](/documents/download-pan-card-pdf/)
 -   [PAN Card Reprint Online: How to Get a Lost or Damaged PAN Card](/documents/pan-card-reprint-online/)
 

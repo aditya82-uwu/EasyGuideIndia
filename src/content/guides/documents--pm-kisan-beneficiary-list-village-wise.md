@@ -32,6 +32,6 @@ Being on the list means you’re registered. Payment also needs eKYC, land seedi
 ## Related guides
 
 -   [Aadhaar Bank Seeding Status Check](/documents/aadhaar-seeding-status-check/)
--   [How to Check Ration Card Status Online](/documents/)
+-   [Documents and online services](/documents/)
 
 _Official link: [PM-Kisan Beneficiary List](https://pmkisan.gov.in/). Easy Guide India is not affiliated with the Government of India._

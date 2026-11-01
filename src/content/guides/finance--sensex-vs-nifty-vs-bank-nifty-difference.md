@@ -60,7 +60,7 @@ Check live and historical values on the official **NSE** and **BSE** websites, o
 
 ## Related guides
 
--   [What Is an IPO and How Does It Work in India?](/finance/)
+-   [IPL and finance guides](/finance/)
 -   [What Affects Gold Prices in India? Why They Rise and Fall](/finance/what-affects-gold-prices-india/)
 
 _Sources: [NSE](https://www.nseindia.com/), [BSE](https://www.bseindia.com/), [NSE Indices](https://www.niftyindices.com/), [SEBI](https://www.sebi.gov.in/). General information, not investment advice._

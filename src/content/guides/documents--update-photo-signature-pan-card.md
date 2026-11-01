@@ -24,7 +24,7 @@ Want a clearer photo or an updated signature on your PAN card? Changes like this
 2.  Enter your PAN and details, and choose how to submit (Aadhaar e-KYC or scanned documents).
 3.  Tick the **photo mismatch** and/or **signature mismatch** options in the form.
 4.  Upload the required proofs, a photo and signature (for the scanned method).
-5.  Pay the fee (similar to a new PAN application, about ₹107 for an Indian address).
+5.  Pay the fee. The portal shows the exact amount, and guides quote roughly ₹50 to ₹107 for an Indian address depending on the agency and whether you want a physical card.
 6.  Save the acknowledgement number and [track the status](/documents/check-pan-card-status-online/).
 
 ## Related guides

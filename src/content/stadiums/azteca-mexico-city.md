@@ -73,8 +73,6 @@ The official list is long. These are the items fans most often get caught out by
 ## Related guides
 
 -   [Stadium Clear Bag Policy: What You Can Bring](/blog/stadium-clear-bag-policy-guide/)
--   [Estadio Akron Guadalajara Guide: Transport, Parking & Rules](/stadiums/)
--   [Estadio BBVA Monterrey Guide: Metro, Parking & Entry Rules](/stadiums/)
--   [NRG Stadium Houston Guide: METRORail, Parking & Bag Policy](/stadiums/)
+-   [All stadium guides](/stadiums/)
 
 _Sources: [Estadio Banorte official website and A–Z guide](https://www.estadiobanorte.com.mx/en). Easy Guide India is not affiliated with the stadium._

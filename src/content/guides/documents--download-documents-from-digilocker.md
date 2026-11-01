@@ -42,9 +42,7 @@ faqs:
 ## Related guides
 
 -   [How to Download e-Aadhaar Online](/documents/download-aadhaar-card-online/)
--   [How to Download Driving Licence Online](/documents/)
+-   [Documents and online services](/documents/)
 -   [How to Download PAN Card PDF (e-PAN) Online](/documents/download-pan-card-pdf/)
--   [CBSE Result: How to Check Class 10 and 12 Results Online](/documents/)
--   [How to Download Electricity Bill Online](/documents/)
 
 _Official link: [DigiLocker](https://www.digilocker.gov.in/). Easy Guide India is not affiliated with MeitY or DigiLocker._

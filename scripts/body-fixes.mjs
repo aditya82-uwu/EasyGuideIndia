@@ -76,6 +76,28 @@ for (const [file, list] of Object.entries(patches)) {
 
 // Guides (src/content/guides). Re-run convert-guides.mjs, then this script, then apply-review.mjs.
 const guidePatches = {
+  'documents--check-pan-aadhaar-link-status': [
+    ['**PANs not linked by 31 December 2025 became inoperative from 1 January 2026**', '**PANs issued with an Aadhaar enrolment ID (before 1 October 2024) had to be linked by 31 December 2025, or they became inoperative from 1 January 2026**. Other PANs had a 2023 deadline and a ₹1,000 late fee, per CBDT notifications'],
+    ['Pay the ₹1,000 fee and [link it now](/documents/link-pan-with-aadhaar-online/)', 'Pay the ₹1,000 fee and [link it on the Income Tax portal](https://www.incometax.gov.in/iec/foportal/)'],
+  ],
+  'documents--update-photo-signature-pan-card': [
+    ['Pay the fee (similar to a new PAN application, about ₹107 for an Indian address).', 'Pay the fee. The portal shows the exact amount, and guides quote roughly ₹50 to ₹107 for an Indian address depending on the agency and whether you want a physical card.'],
+  ],
+  'railway--change-boarding-station-irctc': [
+    ['Since the rules revised in April 2026, you can do it **up to 30 minutes before the train’s scheduled departure** (earlier, only until chart preparation).',
+     'News reports say rules revised in April 2026 let you do it **up to 30 minutes before the train leaves its originating station** (earlier, only until chart preparation). IRCTC’s own help page had not caught up when those reports appeared, so confirm the deadline for your PNR in your booking history.'],
+  ],
+  'railway--check-pnr-status-online': [
+    ['(Railways moved the first chart earlier in 2025, about 8 hours before departure for most trains)', '(Railways moved the first chart earlier in 2025, about 8 hours before departure for most trains; later notices may change this)'],
+  ],
+  'finance--why-crude-oil-prices-rise-or-fall': [
+    ['reached a record **88.7% in 2025-26** (provisional, per the Petroleum Ministry)', 'is around **88 to 89%** by recent estimates (Kpler, Carnegie)'],
+    ['The US Energy Information Administration (EIA) reported that Gulf producers had shut in about **7.5 million barrels a day** by March 2026, and **Brent averaged about $103 a barrel** that month. After the strait reopened, the EIA’s September 2026 outlook expected Brent to average around **$90 in the second half of 2026** and **$74 in 2027**, as production and inventories recover.',
+     'Reports from March 2026 described large Gulf output cuts and sharply higher Brent prices. We could not confirm exact figures, so check the US Energy Information Administration’s latest Short-Term Energy Outlook for current numbers.'],
+  ],
+  'finance--what-affects-gold-prices-india': [
+    ['then raised to **15% in 2026**', 'then raised to **15% on 13 May 2026**'],
+  ],
   'banking--check-bank-balance-without-app': [
     ['Numbers can change, so confirm on your bank’s official website if one doesn’t work.', 'We matched the SBI, HDFC and ICICI numbers against several listings. The others come from older lists, and numbers change, so confirm on your bank’s official website if one doesn’t work.'],
   ],

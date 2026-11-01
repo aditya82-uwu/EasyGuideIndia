@@ -70,6 +70,6 @@ Only indirectly. Crypto and stocks sometimes fall together when investors are av
 
 ## Related guides
 
--   [What Is an IPO and How Does It Work in India?](/finance/)
+-   [IPL and finance guides](/finance/)
 
 _Sources: [NSE](https://www.nseindia.com/), [BSE](https://www.bseindia.com/), [SEBI](https://www.sebi.gov.in/), [RBI](https://www.rbi.org.in/), [Union Budget 2026-27](https://www.indiabudget.gov.in/). General information, not investment advice. We don’t recommend buying or selling any stock._

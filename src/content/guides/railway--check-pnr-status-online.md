@@ -30,7 +30,7 @@ Your **PNR (Passenger Name Record)** is the 10-digit number on your train ticket
 
 ## When is the chart prepared?
 
-The first reservation chart is usually prepared several hours before departure (Railways moved the first chart earlier in 2025, about 8 hours before departure for most trains). Your final berth appears on PNR status after charting.
+The first reservation chart is usually prepared several hours before departure (Railways moved the first chart earlier in 2025, about 8 hours before departure for most trains; later notices may change this). Your final berth appears on PNR status after charting.
 
 ## Related guides
 

@@ -33,8 +33,6 @@ The **Staff Selection Commission (SSC)** publishes results for CGL, CHSL, MTS, G
 
 ## Related guides
 
--   [SSC Exam Calendar: How to Check SSC Exam Dates and Schedule](/documents/)
--   [RRB Group D Answer Key](/documents/)
--   [India Post GDS Result: How to Check GDS Merit List Online](/documents/)
+-   [Documents and online services](/documents/)
 
-_Official link: [Staff Selection Commission](https://ssc.gov.in/). Easy Guide India is not affiliated with SSC. Also see [SSC admit card download](/documents/)._
+_Official link: [Staff Selection Commission](https://ssc.gov.in/). Easy Guide India is not affiliated with SSC. Also see SSC admit card download._

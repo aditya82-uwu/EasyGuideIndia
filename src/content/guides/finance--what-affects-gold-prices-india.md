@@ -18,7 +18,7 @@ India imports almost all its gold, so the domestic price follows the global pric
 
 -   **US interest rates:** gold pays no interest, so when rates rise, holding gold costs more in lost interest and prices tend to fall. When rates are cut, gold usually gains.
 -   **The US dollar:** a stronger dollar usually pushes gold down, and a weaker one pushes it up.
--   **Geopolitical risk:** wars and crises (such as the 2026 Middle East conflict and the disruption in the [Strait of Hormuz](/finance/)) send investors to gold as a safe haven.
+-   **Geopolitical risk:** wars and crises (such as the 2026 Middle East conflict and the disruption in the Strait of Hormuz) send investors to gold as a safe haven.
 -   **Central bank buying:** central banks, including the RBI, have been large gold buyers in recent years.
 -   **Profit-booking:** after a sharp rally, investors often sell, which causes short dips.
 
@@ -30,7 +30,7 @@ Gold is paid for in dollars. If the rupee weakens from, say, ₹85 to ₹90 per 
 
 ## 3\. Import duty and GST
 
--   **Import duty:** cut to 6% in July 2024, then raised to **15% in 2026** to reduce gold imports and support the rupee, according to the World Gold Council. A duty change moves Indian prices immediately.
+-   **Import duty:** cut to 6% in July 2024, then raised to **15% on 13 May 2026** to reduce gold imports and support the rupee, according to the World Gold Council. A duty change moves Indian prices immediately.
 -   **GST:** 3% on the value of gold, plus 5% on making charges for jewellery.
 
 Budget 2026-27 (February 2026) did not change the duty on gold. The 2026 increase came later, as a separate step.

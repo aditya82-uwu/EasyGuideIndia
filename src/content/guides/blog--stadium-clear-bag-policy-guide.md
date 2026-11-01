@@ -35,13 +35,13 @@ Many US stadiums are also **cashless**, so carry a card or phone wallet. Most NF
 
 All NFL stadiums apply the NFL policy on game days, and most apply it to other big events too. Our guides for each venue list its exact bag, parking and transit rules:
 
--   [MetLife Stadium](/stadiums/) · [SoFi Stadium](/stadiums/) · [AT&T Stadium](/stadiums/) · [Arrowhead Stadium](/stadiums/)
--   [Mercedes-Benz Stadium](/stadiums/) · [Hard Rock Stadium](/stadiums/) · [NRG Stadium](/stadiums/) · [Gillette Stadium](/stadiums/)
--   [Lincoln Financial Field](/stadiums/) · [Lumen Field](/stadiums/) · [Levi’s Stadium](/stadiums/) · [State Farm Stadium](/stadiums/)
+-   MetLife Stadium · SoFi Stadium · AT&T Stadium · Arrowhead Stadium
+-   Mercedes-Benz Stadium · Hard Rock Stadium · NRG Stadium · Gillette Stadium
+-   Lincoln Financial Field · Lumen Field · Levi’s Stadium · State Farm Stadium
 
 ## Canada and Mexico
 
-Canadian and Mexican stadiums set their own rules, which are often similar but not identical. Some allow small non-clear bags, and some offer bag check. See [BMO Field](/stadiums/), [BC Place](//), [Estadio Azteca](/blog/estadio-azteca-banorte-guide-tren-ligero-parking-rules/), [Estadio Akron](/stadiums/) and [Estadio BBVA](/stadiums/).
+Canadian and Mexican stadiums set their own rules, which are often similar but not identical. Some allow small non-clear bags, and some offer bag check. See BMO Field, [BC Place](//), [Estadio Azteca](/blog/estadio-azteca-banorte-guide-tren-ligero-parking-rules/), Estadio Akron and Estadio BBVA.
 
 ## Indian cricket stadiums
 

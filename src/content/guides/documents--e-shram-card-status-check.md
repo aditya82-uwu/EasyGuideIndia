@@ -35,7 +35,7 @@ See [how to register for an e-Shram card](/documents/e-shram-card-registration/)
 
 ## Related guides
 
--   [Ayushman Card: Check Eligibility and Download Online](/documents/)
+-   [Documents and online services](/documents/)
 -   [PM Kisan Status Check: Payment Status, eKYC & Missing Instalment Fixes](/documents/pm-kisan-status-check/)
 
 _Official link: [e-Shram portal](https://eshram.gov.in/). Easy Guide India is not affiliated with the Ministry of Labour and Employment._

@@ -8,7 +8,7 @@ updated: 2026-09-27
 faqs:
   - { q: "Is income up to ₹12 lakh really tax-free?", a: "Yes, under the new regime, provided the income is taxed at slab rates. With the ₹75,000 standard deduction, salary up to ₹12.75 lakh pays no tax. Capital gains taxed at special rates don’t get the rebate." }
   - { q: "Did Budget 2026 change the income tax slabs?", a: "No. The slabs, standard deduction and rebate for FY 2026-27 are the same as FY 2025-26. The main change is the new Income-tax Act, 2025, which applies from 1 April 2026." }
-  - { q: "Which regime should I choose?", a: "If your deductions (80C, 80D, HRA, home-loan interest) are small, the new regime usually costs less. Compare both: [old vs new tax regime](/finance/)." }
+  - { q: "Which regime should I choose?", a: "If your deductions (80C, 80D, HRA, home-loan interest) are small, the new regime usually costs less. Compare both: old vs new tax regime." }
 ---
 To work out your **income tax in India**, add up your income, subtract the deductions your tax regime allows, apply the slab rates, then subtract any rebate and add 4% cess. This guide walks through each step with worked examples, using the rates for **FY 2026-27** (the tax year starting 1 April 2026).
 
@@ -32,7 +32,7 @@ Most capital gains and some winnings are taxed at **special rates**, not slab ra
 
 ## Step 2: Choose your regime
 
-The **new regime** is the default. It has lower rates but allows very few deductions. The **old regime** has higher rates but lets you claim deductions such as 80C, 80D and HRA. Salaried people can choose each year when filing the return. See our comparison: [old vs new tax regime](/finance/).
+The **new regime** is the default. It has lower rates but allows very few deductions. The **old regime** has higher rates but lets you claim deductions such as 80C, 80D and HRA. Salaried people can choose each year when filing the return. See our comparison: old vs new tax regime.
 
 ## Step 3: Apply the slab rates
 
@@ -96,7 +96,7 @@ Use the free **tax calculator** on the Income Tax e-filing portal to check your 
 
 ## Related guides
 
--   [How to Withdraw PF Online: Steps, New EPFO Limits & Tax](/finance/)
+-   [IPL and finance guides](/finance/)
 -   [Fantasy Cricket Winnings Tax and the 2025 Online Money Game Ban](/finance/ipl-2026-fantasy-cricket-tax-rules-dream11-winnings/)
 
 _Sources: [Income Tax e-filing portal](https://www.incometax.gov.in/), [Union Budget 2026-27](https://www.indiabudget.gov.in/), [PIB](https://www.pib.gov.in/). This is general information, not tax advice. Check the portal or a tax professional for your case._

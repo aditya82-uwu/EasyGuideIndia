@@ -38,6 +38,6 @@ Use **Verify Email/Mobile Number** on [myAadhaar](https://myaadhaar.uidai.gov.in
 
 -   [How to Update Aadhaar Address Online](/documents/update-aadhaar-address-online/)
 -   [Aadhaar Bank Seeding Status Check](/documents/aadhaar-seeding-status-check/)
--   [How to Link PAN with Aadhaar Online](/documents/pan-card-reprint-online/)
+-   [PAN Card Reprint Online: Lost or Damaged PAN Card](/documents/pan-card-reprint-online/)
 
 _Official links: [UIDAI](https://uidai.gov.in/) · [myAadhaar](https://myaadhaar.uidai.gov.in/) · helpline 1947. Easy Guide India is not affiliated with UIDAI._

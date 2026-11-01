@@ -43,6 +43,6 @@ faqs:
 -   [How to Reset ATM (Debit Card) PIN Online](/banking/reset-atm-pin-online/)
 -   [UPI or Card Payment Failed but Money Debited: Refund Timelines](/banking/digital-payment-refund-process-india/)
 -   [How to Check Bank Account Balance Online](/banking/check-bank-account-balance-online/)
--   [How to Download Electricity Bill Online](/documents/)
+-   [Documents and online services](/documents/)
 
 _Official link: [NPCI – UPI](https://www.npci.org.in/). Easy Guide India is not affiliated with NPCI or any bank._

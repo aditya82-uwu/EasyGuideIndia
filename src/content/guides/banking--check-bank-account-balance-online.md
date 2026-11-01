@@ -36,6 +36,6 @@ Log in with your MPIN, fingerprint or face ID. The balance is usually shown on t
 ## Related guides
 
 -   [How to Set Up UPI and UPI PIN](/banking/upi-setup-guide-india-aadhaar-debit-card/)
--   [PF Balance Check by Missed Call and SMS](/finance/)
+-   [IPL and finance guides](/finance/)
 
 _Easy Guide India is not affiliated with any bank or NPCI._

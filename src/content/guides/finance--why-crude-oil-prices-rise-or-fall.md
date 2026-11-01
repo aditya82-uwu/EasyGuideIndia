@@ -35,13 +35,13 @@ faqs:
 
 ## Why oil prices rise during wars: the 2026 example
 
-In early 2026, conflict in the Middle East disrupted traffic through the [Strait of Hormuz](/finance/), the route for about a fifth of the world’s oil. The US Energy Information Administration (EIA) reported that Gulf producers had shut in about **7.5 million barrels a day** by March 2026, and **Brent averaged about $103 a barrel** that month. After the strait reopened, the EIA’s September 2026 outlook expected Brent to average around **$90 in the second half of 2026** and **$74 in 2027**, as production and inventories recover.
+In early 2026, conflict in the Middle East disrupted traffic through the Strait of Hormuz, the route for about a fifth of the world’s oil. Reports from March 2026 described large Gulf output cuts and sharply higher Brent prices. We could not confirm exact figures, so check the US Energy Information Administration’s latest Short-Term Energy Outlook for current numbers.
 
 The pattern is typical: a sharp spike on the supply shock, a risk premium while uncertainty lasts, then a gradual fall as supply returns and high prices cut demand.
 
 ## How crude prices affect India
 
--   **Import bill and the rupee:** India’s crude import dependence reached a record **88.7% in 2025-26** (provisional, per the Petroleum Ministry). Higher oil prices mean more dollars spent on imports, which puts pressure on the rupee.
+-   **Import bill and the rupee:** India’s crude import dependence is around **88 to 89%** by recent estimates (Kpler, Carnegie). Higher oil prices mean more dollars spent on imports, which puts pressure on the rupee.
 -   **Inflation:** fuel feeds into transport and manufacturing costs, and so into food and goods prices.
 -   **Government finances:** subsidies on LPG and excise duty decisions come under pressure.
 -   **Stock market:** oil marketing companies, paint, tyre, aviation and chemical companies are hurt by higher crude. Upstream producers such as ONGC and Oil India tend to benefit.
@@ -52,7 +52,7 @@ Petrol (since 2010) and diesel (since 2014) prices are market-linked on paper, a
 
 ## LPG and oil shocks
 
-India imports more than half of the LPG it uses, mostly from Gulf countries. A disruption around Hormuz therefore hits cooking gas supply as well as crude. Domestic LPG cylinder prices are revised by the oil companies, usually at the start of the month. Subsidy, where applicable, is paid to the bank account: see [LPG subsidy status check](/documents/).
+India imports more than half of the LPG it uses, mostly from Gulf countries. A disruption around Hormuz therefore hits cooking gas supply as well as crude. Domestic LPG cylinder prices are revised by the oil companies, usually at the start of the month. Subsidy, where applicable, is paid to the bank account: see LPG subsidy status check.
 
 ## Related guides
 

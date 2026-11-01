@@ -34,7 +34,7 @@ Many banks and India Post Payments Bank also let you seed Aadhaar at a branch or
 
 ## Related guides
 
--   [LPG Gas Subsidy Status Check Online](/documents/)
+-   [Documents and online services](/documents/)
 -   [How to Update Mobile Number in Aadhaar](/documents/update-mobile-number-aadhaar-card/)
 -   [How to Check Bank Balance Without App or Internet](/banking/check-bank-balance-without-app/)
 

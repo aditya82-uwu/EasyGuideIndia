@@ -42,7 +42,7 @@ If your mobile number isn’t registered with Aadhaar, you can’t download the 
 
 ## Related guides
 
--   [How to Lock and Unlock Aadhaar Biometrics Online](/documents/check-aadhaar-update-status/)
+-   [Aadhaar Update Status Check Online with URN](/documents/check-aadhaar-update-status/)
 -   [How to Update Aadhaar Address Online](/documents/update-aadhaar-address-online/)
 -   [Baal Aadhaar: How to Apply for Aadhaar Card for Child or Newborn](/documents/apply-aadhaar-card-for-child/)
 
