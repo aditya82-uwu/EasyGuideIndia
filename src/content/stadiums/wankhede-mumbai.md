@@ -35,6 +35,7 @@ _Mumbai Traffic Police issues an advisory for Marine Drive and Churchgate before
 
 -   **Local train:** **Churchgate** (Western Railway) is the closest, a few minutes’ walk. **Marine Lines** is one stop before and also walkable. From Central Railway, get off at **CSMT** and take a cab or walk (about 20–25 minutes).
 -   **Metro:** Mumbai Metro Line 3 (Aqua Line) also serves the Churchgate area.
+-   **From Bandra, Andheri or Thane:** see [how to reach Wankhede from Bandra, Andheri and Thane without driving](/blog/how-to-reach-wankhede-from-bandra-andheri-thane/).
 -   **Cab / taxi:** expect diversions and slow traffic on Marine Drive before and after the match. Get dropped a little away from the stadium and walk.
 
 <!-- ad:inarticle -->

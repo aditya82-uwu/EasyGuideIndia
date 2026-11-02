@@ -25,6 +25,12 @@ Want to know how much data, validity or talk-time balance is left on your Jio nu
 
 The MyJio app shows exactly how much of your daily or plan data you’ve used and when it resets. Jio also sends SMS alerts when you’ve used 50%, 90% and 100% of your daily data.
 
+<!-- ad:inarticle -->
+<aside class="ad-slot ad-slot-inarticle" aria-label="Advertisement" data-pagefind-ignore>
+<p class="ad-label">Advertisement</p>
+<ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7671942092105363" data-ad-slot="3491926864"></ins>
+</aside>
+
 ## If the balance does not show
 
 -   **No SMS after a code or missed call.** Check that your phone has network signal, wait a minute and try once more. Repeated attempts in a row do not make the reply faster.
