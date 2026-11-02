@@ -43,6 +43,7 @@ body::before {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .2  0 0 0 0 .15  0 0 0 0 .1  0 0 0 .9 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
 }
 body > * { position: relative; z-index: 1; }
+body > header { z-index: 30; }
 
 h1, h2, h3 { text-wrap: balance; }
 ::selection { background: color-mix(in srgb, var(--color-accent) 22%, transparent); }

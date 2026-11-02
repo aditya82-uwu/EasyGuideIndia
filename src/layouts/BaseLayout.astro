@@ -78,7 +78,7 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
   <body class="flex min-h-dvh flex-col">
     <a href="#main" class="skip-link">Skip to content</a>
 
-    <header class="border-b border-rule bg-paper/90 backdrop-blur">
+    <header class="relative z-30 border-b border-rule bg-paper/90 backdrop-blur">
       <div class="wrap flex items-center justify-between gap-6 py-4">
         <a href="/" class="flex items-center gap-2.5" aria-label="Easy Guide India, home">
           <svg width="26" height="26" viewBox="0 0 64 64" aria-hidden="true">
@@ -103,9 +103,10 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
           </a>
         </nav>
 
-        <details class="group relative md:hidden">
+        <details id="mobile-menu" class="group relative md:hidden">
           <summary class="grid size-10 cursor-pointer list-none place-items-center rounded-md hover:bg-paper-2 [&::-webkit-details-marker]:hidden" aria-label="Menu">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>
+            <svg class="group-open:hidden" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>
+            <svg class="hidden group-open:block" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
           </summary>
           <nav aria-label="Mobile" class="absolute right-0 top-12 z-20 w-60 rounded-lg border border-rule bg-surface p-2 shadow-lift">
             {nav.map((n) => (
@@ -140,6 +141,16 @@ const isActive = (m: string[]) => m.some((p) => path.startsWith(p));
         <p class="wrap py-5 text-xs text-paper/50">&copy; {new Date().getFullYear()} Easy Guide India. Independent site, not affiliated with the BCCI, the IPL or any franchise.</p>
       </div>
     </footer>
+    <script is:inline>
+      // Close the mobile menu on outside tap, Escape, or when a link is chosen.
+      (function () {
+        var m = document.getElementById('mobile-menu');
+        if (!m) return;
+        document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) m.open = false; });
+        document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        m.addEventListener('click', function (e) { if (e.target.closest('a')) m.open = false; });
+      })();
+    </script>
     {ads && <script is:inline>(function(){var l=document.querySelectorAll('ins.adsbygoogle');for(var i=0;i<l.length;i++){try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}}})();</script>}
   </body>
 </html>
