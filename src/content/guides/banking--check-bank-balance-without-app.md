@@ -1,6 +1,6 @@
 ---
 legacyPath: "banking/check-bank-balance-without-app"
-title: "Check Bank Balance Without App or Internet: Missed Call & *99#"
+title: "Check Bank Balance Without App: Missed Call & *99#"
 description: "Check any Indian bank balance without an app or internet: missed-call numbers for SBI, HDFC, ICICI, Axis, PNB and more, *99# USSD and WhatsApp banking."
 section: banking
 published: 2026-04-12

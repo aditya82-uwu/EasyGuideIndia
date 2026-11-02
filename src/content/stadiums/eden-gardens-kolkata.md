@@ -1,6 +1,6 @@
 ---
 legacySlug: "eden-gardens-kolkata-entry-rules-metro-parking-guide"
-title: "Eden Gardens IPL 2027 Guide: Metro, Parking & Banned Items"
+title: "Eden Gardens IPL 2027 Guide: Metro, Parking & Rules"
 description: "Eden Gardens IPL 2027 guide: Esplanade metro, Eden Gardens station, no-parking zones on match days, KKR tickets and banned items."
 intro: "Eden Gardens in Kolkata is the home ground of Kolkata Knight Riders and the Cricket Association of Bengal. Kolkata Police restrict roads and parking around the ground on match days, so public transport is the practical choice: Esplanade metro station is about 1 km away, and Eden Gardens station on the Circular Railway is right by the ground. This guide covers road closures from earlier advisories, tickets and banned items, and we update it for IPL 2027."
 name: "Eden Gardens"

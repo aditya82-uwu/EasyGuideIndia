@@ -1,6 +1,6 @@
 ---
 legacySlug: "lords-cricket-ground-entry-rules-gate-protocol"
-title: "Lord's Cricket Ground Guide: Tube, Bags & Alcohol Rules"
+title: "Lord's Cricket Ground Guide: Tube, Bags & Alcohol"
 description: "Visiting Lord's? St John's Wood tube, bag rules, exactly how much alcohol you can bring and when, plus tips for India fans at the Home of Cricket."
 name: "Lord's"
 officialName: "Lord's Cricket Ground"

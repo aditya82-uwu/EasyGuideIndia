@@ -5,6 +5,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import Toc from '../components/Toc.astro';
 import Faq from '../components/Faq.astro';
 import AdSlot from '../components/AdSlot.astro';
+import Byline from '../components/Byline.astro';
 import { SITE, ORG, websiteLd, breadcrumbLd, articleLd, faqLd, graph } from '../lib/schema';
 
 export async function getStaticPaths() {
@@ -37,7 +38,7 @@ const showToc = !isLegal && (headings.filter((h) => h.depth === 2).length > 2 ||
       {!isLegal && <Breadcrumbs trail={trail} current={d.title} />}
       {!isLegal && sectionLabel && <p class="kicker mt-8">{sectionLabel}</p>}
       <h1 class="display max-w-4xl text-[clamp(2.4rem,5.5vw,4.25rem)] {isLegal ? 'mt-4' : 'mt-2'}">{d.title}</h1>
-      {!isLegal && <p class="mt-5 font-mono text-[0.78rem] text-ink-3">Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{fmt(d.updated)}</time></p>}
+      {!isLegal && <Byline updated={d.updated} />}
     </header>
 
     <div class={`wrap grid gap-10 ${showToc ? 'lg:grid-cols-[minmax(0,1fr)_17rem] lg:gap-16' : ''}`}>

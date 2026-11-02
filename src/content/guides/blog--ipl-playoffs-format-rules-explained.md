@@ -1,6 +1,6 @@
 ---
 legacyPath: "blog/ipl-playoffs-format-rules-explained"
-title: "IPL Playoffs Format: Qualifier 1, Eliminator, NRR & Rain Rules"
+title: "IPL Playoffs Format: Qualifier, Eliminator, NRR & Rain"
 description: "How the IPL playoffs work: Qualifier 1, Eliminator, Qualifier 2 and the final, how net run rate is calculated, and what happens if rain hits a playoff."
 section: blog
 published: 2026-05-08

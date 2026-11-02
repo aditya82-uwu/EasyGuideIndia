@@ -1,6 +1,6 @@
 ---
 legacyPath: "finance/ipl-2026-stadium-parking-fastag-rules"
-title: "IPL 2027 Stadium Parking Guide: Where to Park at Every Ground"
+title: "IPL 2027 Stadium Parking Guide: Every Ground"
 description: "Where to park for IPL 2027 matches at Wankhede, Chepauk, Arun Jaitley, Eden Gardens, Chinnaswamy, Uppal and Ahmedabad, plus the better metro or train option."
 section: finance
 published: 2026-03-30

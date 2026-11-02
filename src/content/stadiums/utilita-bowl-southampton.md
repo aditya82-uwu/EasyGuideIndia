@@ -1,6 +1,6 @@
 ---
 legacySlug: "utilita-bowl-southampton-entry-rules-gate-protocol"
-title: "Utilita Bowl Guide: Free Shuttle Bus, Food & Alcohol Rules"
+title: "Utilita Bowl Guide: Free Shuttle, Food & Alcohol Rules"
 description: "Utilita Bowl, Southampton: free shuttles from Hedge End and Airport Parkway, park and ride, bring-your-own food rules, no alcohol, cashless."
 name: "Utilita Bowl"
 officialName: "Utilita Bowl"

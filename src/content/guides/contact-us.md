@@ -1,23 +1,33 @@
 ---
 legacyPath: "contact-us"
-title: "Contact Easy Guide India"
-description: "Contact Easy Guide India for feedback, suggestions or questions related to guides about online services, government processes and finance topics in India."
+title: "Contact Easy Guide India: Corrections and Feedback"
+description: "How to report a wrong fact, suggest a guide or ask a question. Easy Guide India is run by an editorial team and fixes confirmed errors."
 section: page
 published: 2026-03-15
-updated: 2026-03-15
+updated: 2026-11-02
 ---
-If you have any questions, suggestions, or feedback regarding the guides published on Easy Guide India, feel free to contact us.
+Easy Guide India is written and maintained by an editorial team. There is no comment section and no contact form, so the way to reach us is a public issue on GitHub. You need a free GitHub account.
 
-## General Inquiries
+## Report a mistake
 
-If you have a question related to any guide on the website, you can leave a comment on the respective page. We review feedback regularly and try to improve our guides.
+If a gate, parking rule, fee, date or link is wrong, [open an issue on GitHub](https://github.com/aditya82-uwu/EasyGuideIndia/issues/new). Please include:
 
-## Suggestions and Corrections
+-   The page address.
+-   What is wrong and what you think is correct.
+-   A link to the notice, official page or news report that shows it, if you have one. Match-day rules change often, so a dated source helps us confirm fast.
 
-If you notice any incorrect information or want to suggest a topic that should be covered, please let us know. Your feedback helps improve the accuracy and usefulness of the website.
+We check each report against the official source. When we confirm an error we correct the page and update its "facts checked" date. Our method is described on [How we research and check our guides](/how-we-check/).
 
-## Important Note
+## Suggest a guide
 
-Easy Guide India is an informational website and is not affiliated with any government department, IRCTC, bank, or official authority.
+Use the same link to ask for a ground, an IPL rule or an Indian online service we do not cover yet. We cannot promise a date, but requests about IPL 2027 match-day travel are a priority.
 
-For official assistance regarding government services or financial matters, users should contact the respective official websites or authorities.
+## What we cannot help with
+
+-   **Tickets, refunds and bookings.** We do not sell tickets or run any service. Contact the team, the ticketing site, IRCTC, your bank or the relevant office directly.
+-   **Account problems.** We cannot access your Aadhaar, PAN, bank, IRCTC or telecom account. Never share OTPs, PINs or passwords with anyone who says they are from us.
+-   **Official decisions.** For the final word on a rule or a service, use the official website or helpline of the body that issues it.
+
+## Important note
+
+Easy Guide India is an independent informational website. It is not affiliated with the BCCI, the IPL, any franchise or stadium, IRCTC, any bank or any government department.

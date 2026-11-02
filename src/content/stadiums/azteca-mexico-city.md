@@ -1,6 +1,6 @@
 ---
 legacySlug: "estadio-azteca-banorte-guide-tren-ligero-parking-rules"
-title: "Estadio Azteca Guide: Tren Ligero, Parking & Banned Items"
+title: "Estadio Azteca Guide: Tren Ligero, Parking & Rules"
 description: "Estadio Azteca / Estadio Banorte, Mexico City: Tren Ligero from Tasqueña, parking, gates, and the official banned list (power banks too), plus payments."
 name: "Estadio Azteca"
 officialName: "Estadio Azteca (Banorte)"

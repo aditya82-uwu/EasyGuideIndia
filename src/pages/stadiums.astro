@@ -29,6 +29,7 @@ const href = (s: (typeof all)[number]) => `/blog/${s.data.legacySlug}/`;
     {abroad.length > 0 && (
       <>
         <h2 class="label mb-2 mt-14">Outside India</h2>
+        <p class="mb-3 max-w-xl text-sm text-ink-2">Not IPL venues. Kept for readers who found these guides before. For IPL 2027, use the <a href="/ipl-2027/" class="link-quiet">IPL ground guide</a>.</p>
         <ul>
           {abroad.map((s) => <li><StadiumRow href={href(s)} name={s.data.name} city={s.data.city} team={s.data.homeTeam} fact={cardFact(s)} /></li>)}
         </ul>

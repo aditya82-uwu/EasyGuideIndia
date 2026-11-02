@@ -1,6 +1,6 @@
 ---
 legacyPath: "finance/what-is-comex-gold-silver"
-title: "What Is COMEX Gold & Silver? How It Affects Indian Prices"
+title: "What Is COMEX Gold & Silver? Impact on Indian Prices"
 description: "COMEX explained: US gold and silver futures benchmark, contract sizes, how it converts to Indian rates with the rupee, import duty and GST, and COMEX vs MCX."
 section: finance
 published: 2026-02-05

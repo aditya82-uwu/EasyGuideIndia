@@ -1,6 +1,6 @@
 ---
 legacyPath: "finance/ipl-2026-fantasy-cricket-tax-rules-dream11-winnings"
-title: "Fantasy Cricket Winnings Tax & Online Gaming Ban (Dream11)"
+title: "Fantasy Cricket Winnings Tax & Online Gaming Ban"
 description: "Paid fantasy contests are banned under the Online Gaming Act, 2025. How past winnings and free-contest prizes are taxed at 30%, TDS, and ITR reporting."
 section: finance
 published: 2026-03-31

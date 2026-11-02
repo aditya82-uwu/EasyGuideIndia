@@ -1,6 +1,6 @@
 ---
 legacySlug: "m-chinnaswamy-stadium-bengaluru-entry-rules-parking-guide"
-title: "Chinnaswamy Stadium IPL 2027 Guide: Metro, Parking & Rules"
+title: "Chinnaswamy Stadium IPL 2027 Guide: Metro & Parking"
 description: "Chinnaswamy IPL 2027 guide: Cubbon Park and MG Road metro, 2026 parking at UB City and Shivajinagar, digital entry and banned items."
 intro: "M. Chinnaswamy Stadium in central Bengaluru is the home ground of Royal Challengers Bengaluru. The nearest metro stations are Cubbon Park and MG Road on the Purple Line. Police ban parking on most nearby roads on match days, and in IPL 2026 they listed UB City and Shivajinagar Bus Stand for parking. Reports said IPL 2026 entry was fully digital, with spectator numbers capped at about 28,000. This guide covers metro, parking, drop-off points and banned items."
 name: "M. Chinnaswamy Stadium"

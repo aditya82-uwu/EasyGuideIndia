@@ -1,6 +1,6 @@
 ---
 legacySlug: "uppal-stadium-hyderabad-entry-gates-parking-guide-rgis"
-title: "Uppal Stadium IPL 2027 Guide: Metro, Parking & Banned Items"
+title: "Uppal Stadium IPL 2027 Guide: Metro, Parking & Rules"
 description: "Uppal Stadium IPL 2027 guide: Stadium metro station, the four police parking grounds, gate timing and the banned items police have listed."
 intro: "Rajiv Gandhi International Cricket Stadium in Uppal is the home ground of Sunrisers Hyderabad. Stadium station on the Hyderabad Metro Blue Line is the nearest metro, and police advise the metro and RTC buses on match days. Police designated four public parking areas within about 500 m of the ground: Penguin, TGIALA, DSL and Modern Bakery. This guide covers parking, entry and the items police have banned, including laptops, cameras and electronics."
 name: "Uppal Stadium"

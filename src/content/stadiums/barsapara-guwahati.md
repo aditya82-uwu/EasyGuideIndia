@@ -1,6 +1,6 @@
 ---
 legacySlug: "barsapara-stadium-guwahati-entry-rules-parking-guide"
-title: "Barsapara Stadium Guwahati IPL Guide: Parking & Entry Rules"
+title: "Barsapara Stadium Guwahati IPL Guide: Parking & Rules"
 description: "Barsapara Stadium Guwahati IPL guide: Champawati Field parking, road restrictions, drop-off points and banned items."
 intro: "Barsapara Cricket Stadium, officially the ACA Stadium, in Guwahati is Assam’s international cricket venue and a second home for Rajasthan Royals in the IPL. Police restrict roads around the ground on match days. Champawati Field is a standard parking site for big matches, and drop-off points have been at Barsapara Tiniali and Dhirenpara Tiniali in past advisories. This guide covers how to get there, parking and banned items."
 name: "Barsapara Stadium"

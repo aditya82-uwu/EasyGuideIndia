@@ -1,0 +1,12 @@
+---
+// Team byline. Pages are written and checked by the editorial team, not one named person.
+interface Props { updated: Date; checked?: Date; extra?: string }
+const { updated, checked, extra } = Astro.props;
+const fmt = (d: Date) => d.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<p class="mt-4 font-mono text-[0.78rem] leading-relaxed text-ink-3">
+  {extra && <>{extra} &middot; </>}By the <a href="/about-us/" class="link-quiet">Easy Guide India editorial team</a> &middot;
+  Updated <time datetime={updated.toISOString().slice(0, 10)}>{fmt(updated)}</time>
+  {checked && <> &middot; Facts checked <time datetime={checked.toISOString().slice(0, 10)}>{fmt(checked)}</time></>}
+  &middot; <a href="/how-we-check/" class="link-quiet">How we check</a>
+</p>

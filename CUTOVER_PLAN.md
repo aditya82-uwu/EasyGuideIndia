@@ -2,6 +2,10 @@
 
 Checked 1 November 2026. Domain registered at GoDaddy. DNS hosted at Hostinger. New site deployed on Cloudflare (Workers static assets) at `https://easyguideindia.themasculinemind82.workers.dev/`.
 
+## Status, 1 November 2026
+
+Cutover done. Cloudflare DNS is active, custom domains `www` and apex are attached, apex redirects to `www`, Always Use HTTPS is on, 190 of 190 redirects pass on the live domain, AdSense Auto ads are off, and `sitemap-index.xml` is submitted in Search Console. The old `/sitemap_index.xml` returns 301 to the new one. The Hostinger mail DNS records are unused and can be deleted. Still open: Hostinger backup, AdSense bank details, URL Inspection on key pages, GA4 realtime check, cancel Hostinger after about 30 days.
+
 ## Test results on the Cloudflare build
 
 - 190 of 190 redirects pass. Home, IPL 2027, stadium, guide, search and legal pages return 200. Unknown URLs return the 404 page. `ads.txt`, `robots.txt`, sitemap, fonts and share images are served, and fonts and scripts are cached for a year.

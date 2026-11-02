@@ -4,7 +4,7 @@ title: "About Easy Guide India: Who We Are & How We Write"
 description: "Easy Guide India publishes simple, step-by-step guides on Aadhaar, PAN, railways, banking and personal finance, checked against official sources."
 section: page
 published: 2026-03-15
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 Welcome to **Easy Guide India** ([Easy Guide India](/)), a premier digital resource dedicated to simplifying the complexities of Indian administrative, digital, and financial services.
 
@@ -17,12 +17,16 @@ Welcome to **Easy Guide India** ([Easy Guide India](/)), a premier digital resou
 -   **Travel & Railway Assistance:** Providing expert strategies for IRCTC Tatkal booking and real-time running status.
 -   **Event Guidelines:** Offering timely logistics and entry rules for major events like the IPL to ensure a hassle-free fan experience.
 
-**Our Commitment to Accuracy** Every guide published on this platform is thoroughly researched and cross-referenced with official government and service provider portals. As digital enthusiasts and developers, we pride ourselves on providing high-quality, fact-checked content that addresses real-world problems faced by our users.
+**Our Commitment to Accuracy** Every guide published on this platform is thoroughly researched and cross-referenced with official government and service provider portals. Guides are drafted with AI tools and then checked by the editorial team against the sources named on each page. The full method, and what we do not claim, is on [How we research and check our guides](/how-we-check/).
 
 **Why easyguideindia.in?**
 
 -   **User-First Approach:** We prioritize “how-to” content that solves immediate issues.
 -   **Simplified Language:** We break down technical jargon into easy-to-understand steps.
 -   **Real-Time Updates:** We constantly monitor service changes (like new 2026 IRCTC rules) to keep our readers ahead of the curve.
+
+## Who writes this
+
+Guides are published by the Easy Guide India editorial team, not by a single named author. Every guide shows the date it was last updated, and ground guides also show when their facts were last checked and link to the official sources to confirm them. To report an error, use the [contact page](/contact-us/).
 
 Thank you for trusting **Easy Guide India** as your go-to source for reliable information.

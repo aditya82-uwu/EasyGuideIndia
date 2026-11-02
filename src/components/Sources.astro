@@ -1,0 +1,14 @@
+---
+import { SOURCES } from '../lib/sources';
+interface Props { slug: string }
+const items = SOURCES[Astro.props.slug] ?? [];
+---
+{items.length > 0 && (
+  <section class="mt-14 max-w-[68ch]" aria-labelledby="sources-h">
+    <h2 id="sources-h" class="label">Official sources</h2>
+    <p class="mt-2 text-sm leading-relaxed text-ink-2">Where match-day notices appear. Rules here come from earlier notices and reports, so check these for your match.</p>
+    <ul class="mt-3 flex flex-wrap gap-x-5 gap-y-1.5 text-sm">
+      {items.map((s) => <li><a class="link-quiet" href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+    </ul>
+  </section>
+)}

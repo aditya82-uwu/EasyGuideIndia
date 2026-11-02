@@ -40,6 +40,13 @@ If you work in the unorganised sector (daily-wage labour, construction, domestic
 
 If your mobile isn’t linked to Aadhaar, register at a **Common Service Centre (CSC)** with biometric authentication. It’s free there too.
 
+## After you register
+
+-   **Keep your UAN.** The 12-digit Universal Account Number is your e-Shram ID. Note it down, because you need it to check status and update details.
+-   **Mistakes in your details.** Wrong name, date of birth or bank details are easiest to fix by updating your profile on the portal or at a CSC, so check each field before you submit.
+-   **Keep Aadhaar and bank account active.** Details are matched with Aadhaar. If your mobile number changed, update it in Aadhaar first (see [how to update your mobile number in Aadhaar](/documents/update-mobile-number-aadhaar-card/)).
+-   **Beware of paid agents.** Registration is free on the portal and at CSCs. Do not pay anyone for the card itself.
+
 ## Related guides
 
 -   [Documents and online services](/documents/)

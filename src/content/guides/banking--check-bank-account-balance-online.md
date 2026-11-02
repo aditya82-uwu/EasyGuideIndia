@@ -1,6 +1,6 @@
 ---
 legacyPath: "banking/check-bank-account-balance-online"
-title: "Check Bank Balance Online: UPI Apps, Bank App & Net Banking"
+title: "Check Bank Balance Online: UPI, Bank App & Net Banking"
 description: "Check your bank balance online in seconds on any UPI app with your UPI PIN, your bank's app or net banking, and stay safe while doing it."
 section: banking
 published: 2026-01-28

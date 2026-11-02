@@ -34,6 +34,13 @@ Before booking, check how many seats are available, or how long the waitlist is,
 -   Bookings open **60 days in advance** (excluding the journey date).
 -   If a train is full, try Tatkal (see [Tatkal booking](/railway/irctc-tatkal-ticket-booking/)) or [special trains](/railway/how-to-find-indian-railways-special-trains-booking-guide/).
 
+## Reading availability before you book
+
+-   **Availability can change in minutes.** Cancellations and quota releases add seats, and bookings remove them. A figure you saw earlier is not a guarantee.
+-   **Waitlist is not a seat.** A long waitlist often does not clear. If you must travel, look at another train, another class or a nearby station instead.
+-   **Quota changes the picture.** General, Tatkal, Ladies and Senior Citizen quotas show different numbers, so pick the quota that applies to you before comparing trains.
+-   **Check the boarding station.** On some routes you can board a stop or two later, where seats may be free. Compare before you book.
+
 ## Related guides
 
 -   [IRCTC Login and Registration: How to Book Train Tickets Online](/railway/irctc-login-train-ticket-booking/)

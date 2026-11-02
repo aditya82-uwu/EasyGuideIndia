@@ -1,6 +1,6 @@
 ---
 legacySlug: "narendra-modi-stadium-ahmedabad-entry-rules-parking-guide"
-title: "Narendra Modi Stadium IPL 2027 Guide: Parking, Metro & Gates"
+title: "Narendra Modi Stadium IPL 2027: Parking, Metro, Gates"
 description: "Narendra Modi Stadium IPL 2027 guide: Motera Stadium metro, Show My Parking, gate timing, no re-entry and the banned items list."
 intro: "Narendra Modi Stadium in Motera, Ahmedabad, is the home ground of Gujarat Titans and the world’s largest cricket stadium by capacity. Motera Stadium station on the Red Line metro is the quickest way to arrive and leave. Parking is limited, and pre-booking through Show My Parking was offered for IPL 2026. Gates opened about three hours before the start in IPL 2025, and there is no re-entry once you leave. Below are parking, entry rules and the banned items list."
 name: "Narendra Modi Stadium"

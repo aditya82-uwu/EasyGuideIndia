@@ -38,6 +38,13 @@ Call **139** from any phone and follow the IVR menu for train enquiry. Enter the
 | PNR status | PNR <10-digit PNR> |
 | Train running status | SPOT <train number> |
 
+## If the SMS does not work
+
+-   **No reply.** Check the format. Write SPOT, a space and the 5-digit train number, with nothing else. Wait a few minutes before you try again.
+-   **Wrong or old status.** The reply reflects the last station report, so the train may be further along. Ask again after a few minutes.
+-   **Call 139 instead.** The IVR also covers PNR and train enquiries, and it works when SMS delivery is slow.
+-   **Fees.** Your operator sets SMS and call charges, so check your plan if you use this often.
+
 ## Related guides
 
 -   [How to Check PNR Status Online](/railway/check-pnr-status-online/)

@@ -1,6 +1,6 @@
 ---
 legacySlug: "headingley-cricket-ground-entry-rules-gate-protocol"
-title: "Headingley Guide: Train, Park & Ride, Bags & Alcohol Rules"
+title: "Headingley Guide: Train, Park & Ride, Bags & Alcohol"
 description: "Headingley, Leeds: Burley Park station, Beckett Park park and ride, 45×30×30 cm bag limit, and what food and alcohol you can bring."
 name: "Headingley"
 officialName: "Headingley Cricket Ground"

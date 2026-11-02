@@ -6,6 +6,7 @@ export const ORG = {
   '@id': `${SITE}/#org`,
   name: 'Easy Guide India',
   url: `${SITE}/`,
+  publishingPrinciples: `${SITE}/how-we-check/`,
   logo: { '@type': 'ImageObject', url: `${SITE}/apple-touch-icon.png`, width: 180, height: 180 },
 };
 

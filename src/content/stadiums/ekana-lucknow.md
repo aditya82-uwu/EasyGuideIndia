@@ -1,6 +1,6 @@
 ---
 legacySlug: "ekana-stadium-lucknow-entry-rules-parking-guide"
-title: "Ekana Stadium IPL 2027 Guide: Lucknow Parking, Metro & Rules"
+title: "Ekana Stadium IPL 2027 Guide: Parking, Metro & Rules"
 description: "Ekana Stadium IPL 2027 guide: no metro at the ground, feeder buses, parking, gate timing and banned items for Lucknow Super Giants matches."
 intro: "BRSABV Ekana Cricket Stadium on Shaheed Path, Lucknow, is the home ground of Lucknow Super Giants. Lucknow Metro does not reach the ground: Indira Nagar is the nearest station, about 4 km away, so plan a cab, an auto or the feeder buses that ran from metro stations on IPL match days. Traffic on Shaheed Path is heavy before and after matches, so allow extra time. This guide covers transport, parking, gate timing and banned items for IPL 2027."
 name: "Ekana Stadium"

@@ -1,6 +1,6 @@
 ---
 legacySlug: "sawai-mansingh-stadium-jaipur-entry-rules-parking-guide"
-title: "Sawai Mansingh Stadium IPL 2027 Guide: Jaipur Parking & Rules"
+title: "Sawai Mansingh Stadium IPL 2027: Jaipur Parking & Rules"
 description: "Sawai Mansingh Stadium IPL 2027 guide: how to reach Jaipur’s ground, limited parking, nearest bus stops and stations, gate timing and banned items."
 intro: "Sawai Mansingh Stadium (SMS Stadium) in Jaipur is the home ground of Rajasthan Royals. It is near Rambagh Circle and JLN Marg, and Jaipur Metro does not stop at the ground, so most fans come by bus, cab or auto. Parking is limited and police restrict parking around the stadium on match days. Gates opened about three hours before the start for IPL 2026 matches, for example 4:30 PM for a 7:30 PM game. This guide covers how to reach the ground, parking, entry and banned items."
 name: "Sawai Mansingh Stadium"

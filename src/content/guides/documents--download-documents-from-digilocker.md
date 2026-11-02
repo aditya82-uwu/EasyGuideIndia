@@ -1,6 +1,6 @@
 ---
 legacyPath: "documents/download-documents-from-digilocker"
-title: "DigiLocker Download: Aadhaar, PAN, Driving Licence & More"
+title: "DigiLocker Download: Aadhaar, PAN, Licence & More"
 description: "Set up DigiLocker, link Aadhaar and download legally valid Aadhaar, PAN, driving licence, RC and marksheets. Issued vs uploaded documents explained."
 section: documents
 published: 2026-01-28

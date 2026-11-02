@@ -25,6 +25,13 @@ Want to know how much data, validity or talk-time balance is left on your Jio nu
 
 The MyJio app shows exactly how much of your daily or plan data you’ve used and when it resets. Jio also sends SMS alerts when you’ve used 50%, 90% and 100% of your daily data.
 
+## If the balance does not show
+
+-   **No SMS after a code or missed call.** Check that your phone has network signal, wait a minute and try once more. Repeated attempts in a row do not make the reply faster.
+-   **The numbers differ from the MyJio app.** Balance by SMS can lag behind recent usage. Treat the MyJio app as the main reference for data and validity.
+-   **Validity and plan.** Your plan name, daily data limit and end date appear in MyJio under your current plan, not in the short balance message.
+-   **Scam warning.** Jio does not ask for your OTP, UPI PIN or card details to show a balance. Do not share them with anyone who calls about "balance" or "KYC".
+
 ## Related guides
 
 -   [How to Check FASTag Balance Online](/documents/check-fastag-balance-online/)

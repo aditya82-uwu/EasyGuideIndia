@@ -1,6 +1,6 @@
 ---
 legacySlug: "indira-gandhi-athletic-stadium-guwahati-gates-parking-guide"
-title: "Sarusajai Stadium Guwahati: How to Reach, Parking & Entry"
+title: "Sarusajai Stadium Guwahati: Reach, Parking & Entry"
 description: "Indira Gandhi Athletic Stadium, Sarusajai: location on NH-37, how to reach, parking and entry tips for NorthEast United FC matches."
 name: "Indira Gandhi Athletic Stadium"
 officialName: "Indira Gandhi Athletic Stadium"

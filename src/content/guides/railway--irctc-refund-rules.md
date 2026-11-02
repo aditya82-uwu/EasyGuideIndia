@@ -1,6 +1,6 @@
 ---
 legacyPath: "railway/irctc-refund-rules"
-title: "IRCTC Refund Rules & Cancellation Charges (New 8-Hour Rule)"
+title: "IRCTC Refund Rules & Cancellation Charges (8-Hour Rule)"
 description: "How much refund you get on cancelling a train ticket under the revised rules: 72/24/8-hour windows, RAC and waitlist, Tatkal, TDR and refund timelines."
 section: railway
 published: 2026-03-12

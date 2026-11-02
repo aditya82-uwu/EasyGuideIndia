@@ -1,6 +1,6 @@
 ---
 legacySlug: "old-trafford-cricket-ground-entry-rules-gate-protocol"
-title: "Emirates Old Trafford Guide: Tram, Bags, Food & Drink Rules"
+title: "Old Trafford Guide: Tram, Bags, Food & Drink Rules"
 description: "Emirates Old Trafford cricket ground: Old Trafford Metrolink stop, Stretford park and ride, one-bag rule, 500 ml drinks limit and halal food."
 name: "Old Trafford"
 officialName: "Old Trafford Cricket Ground"
