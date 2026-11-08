@@ -1,16 +1,26 @@
 ---
 legacyPath: "blog/how-to-join-state-cricket-team-ranji-trophy-selection-process"
-title: "How to Join a State Cricket Team: Ranji Trophy Pathway"
-description: "Get into your state cricket team: affiliated clubs, district trials, BCCI age-group tournaments (U16, U19, U23), age verification documents and fitness."
+title: "Ranji Trophy Selection: How to Play, Age Limit & Trials"
+description: "How to play the Ranji Trophy: club and district cricket, state trials, age-group routes, age verification, and what to know about age limits."
 section: blog
 published: 2026-07-29
-updated: 2026-09-27
+updated: 2026-11-08
 faqs:
+  - { q: "What is the age limit for the Ranji Trophy?", a: "The BCCI sets age cut-offs for its age-group tournaments (under-16, under-19 and under-23) each season. We did not find an official upper age limit for the senior Ranji Trophy, so check the current BCCI rules and your state association." }
+  - { q: "Can I play the Ranji Trophy without joining an academy?", a: "Selection is by your state association, based on records in official matches. You need to play for a club or team affiliated to your district association so your performances count. An academy is one way to do that, not a requirement we found." }
+  - { q: "How are players selected for the Ranji Trophy?", a: "Through district and inter-district tournaments, state probables camps and fitness tests, then the state selectors name the squad, based mainly on match performance." }
   - { q: "Is there a fee for state trials?", a: "Official district and state trials are free or charge only a nominal registration fee set by the association. Be wary of private “selection” events that charge large fees or promise state or IPL selection." }
   - { q: "Can I play for another state?", a: "Yes, but you’ll need to meet the new association’s residence or eligibility rules, and usually a no-objection certificate from your current association." }
   - { q: "What is the age limit for under-19 cricket?", a: "You must be under 19 on the cut-off date the BCCI sets for that season (usually 1 September). Check your association’s circular for the exact date." }
 ---
 To **join a state cricket team** in India and play the Ranji Trophy, you need to come up through your state association’s system: an affiliated club or academy, district trials, inter-district tournaments, state age-group teams, and then the senior squad. This guide explains each stage, the BCCI tournaments at each age, and the documents you’ll need.
+
+## Quick answers
+
+-   **Age limit:** age-group tournaments use a cut-off date set by the BCCI each season. The senior Ranji Trophy has no official upper age limit that we found, so confirm with your state association.
+-   **Academy needed?** Not a rule we found. What matters is playing official matches for an affiliated club or district team.
+-   **Fee:** official district and state trials are free or charge a small association fee. Do not pay anyone who promises selection.
+-   **Who selects?** Your state association's selectors, not the BCCI or an IPL franchise.
 
 ## 1\. Join an affiliated club or academy
 
