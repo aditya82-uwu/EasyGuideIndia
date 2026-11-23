@@ -1,7 +1,7 @@
 ---
 legacySlug: "mullanpur-stadium-chandigarh-entry-rules-parking-guide"
-title: "Mullanpur Stadium IPL 2027 Guide: Parking, Gates & Rules"
-description: "Mullanpur IPL 2027 guide: paid lots P4 to P6 (₹200 car, ₹100 bike as reported), Show My Parking, about 16 gates and banned items."
+title: "Mullanpur Stadium IPL 2027: Parking, Seating & How to Reach"
+description: "Mullanpur Stadium (New PCA stadium) near Chandigarh: how to reach, capacity and stands, parking lots P4 to P6, gates and banned items for IPL 2027."
 intro: "Maharaja Yadavindra Singh International Cricket Stadium in Mullanpur, New Chandigarh, is the home ground of Punjab Kings. It is outside the main city, so traffic and parking are the main things to plan. Paid public parking was in lots P4, P5 and P6 (₹200 for a car and ₹100 for a two-wheeler, as The Tribune reported), bookable on Show My Parking. Gates opened at 4:30 PM for the IPL 2026 opener. Below are the route, gates and banned items."
 name: "Mullanpur Stadium"
 officialName: "Maharaja Yadavindra Singh International Cricket Stadium"
@@ -10,8 +10,11 @@ state: "Punjab"
 country: "India"
 homeTeam: "Punjab Kings"
 published: 2026-03-31
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "Where is Mullanpur stadium?", a: "In Mullanpur, in the SAS Nagar (Mohali) district of Punjab, next to New Chandigarh and outside the main city. Its official name is the Maharaja Yadavindra Singh International Cricket Stadium." }
+  - { q: "Is Mullanpur stadium the same as the Mohali stadium?", a: "No. Punjab Kings played at the older IS Bindra stadium in Mohali until 2023. The Mullanpur stadium is a newer ground that hosted its first IPL match in March 2024." }
+  - { q: "What is the capacity of Mullanpur stadium?", a: "About 38,000 is the figure most reports give. Some sources say 33,000, so treat it as approximate." }
   - { q: "Where can I park for a match at Mullanpur stadium?", a: "In the public lots P4, P5 and P6 (₹200 for cars, ₹100 for two-wheelers), bookable on the Show My Parking app." }
   - { q: "How far is Mullanpur stadium from Chandigarh?", a: "It is in New Chandigarh, outside the main city. Allow extra time on match days." }
 checked: 2026-11-01
@@ -30,9 +33,26 @@ _Chandigarh and Punjab police issue traffic plans before big matches. Check the 
 
 <table><tbody><tr><td><strong>Official name</strong></td><td>Maharaja Yadavindra Singh International Cricket Stadium</td></tr><tr><td><strong>Location</strong></td><td>Mullanpur, New Chandigarh (Punjab), outside the main city</td></tr><tr><td><strong>Home team</strong></td><td>Punjab Kings (IPL)</td></tr><tr><td><strong>Public parking</strong></td><td>Paid lots P4, P5 and P6; book on the Show My Parking app</td></tr><tr><td><strong>Gates</strong></td><td>About 16 gates reported; your gate is on your ticket</td></tr></tbody></table>
 
+## Name, location and capacity
+
+-   **Names:** the official name is the Maharaja Yadavindra Singh International Cricket Stadium. Fans and reports also call it the Mullanpur stadium, the New PCA stadium, or the PCA stadium at Mullanpur, after the Punjab Cricket Association that runs it.
+-   **Location:** Mullanpur, in the SAS Nagar (Mohali) district of Punjab, next to New Chandigarh. It is outside the main city, so plan extra travel time.
+-   **Not the Mohali stadium:** Punjab Kings used the older IS Bindra stadium in Mohali until 2023. Mullanpur is a separate, newer ground that staged its first IPL match in March 2024.
+-   **Capacity:** about 38,000 is the figure most reports give. Some sources say 33,000. We could not find an official figure.
+
+## Stands and seating
+
+We could not find an official seating chart, so we do not show a seat map. What reports describe:
+
+-   The stands rise in **three tiers**, with a walking terrace around the rim of the ground.
+-   One report lists six pavilions: **South, North, Players, Corporate, General West and General East**.
+-   Your **ticket shows your stand and block**. Use that, not the names above, to find your seat.
+-   Gate counts differ by report (10, 13 and 16 have all been given), so go to the gate printed on your ticket.
+
 ## How to reach Mullanpur stadium
 
 -   **By car / cab:** most fans drive or take a cab from Chandigarh, Mohali or Panchkula. Police have routed match traffic via the New Chandigarh flyover, with the new bypass reserved for official vehicles and some ticket categories. Expect long queues near the stadium, so leave early.
+-   **Roads in:** reports from the first matches name two main approaches for spectators, one from Sector 39 in Chandigarh and one from the Omaxe side. Roads via Dhanas and Togan villages, and the state highway from New Chandigarh and Kurali, have also been used. Spectators have reported slow traffic on match days, so leave early and check the police advisory.
 -   **Shuttle buses:** shuttle services have run for some major matches. Check the announcement for your match.
 
 <!-- ad:inarticle -->

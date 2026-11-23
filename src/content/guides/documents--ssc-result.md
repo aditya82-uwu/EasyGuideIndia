@@ -1,15 +1,27 @@
 ---
 legacyPath: "documents/ssc-result"
-title: "SSC Result: How to Check CGL, CHSL, MTS & GD Result"
-description: "Check SSC results for CGL, CHSL, MTS, GD and other exams on ssc.gov.in: find your roll number in the result PDF and download your scorecard."
+title: "SSC Result: Official ssc.gov.in Link for CGL, CHSL, MTS, GD"
+description: "Go straight to the official SSC result page on ssc.gov.in, then find your CGL, CHSL, MTS, GD or CPO result PDF and scorecard in a few steps."
 section: documents
 published: 2026-03-05
-updated: 2026-09-27
+updated: 2026-11-23
 faqs:
   - { q: "Where is the official SSC result published?", a: "Only on ssc.gov.in. Results on other websites are copies, so always verify on the official site." }
   - { q: "My roll number isn’t in the PDF. What does it mean?", a: "You haven’t cleared that stage’s cut-off. Check your marks when the scorecard is released." }
 ---
 The **Staff Selection Commission (SSC)** publishes results for CGL, CHSL, MTS, GD Constable, CPO, Stenographer, JE and other exams on its official website, **ssc.gov.in**. Results come out stage by stage (Tier 1, Tier 2, final) as PDFs listing the roll numbers of qualified candidates, and scorecards appear later in the candidate login. Here’s how to check.
+
+**Official result page: [ssc.gov.in/results](https://ssc.gov.in/results).** SSC publishes every result only there. This guide shows what to do once you open it.
+
+## Where each SSC result appears
+
+| Exam | Where to look on ssc.gov.in |
+| --- | --- |
+| CGL, CHSL, MTS, GD Constable, CPO, Stenographer, JE | Open **Results** and choose your exam from the list |
+| Tier 1, Tier 2, final result | Each stage is a separate PDF under the same exam |
+| Scorecard and marks | Candidate login, after SSC activates the link |
+
+SSC changes its page layout from time to time, so use the exam name in the list rather than a fixed menu path. We do not list result dates here because they change with every notice.
 
 ## How to check SSC result
 
