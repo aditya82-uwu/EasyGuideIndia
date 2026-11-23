@@ -1,16 +1,26 @@
 ---
 legacyPath: "finance/ipl-2026-ticket-gst-refund-rules-explained"
-title: "IPL 2027 Tickets: How to Book, 40% GST and Refund Rules"
-description: "How to book IPL tickets through the official partner, what 40% GST (since 22 Sep 2025) adds to the price, and refunds if a match is cancelled."
+title: "IPL 2027 Ticket Price and Booking: GST, Refunds, How to Book"
+description: "IPL 2027 ticket price and booking: sales have not opened, what IPL 2026 tickets cost, 40% GST on top, how to book with the official partner, and refunds."
 section: finance
 published: 2026-03-30
-updated: 2026-11-01
+updated: 2026-11-24
 faqs:
+  - { q: "How much do IPL 2027 tickets cost?", a: "There are no official IPL 2027 prices yet, because sales have not opened. Prices are set by each franchise and ticketing partner, by ground, match and stand. In IPL 2026, reported starting prices were about ₹1,700 at Chepauk and ₹2,800 for a Mumbai Indians match at Wankhede, with premium stands much higher. Treat these as indicative only." }
+  - { q: "When do IPL 2027 tickets go on sale?", a: "Not announced yet. Sales usually follow the fixture list and open in phases for each team's home matches. We will update this page when the IPL or a franchise announces dates." }
   - { q: "Why is GST on IPL tickets 40% but lower for other matches?", a: "The GST Council placed IPL-type events in the 40% “luxury and sin” slab. Recognised sporting events stay at 18%, with tickets up to ₹500 exempt." }
   - { q: "Can I claim GST input credit on IPL tickets?", a: "Generally no. Entertainment and admission expenses are blocked credits for most businesses under GST law." }
   - { q: "Does the 40% apply to IPL 2027 tickets too?", a: "Yes, unless the GST Council changes the rate. Check the tax shown at checkout. _Sources: [GST Council](https://gstcouncil.gov.in/), [CBIC](https://www.cbic.gov.in/), [IPL official website](https://www.iplt20.com/). General information, not tax advice. Always read the ticket terms on the official ticketing platform._" }
 ---
 IPL tickets carry 40% GST, in force since 22 September 2025 when the GST Council’s rate changes (GST 2.0) came in. The earlier rate was 28%. A ticket with a base price of ₹1,000 now costs ₹1,400 before booking fees. This guide explains how the tax is calculated, how it compares with other sports, how booking works and what happens to your money if a match is cancelled.
+
+## IPL 2027 ticket price and sale dates
+
+-   **Sales have not opened.** The IPL 2027 schedule has not been released, and ticket sales follow it. We will update this page when dates and prices are announced.
+-   **There is no official price list.** Prices are set by each franchise and its ticketing partner, ground by ground, match by match and stand by stand.
+-   **What IPL 2026 looked like.** Reported starting prices were about ₹1,700 at Chepauk and about ₹2,800 for a Mumbai Indians match at Wankhede. Figures for Eden Gardens varied between reports, and premium stands cost far more. Sources disagree, so use these only as a rough guide.
+-   **Where tickets were sold.** Mumbai Indians home tickets were on BookMyShow, and Rajasthan Royals' Guwahati matches on District by Zomato. Each franchise names its partner on its official site. Some grounds also required collecting physical tickets.
+-   **Add the tax.** The price shown is usually before 40% GST and the booking fee, so check the final amount on the payment page.
 
 ## GST rate on IPL tickets
 
