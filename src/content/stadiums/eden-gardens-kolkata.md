@@ -1,7 +1,7 @@
 ---
 legacySlug: "eden-gardens-kolkata-entry-rules-metro-parking-guide"
-title: "Eden Gardens IPL 2027 Guide: Metro, Parking & Rules"
-description: "Eden Gardens IPL 2027 guide: Esplanade metro, Eden Gardens station, no-parking zones on match days, KKR tickets and banned items."
+title: "Eden Gardens Nearest Metro, Parking & Rules (IPL 2027)"
+description: "Eden Gardens nearest metro station is Esplanade, about 1 km away. IPL 2027 guide to the Circular Railway station, no-parking zones, tickets and banned items."
 intro: "Eden Gardens in Kolkata is the home ground of Kolkata Knight Riders and the Cricket Association of Bengal. Kolkata Police restrict roads and parking around the ground on match days, so public transport is the practical choice: Esplanade metro station is about 1 km away, and Eden Gardens station on the Circular Railway is right by the ground. This guide covers road closures from earlier advisories, tickets and banned items, and we update it for IPL 2027."
 name: "Eden Gardens"
 officialName: "Eden Gardens"
@@ -10,8 +10,10 @@ state: "West Bengal"
 country: "India"
 homeTeam: "Kolkata Knight Riders"
 published: 2026-04-05
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "How far is Esplanade metro station from Eden Gardens?", a: "About 1 km, roughly a 9 to 10 minute walk. Esplanade is an interchange on the Kolkata Metro Blue and Green lines." }
+  - { q: "Where do buses stop near Eden Gardens on match days?", a: "On match days the bus stands at Band Stand and Auckland Road have been shifted to Kiran Shankar Roy Road and Esplanade Row East, near the Central Bus Terminus." }
   - { q: "Which metro station is nearest to Eden Gardens?", a: "Esplanade metro station. Eden Gardens railway station on the Circular Railway is even closer." }
   - { q: "Is there parking at Eden Gardens on match days?", a: "No. Kolkata Police bans parking on the surrounding roads and provides no parking near the ground, so use the metro, train or bus." }
 checked: 2026-11-01
@@ -29,7 +31,7 @@ _Kolkata Police announces restrictions before each match. Check the latest advis
 
 <table><tbody><tr><td><strong>Location</strong></td><td>Maidan / BBD Bagh area, Kolkata</td></tr><tr><td><strong>Home team</strong></td><td>Kolkata Knight Riders (IPL); Cricket Association of Bengal</td></tr><tr><td><strong>Nearest metro</strong></td><td>Esplanade (walkable)</td></tr><tr><td><strong>Nearest train</strong></td><td>Eden Gardens station (Kolkata Circular Railway)</td></tr><tr><td><strong>Parking</strong></td><td>No spectator parking near the ground on match days</td></tr></tbody></table>
 
-## How to reach Eden Gardens
+## Nearest metro station to Eden Gardens and how to reach it
 
 -   **Metro:** **Esplanade** is the most convenient metro station, a walk across the Maidan area to the ground.
 -   **Train:** **Eden Gardens** station on the Kolkata Circular Railway is right by the ground.

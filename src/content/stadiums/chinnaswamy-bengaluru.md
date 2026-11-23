@@ -1,7 +1,7 @@
 ---
 legacySlug: "m-chinnaswamy-stadium-bengaluru-entry-rules-parking-guide"
-title: "Chinnaswamy Stadium IPL 2027 Guide: Metro & Parking"
-description: "Chinnaswamy IPL 2027 guide: Cubbon Park and MG Road metro, 2026 parking at UB City and Shivajinagar, digital entry and banned items."
+title: "Chinnaswamy Stadium Nearest Metro & Parking (IPL 2027)"
+description: "Chinnaswamy Stadium nearest metro stations: Cubbon Park and MG Road on the Purple Line. IPL 2027 guide to parking, digital entry and banned items."
 intro: "M. Chinnaswamy Stadium in central Bengaluru is the home ground of Royal Challengers Bengaluru. The nearest metro stations are Cubbon Park and MG Road on the Purple Line. Police ban parking on most nearby roads on match days, and in IPL 2026 they listed UB City and Shivajinagar Bus Stand for parking. Reports said IPL 2026 entry was fully digital, with spectator numbers capped at about 28,000. This guide covers metro, parking, drop-off points and banned items."
 name: "M. Chinnaswamy Stadium"
 officialName: "M. Chinnaswamy Stadium"
@@ -10,8 +10,9 @@ state: "Karnataka"
 country: "India"
 homeTeam: "Royal Challengers Bengaluru"
 published: 2026-07-29
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "Are Cubbon Park and MG Road on the same line?", a: "Yes. Both are on Namma Metro's Purple Line and both are within walking distance of Chinnaswamy Stadium, so you can use either." }
   - { q: "Which metro station is nearest to Chinnaswamy Stadium?", a: "Cubbon Park and MG Road on the Purple Line are both within walking distance." }
   - { q: "Where can I park for an RCB match?", a: "At designated parking such as Freedom Park or UB City. Most roads around the stadium are no-parking zones on match days." }
 checked: 2026-11-01
@@ -30,7 +31,7 @@ _For IPL 2026, reports said entry was fully digital with QR tickets, spectator n
 
 <table><tbody><tr><td><strong>Location</strong></td><td>MG Road / Cubbon Road area, Bengaluru</td></tr><tr><td><strong>Home team</strong></td><td>Royal Challengers Bengaluru (IPL); KSCA</td></tr><tr><td><strong>Nearest metro</strong></td><td>Cubbon Park and MG Road (Purple Line)</td></tr><tr><td><strong>Parking</strong></td><td>UB City and Shivajinagar Bus Stand (2026 police list); Freedom Park in past seasons</td></tr><tr><td><strong>Cab / auto pick-up</strong></td><td>BRV Ground and Manekshaw Parade Ground in past seasons</td></tr></tbody></table>
 
-## How to reach Chinnaswamy Stadium
+## Nearest metro station to Chinnaswamy Stadium and how to reach it
 
 -   **Metro:** **Cubbon Park** and **MG Road** stations on Namma Metro’s Purple Line are both within walking distance.
 -   **Bus:** BMTC runs buses from the stadium after IPL matches.

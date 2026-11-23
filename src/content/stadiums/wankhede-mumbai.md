@@ -1,7 +1,7 @@
 ---
 legacySlug: "wankhede-stadium-mumbai-entry-rules-parking-guide"
-title: "Wankhede Stadium IPL 2027 Guide: Gates, Parking & Trains"
-description: "Wankhede IPL 2027 guide: no public parking, Churchgate and Marine Lines stations, Metro Line 3, BookMyShow tickets, gates and banned items."
+title: "Wankhede Stadium Nearest Station, Metro & Parking 2027"
+description: "Wankhede Stadium nearest station is Churchgate, a few minutes away, with Marine Lines close and Metro Line 3 at Churchgate. IPL 2027 gates and banned items."
 intro: "Wankhede Stadium in Churchgate, South Mumbai, is the home ground of Mumbai Indians. The ground has no public parking, so most fans arrive by Western Railway to Churchgate, a few minutes’ walk away, or to Marine Lines. Mumbai Metro Line 3 (Aqua Line) also serves the Churchgate area. This guide covers entry gates, tickets, parking and what you cannot carry in, based on IPL 2026 notices, and we update it when IPL 2027 details are announced."
 name: "Wankhede Stadium"
 officialName: "Wankhede Stadium"
@@ -10,8 +10,9 @@ state: "Maharashtra"
 country: "India"
 homeTeam: "Mumbai Indians"
 published: 2026-04-01
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "Is there a metro station near Wankhede Stadium?", a: "Yes. Mumbai Metro Line 3 (the Aqua Line) has a Churchgate station, close to the stadium. The Western Railway station at Churchgate is a few minutes' walk away, and Marine Lines is also close." }
   - { q: "Which station is nearest to Wankhede Stadium?", a: "Churchgate on the Western Railway, a few minutes’ walk. Marine Lines is also close." }
   - { q: "Is there parking at Wankhede Stadium?", a: "Not for the public. Use a local train, or park elsewhere in South Mumbai and take a cab." }
   - { q: "Are power banks allowed in Wankhede Stadium?", a: "No. Power banks are on the prohibited list, so charge your phone fully before you go." }
@@ -31,7 +32,7 @@ _Mumbai Traffic Police issues an advisory for Marine Drive and Churchgate before
 
 <table><tbody><tr><td><strong>Location</strong></td><td>D Road, Churchgate, Mumbai (next to Marine Drive)</td></tr><tr><td><strong>Home team</strong></td><td>Mumbai Indians (IPL); Mumbai Cricket Association</td></tr><tr><td><strong>Nearest train</strong></td><td>Churchgate (Western Railway), a few minutes’ walk; Marine Lines is also close</td></tr><tr><td><strong>Parking at stadium</strong></td><td>None for the public</td></tr><tr><td><strong>Tickets (IPL 2026)</strong></td><td>Through MI’s official ticketing partner (BookMyShow)</td></tr></tbody></table>
 
-## How to reach Wankhede Stadium
+## Nearest metro and railway station to Wankhede Stadium
 
 -   **Local train:** **Churchgate** (Western Railway) is the closest, a few minutes’ walk. **Marine Lines** is one stop before and also walkable. From Central Railway, get off at **CSMT** and take a cab or walk (about 20–25 minutes).
 -   **Metro:** Mumbai Metro Line 3 (Aqua Line) also serves the Churchgate area.

@@ -9,8 +9,10 @@ state: "Kerala"
 country: "India"
 homeTeam: "Kerala Blasters (ISL)"
 published: 2026-05-09
-updated: 2026-09-27
+updated: 2026-11-23
 faqs:
+  - { q: "What is the PIN code of JLN Stadium, Kaloor?", a: "682017 (Kaloor, Kochi)." }
+  - { q: "Is Kaloor Stadium the same as JLN Stadium?", a: "Yes. Kaloor Stadium is the common name for the Jawaharlal Nehru International Stadium in Kaloor, Kochi, and its Kochi Metro station is called JLN Stadium." }
   - { q: "Which metro station is nearest to Kaloor Stadium?", a: "JLN Stadium station on the Kochi Metro." }
   - { q: "Where can I park for a Kerala Blasters match?", a: "At the paid public parking on the Helipad Ground behind the stadium." }
 checked: 2026-11-01

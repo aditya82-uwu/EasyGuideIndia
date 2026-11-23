@@ -1,7 +1,7 @@
 ---
 legacySlug: "uppal-stadium-hyderabad-entry-gates-parking-guide-rgis"
-title: "Uppal Stadium IPL 2027 Guide: Metro, Parking & Rules"
-description: "Uppal Stadium IPL 2027 guide: Stadium metro station, the four police parking grounds, gate timing and the banned items police have listed."
+title: "Uppal Stadium Nearest Metro, Parking & Rules (IPL 2027)"
+description: "Uppal Stadium nearest metro station is Stadium on the Hyderabad Metro Blue Line. IPL 2027 guide to police parking grounds, gate timing and banned items."
 intro: "Rajiv Gandhi International Cricket Stadium in Uppal is the home ground of Sunrisers Hyderabad. Stadium station on the Hyderabad Metro Blue Line is the nearest metro, and police advise the metro and RTC buses on match days. Police designated four public parking areas within about 500 m of the ground: Penguin, TGIALA, DSL and Modern Bakery. This guide covers parking, entry and the items police have banned, including laptops, cameras and electronics."
 name: "Uppal Stadium"
 officialName: "Rajiv Gandhi International Stadium (Uppal)"
@@ -10,8 +10,9 @@ state: "Telangana"
 country: "India"
 homeTeam: "Sunrisers Hyderabad"
 published: 2026-05-17
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "Which metro line goes to Uppal Stadium?", a: "The Hyderabad Metro Blue Line. Take it to Stadium station, next to the ground. Uppal station on the same line is also close." }
   - { q: "Which metro station is nearest to Uppal Stadium?", a: "Stadium station on the Hyderabad Metro Blue Line, right next to the ground." }
   - { q: "Where can I park for an SRH match at Uppal?", a: "At the police-designated grounds within about 500 m: Penguin and TGIALA (towards Habsiguda), or DSL (opposite NSL) and Modern Bakery (towards Ramanthapur)." }
   - { q: "Can I carry a bag or pen into Uppal Stadium?", a: "No. Bags, pens, key chains and electronics are banned, and no cloakroom is reported." }
@@ -29,7 +30,7 @@ _Malkajgiri / Rachakonda traffic police issue an advisory before each IPL match.
 
 <table><tbody><tr><td><strong>Official name</strong></td><td>Rajiv Gandhi International Cricket Stadium, Uppal</td></tr><tr><td><strong>Home team</strong></td><td>Sunrisers Hyderabad (IPL); Hyderabad Cricket Association</td></tr><tr><td><strong>Nearest metro</strong></td><td>Stadium station (Blue Line); Uppal station is also close</td></tr><tr><td><strong>Gates open</strong></td><td>About 3 hours before the start (recent seasons)</td></tr><tr><td><strong>Tickets</strong></td><td>Check the ticket terms for your match</td></tr><tr><td><strong>Cloakroom</strong></td><td>Not reported. Leave banned items at home</td></tr></tbody></table>
 
-## How to reach Uppal Stadium
+## Nearest metro station to Uppal Stadium and how to reach it
 
 Take the **Hyderabad Metro Blue Line** to **Stadium** station, next to the ground. Traffic police strongly recommend the metro and TGSRTC buses on match days, as heavy vehicles are diverted and roads around Uppal get congested.
 

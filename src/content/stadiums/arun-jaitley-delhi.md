@@ -1,7 +1,7 @@
 ---
 legacySlug: "arun-jaitley-stadium-delhi-entry-rules-parking-guide"
-title: "Arun Jaitley Stadium IPL 2027 Guide: Metro, Parking, Gates"
-description: "Arun Jaitley Stadium IPL 2027 guide: Delhi Gate and ITO metro, free parking on Mata Sundari Road, which road leads to each gate, and banned items."
+title: "Arun Jaitley Stadium Nearest Metro & Parking (IPL 2027)"
+description: "Arun Jaitley Stadium (Feroz Shah Kotla) nearest metro station: Delhi Gate and ITO on the Violet Line. IPL 2027 gate-wise entry, parking and banned items."
 intro: "Arun Jaitley Stadium (formerly Feroz Shah Kotla) on Bahadur Shah Zafar Marg is the home ground of Delhi Capitals. Delhi Traffic Police advise using the Violet Line metro: Delhi Gate and ITO are the nearest stations. In IPL 2026, free public parking was set up on Mata Sundari Road, Rajghat Power House Road and Velodrome Road, and parking near the gates was only for vehicles with an official label. Below are the roads that lead to each gate and the roads to avoid."
 name: "Arun Jaitley Stadium"
 officialName: "Arun Jaitley Stadium (Feroz Shah Kotla)"
@@ -10,8 +10,10 @@ state: "Delhi"
 country: "India"
 homeTeam: "Delhi Capitals"
 published: 2026-04-07
-updated: 2026-11-01
+updated: 2026-11-23
 faqs:
+  - { q: "Which metro station is nearest to Feroz Shah Kotla stadium?", a: "Feroz Shah Kotla is the old name of Arun Jaitley Stadium. The nearest metro stations are Delhi Gate and ITO on the Violet Line." }
+  - { q: "Which metro station is nearest to Delhi cricket stadium?", a: "Delhi Gate on the Violet Line, a short walk from the gates on Bahadur Shah Zafar Marg. ITO on the same line is the other close station." }
   - { q: "Which is the nearest metro station to Arun Jaitley Stadium?", a: "Delhi Gate on the Violet Line, a short walk from the gates on Bahadur Shah Zafar Marg." }
   - { q: "Where can I park for a match at Arun Jaitley Stadium?", a: "Free public parking has been provided on Mata Sundari Road, Rajghat Power House Road and Velodrome Road. Parking near the gates is only for vehicles with official labels." }
   - { q: "How do I reach Gates 16, 17 and 18?", a: "Gates 16–18 are approached from Bahadur Shah Zafar Marg on the west side, near the petrol pump. Gates 10–15 are on the Jawaharlal Nehru Marg side, and Gates 1–8 are on BSZ Marg’s south side." }

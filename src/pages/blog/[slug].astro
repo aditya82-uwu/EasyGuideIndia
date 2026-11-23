@@ -54,7 +54,7 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
         <div class="prose-egi">
           {hasStructured && (
             <>
-              {d.transport && <><h2 id="getting-there">Getting there</h2><ul>{d.transport.map((t) => <li><strong>{t.name}.</strong> {t.detail}</li>)}</ul></>}
+              {d.transport && <><h2 id="getting-there">Nearest metro station and getting there</h2><ul>{d.transport.map((t) => <li><strong>{t.name}.</strong> {t.detail}</li>)}</ul></>}
               {d.parking && <><h2 id="parking">Parking</h2><ul>{d.parking.map((p) => <li><strong>{p.name}.</strong> {p.detail}</li>)}</ul></>}
               {(d.tickets || d.gates) && <><h2 id="tickets-and-gates">Tickets and gates</h2>{d.tickets && <p>{d.tickets}</p>}{d.gates && <p>{d.gates}</p>}</>}
               {d.banned && <><h2 id="not-allowed-inside">Not allowed inside</h2><ul>{d.banned.map((b) => <li>{b}</li>)}</ul>{d.carry && <p><strong>What to carry.</strong> {d.carry}</p>}</>}
@@ -73,7 +73,7 @@ const hasStructured = !!(d.transport || d.parking || d.tickets || d.gates || d.b
       <aside class="order-1 lg:order-2" aria-label="Summary">
         <div class="space-y-9 lg:sticky lg:top-8">
           {d.quick.length > 0 && <QuickAnswers items={d.quick} checked={d.checked} />}
-          <div class="hidden lg:block"><Toc headings={hasStructured ? [{ depth: 2, slug: 'getting-there', text: 'Getting there' }, { depth: 2, slug: 'parking', text: 'Parking' }, { depth: 2, slug: 'tickets-and-gates', text: 'Tickets and gates' }, { depth: 2, slug: 'not-allowed-inside', text: 'Not allowed inside' }] : headings} hasFaq={d.faqs.length > 0} /></div>
+          <div class="hidden lg:block"><Toc headings={hasStructured ? [{ depth: 2, slug: 'getting-there', text: 'Nearest metro station and getting there' }, { depth: 2, slug: 'parking', text: 'Parking' }, { depth: 2, slug: 'tickets-and-gates', text: 'Tickets and gates' }, { depth: 2, slug: 'not-allowed-inside', text: 'Not allowed inside' }] : headings} hasFaq={d.faqs.length > 0} /></div>
           <AdSlot kind="display" class="hidden lg:block" />
         </div>
       </aside>

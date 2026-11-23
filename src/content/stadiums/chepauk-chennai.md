@@ -1,7 +1,7 @@
 ---
 legacySlug: chepauk-stadium-chennai-entry-rules-parking-guide
-title: "Chepauk Stadium IPL 2027 Guide: Parking, Metro & Gates"
-description: "Chepauk IPL 2027 guide: Government Estate metro 200 m away, free metro for CSK ticket holders in 2026, Marina Beach parking, gates and banned items."
+title: "Chepauk Stadium Nearest Metro, Parking & Gates (IPL 2027)"
+description: "Chepauk Stadium nearest metro station is Government Estate, about 200 m away. IPL 2027 guide to free match-day metro, parking, gates and banned items."
 intro: "Chepauk Stadium (M. A. Chidambaram Stadium) in Chennai is the home ground of Chennai Super Kings. The nearest metro station is Government Estate, about a 200 m walk, and CSK ticket holders had free metro and MTC bus travel on match days in IPL 2026. Parking near the ground is very limited: without a car pass, fans parked on the Marina Beach service road and walked about 500 m. This guide covers gates, parking, tickets and banned items from earlier IPL seasons, and we update it when IPL 2027 notices appear."
 name: "Chepauk Stadium"
 officialName: "M. A. Chidambaram Stadium"
@@ -9,7 +9,7 @@ city: "Chennai"
 state: "Tamil Nadu"
 homeTeam: "Chennai Super Kings (IPL), Tamil Nadu Cricket Association"
 published: 2026-04-01
-updated: 2026-11-01
+updated: 2026-11-23
 checked: 2026-11-01
 quick:
   - { q: "Nearest metro", a: "Government Estate, about 200 m walk", tone: info }
@@ -39,6 +39,8 @@ banned:
   - "Crackers, flammable items, knives, razors, scissors, mirrors and glass items"
 carry: "Your mobile phone with the e-ticket, a small wallet, and a government photo ID in case it is asked for."
 faqs:
+  - { q: "What is the Chepauk metro station name?", a: "The nearest metro station is Government Estate on Chennai Metro, about a 200 metre walk from the stadium." }
+  - { q: "Which roads are the Chepauk Stadium gates on?", a: "Gates are spread around the ground on Wallajah Road, Victoria Hostel Road and Bells Road. Use the gate printed on your ticket." }
   - { q: "Which metro station is nearest to Chepauk Stadium?", a: "Government Estate metro station, about a 200 metre walk. Chepauk MRTS station is equally close." }
   - { q: "Is metro travel free with a CSK match ticket?", a: "For recent CSK home matches, yes: a valid match ticket has covered one free round trip to Government Estate on match day, plus free MTC bus travel. It is announced for each match, so confirm before you travel." }
   - { q: "Where can I park a car for a match at Chepauk?", a: "Without a car pass, park on the Marina Beach service road (reached via Kamarajar Salai) and walk about 500 metres through the subways. Car-pass holders must use the lot printed on their pass." }
